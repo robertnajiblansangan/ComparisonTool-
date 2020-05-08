@@ -1,0 +1,4032 @@
+{
+  "Message-PSACOPRAR": {
+    "#text": "    ",
+    "@ID": "PSACOPRAR",
+    "@Standard": "PFF",
+    "@Type": "Message",
+    "@XDataVersion": "2.0",
+    "GroupRecord-Container_Group": {
+      "Message-PSACOPRAR": {
+        "#text": "    ",
+        "@ID": "PSACOPRAR",
+        "@Standard": "PFF",
+        "@Type": "Message",
+        "@XDataVersion": "2.0",
+        "GroupRecord-Container_Group": [
+          {
+            "#text": "        ",
+            "@ID": "Container_Group",
+            "@Name": "Container_Group",
+            "@Type": "GroupRecord",
+            "Record-ContainerRec": {
+              "#text": "            ",
+              "@ID": "ContainerRec",
+              "@Name": "ContainerRec",
+              "@Type": "Record",
+              "Field-ArrExtVoy": {
+                "#text": "122S"
+              },
+              "Field-ArrVslCallSign": {},
+              "Field-ArrVslName": {
+                "#text": "OOCL GUANGZHOU"
+              },
+              "Field-BookingNo": {
+                "#text": "4105527559"
+              },
+              "Field-CargoDesc": {
+                "#text": "FROZEN FLATHEAD MULLET DRESS"
+              },
+              "Field-CntNo": {
+                "#text": "OOLU6280713"
+              },
+              "Field-CntRecordType": {
+                "#text": "COPRAR1"
+              },
+              "Field-DG": {
+                "#text": "N"
+              },
+              "Field-DSGHPort1": {
+                "#text": "VNDAD"
+              },
+              "Field-DSGHPort2": {},
+              "Field-DSGHPort3": {},
+              "Field-DirectDelivery": {},
+              "Field-ExtVoyNo": {
+                "#text": "018N"
+              },
+              "Field-FullEmpty": {
+                "#text": "F"
+              },
+              "Field-GrossWt": {},
+              "Field-HaulierCde": {},
+              "Field-IMCOClass1": {},
+              "Field-IMCOClass2": {},
+              "Field-IMCOClass3": {},
+              "Field-IMCOClass4": {},
+              "Field-IMCOClass5": {},
+              "Field-IMCOClass6": {},
+              "Field-IMCOClass7": {},
+              "Field-IMCOClass8": {},
+              "Field-IMCOClass9": {},
+              "Field-InslotOperCode": {
+                "#text": "OR"
+              },
+              "Field-LoadPort": {
+                "#text": "JPUKB"
+              },
+              "Field-OHeight": {},
+              "Field-OLBack": {},
+              "Field-OLFront": {},
+              "Field-OWLeft": {},
+              "Field-OWRight": {},
+              "Field-OpenTsStatus": {
+                "#text": "N"
+              },
+              "Field-OutSlotOperCode": {
+                "#text": "MG"
+              },
+              "Field-RULabel": {},
+              "Field-ReeferTempMax": {},
+              "Field-SealNo": {
+                "#text": "OOLEGZ3975"
+              },
+              "Field-SecondCarrier": {
+                "#text": "AISOPOS II"
+              },
+              "Field-Service": {
+                "#text": "KTX3"
+              },
+              "Field-SizeType": {
+                "#text": "40RQ"
+              },
+              "Field-SpecialInst1": {},
+              "Field-SpecialInst2": {},
+              "Field-SpecialInst3": {},
+              "Field-SpecialInst4": {},
+              "Field-SpecialInst5": {},
+              "Field-TSHStatus": {
+                "#text": "Y"
+              },
+              "Field-TempSetting": {
+                "#text": "-020.00"
+              },
+              "Field-TempUnit": {
+                "#text": "C"
+              },
+              "Field-TransInd": {},
+              "Field-TransType": {},
+              "Field-UltiDest": {},
+              "Field-VGM": {
+                "#text": "29600"
+              },
+              "Field-VGMAuthorizedOfficial": {},
+              "Field-VGMReferenceNumber": {},
+              "Field-VGMWeightedDate": {},
+              "Field-VGMWeightedMethod": {},
+              "Field-VentSet": {
+                "#text": "0M"
+              },
+              "Field-Vessel": {
+                "#text": "OGZ"
+              },
+              "Field-Voyage": {
+                "#text": "122South"
+              }
+            }
+          },
+          {
+            "#text": "        ",
+            "@ID": "Container_Group",
+            "@Name": "Container_Group",
+            "@Type": "GroupRecord",
+            "Record-ContainerRec": {
+              "#text": "            ",
+              "@ID": "ContainerRec",
+              "@Name": "ContainerRec",
+              "@Type": "Record",
+              "Field-ArrExtVoy": {
+                "#text": "122S"
+              },
+              "Field-ArrVslCallSign": {},
+              "Field-ArrVslName": {
+                "#text": "OOCL GUANGZHOU"
+              },
+              "Field-BookingNo": {
+                "#text": "4105527550"
+              },
+              "Field-CargoDesc": {
+                "#text": "FROZEN FLATHEAD MULLET DRESS"
+              },
+              "Field-CntNo": {
+                "#text": "OOLU6220798"
+              },
+              "Field-CntRecordType": {
+                "#text": "COPRAR1"
+              },
+              "Field-DG": {
+                "#text": "N"
+              },
+              "Field-DSGHPort1": {
+                "#text": "VNDAD"
+              },
+              "Field-DSGHPort2": {},
+              "Field-DSGHPort3": {},
+              "Field-DirectDelivery": {},
+              "Field-ExtVoyNo": {
+                "#text": "018N"
+              },
+              "Field-FullEmpty": {
+                "#text": "F"
+              },
+              "Field-GrossWt": {},
+              "Field-HaulierCde": {},
+              "Field-IMCOClass1": {},
+              "Field-IMCOClass2": {},
+              "Field-IMCOClass3": {},
+              "Field-IMCOClass4": {},
+              "Field-IMCOClass5": {},
+              "Field-IMCOClass6": {},
+              "Field-IMCOClass7": {},
+              "Field-IMCOClass8": {},
+              "Field-IMCOClass9": {},
+              "Field-InslotOperCode": {
+                "#text": "OR"
+              },
+              "Field-LoadPort": {
+                "#text": "JPUKB"
+              },
+              "Field-OHeight": {},
+              "Field-OLBack": {},
+              "Field-OLFront": {},
+              "Field-OWLeft": {},
+              "Field-OWRight": {},
+              "Field-OpenTsStatus": {
+                "#text": "N"
+              },
+              "Field-OutSlotOperCode": {
+                "#text": "MG"
+              },
+              "Field-RULabel": {},
+              "Field-ReeferTempMax": {},
+              "Field-SealNo": {
+                "#text": "OOLEGZ3969"
+              },
+              "Field-SecondCarrier": {
+                "#text": "AISOPOS II"
+              },
+              "Field-Service": {
+                "#text": "KTX3"
+              },
+              "Field-SizeType": {
+                "#text": "40RQ"
+              },
+              "Field-SpecialInst1": {},
+              "Field-SpecialInst2": {},
+              "Field-SpecialInst3": {},
+              "Field-SpecialInst4": {},
+              "Field-SpecialInst5": {},
+              "Field-TSHStatus": {
+                "#text": "Y"
+              },
+              "Field-TempSetting": {
+                "#text": "-020.00"
+              },
+              "Field-TempUnit": {
+                "#text": "C"
+              },
+              "Field-TransInd": {},
+              "Field-TransType": {},
+              "Field-UltiDest": {},
+              "Field-VGM": {
+                "#text": "29630"
+              },
+              "Field-VGMAuthorizedOfficial": {},
+              "Field-VGMReferenceNumber": {},
+              "Field-VGMWeightedDate": {},
+              "Field-VGMWeightedMethod": {},
+              "Field-VentSet": {
+                "#text": "0M"
+              },
+              "Field-Vessel": {
+                "#text": "OGZ"
+              },
+              "Field-Voyage": {
+                "#text": "122South"
+              }
+            }
+          },
+          {
+            "#text": "        ",
+            "@ID": "Container_Group",
+            "@Name": "Container_Group",
+            "@Type": "GroupRecord",
+            "Record-ContainerRec": {
+              "#text": "            ",
+              "@ID": "ContainerRec",
+              "@Name": "ContainerRec",
+              "@Type": "Record",
+              "Field-ArrExtVoy": {
+                "#text": "163W"
+              },
+              "Field-ArrVslCallSign": {},
+              "Field-ArrVslName": {
+                "#text": "EVER URSULA"
+              },
+              "Field-BookingNo": {
+                "#text": "2636250150"
+              },
+              "Field-CargoDesc": {
+                "#text": "SATAKE RICE MILLING MACHINERY  AND SPARE PARTS"
+              },
+              "Field-CntNo": {
+                "#text": "OOLU2837420"
+              },
+              "Field-CntRecordType": {
+                "#text": "COPRAR1"
+              },
+              "Field-DG": {
+                "#text": "N"
+              },
+              "Field-DSGHPort1": {
+                "#text": "INCCU"
+              },
+              "Field-DSGHPort2": {},
+              "Field-DSGHPort3": {},
+              "Field-DirectDelivery": {},
+              "Field-ExtVoyNo": {
+                "#text": "0098W"
+              },
+              "Field-FullEmpty": {
+                "#text": "F"
+              },
+              "Field-GrossWt": {},
+              "Field-HaulierCde": {},
+              "Field-IMCOClass1": {},
+              "Field-IMCOClass2": {},
+              "Field-IMCOClass3": {},
+              "Field-IMCOClass4": {},
+              "Field-IMCOClass5": {},
+              "Field-IMCOClass6": {},
+              "Field-IMCOClass7": {},
+              "Field-IMCOClass8": {},
+              "Field-IMCOClass9": {},
+              "Field-InslotOperCode": {
+                "#text": "OR"
+              },
+              "Field-LoadPort": {
+                "#text": "CNSHA"
+              },
+              "Field-OHeight": {},
+              "Field-OLBack": {},
+              "Field-OLFront": {},
+              "Field-OWLeft": {},
+              "Field-OWRight": {},
+              "Field-OpenTsStatus": {
+                "#text": "N"
+              },
+              "Field-OutSlotOperCode": {
+                "#text": "SA"
+              },
+              "Field-RULabel": {},
+              "Field-ReeferTempMax": {},
+              "Field-SealNo": {
+                "#text": "OOLFZZ0792"
+              },
+              "Field-SecondCarrier": {
+                "#text": "KOTA TENAGA"
+              },
+              "Field-Service": {
+                "#text": "PMX"
+              },
+              "Field-SizeType": {
+                "#text": "20GP"
+              },
+              "Field-SpecialInst1": {},
+              "Field-SpecialInst2": {},
+              "Field-SpecialInst3": {},
+              "Field-SpecialInst4": {},
+              "Field-SpecialInst5": {},
+              "Field-TSHStatus": {
+                "#text": "Y"
+              },
+              "Field-TempSetting": {},
+              "Field-TempUnit": {},
+              "Field-TransInd": {},
+              "Field-TransType": {},
+              "Field-UltiDest": {},
+              "Field-VGM": {
+                "#text": "3720"
+              },
+              "Field-VGMAuthorizedOfficial": {},
+              "Field-VGMReferenceNumber": {},
+              "Field-VGMWeightedDate": {},
+              "Field-VGMWeightedMethod": {
+                "#text": "Method2"
+              },
+              "Field-VentSet": {},
+              "Field-Vessel": {
+                "#text": "EUL"
+              },
+              "Field-Voyage": {
+                "#text": "163West"
+              }
+            }
+          },
+          {
+            "#text": "        ",
+            "@ID": "Container_Group",
+            "@Name": "Container_Group",
+            "@Type": "GroupRecord",
+            "Record-ContainerRec": {
+              "#text": "            ",
+              "@ID": "ContainerRec",
+              "@Name": "ContainerRec",
+              "@Type": "Record",
+              "Field-ArrExtVoy": {
+                "#text": "0PG6LE1M"
+              },
+              "Field-ArrVslCallSign": {},
+              "Field-ArrVslName": {
+                "#text": "GULF BRIDGE"
+              },
+              "Field-BookingNo": {
+                "#text": "4049307710"
+              },
+              "Field-CargoDesc": {
+                "#text": "WIND TOWER FIXTURES C/W ACCESSORIES"
+              },
+              "Field-CntNo": {
+                "#text": "BMOU5050454"
+              },
+              "Field-CntRecordType": {
+                "#text": "COPRAR1"
+              },
+              "Field-DG": {
+                "#text": "N"
+              },
+              "Field-DSGHPort1": {
+                "#text": "MYKUA"
+              },
+              "Field-DSGHPort2": {},
+              "Field-DSGHPort3": {},
+              "Field-DirectDelivery": {},
+              "Field-ExtVoyNo": {
+                "#text": "486N"
+              },
+              "Field-FullEmpty": {
+                "#text": "F"
+              },
+              "Field-GrossWt": {},
+              "Field-HaulierCde": {},
+              "Field-IMCOClass1": {},
+              "Field-IMCOClass2": {},
+              "Field-IMCOClass3": {},
+              "Field-IMCOClass4": {},
+              "Field-IMCOClass5": {},
+              "Field-IMCOClass6": {},
+              "Field-IMCOClass7": {},
+              "Field-IMCOClass8": {},
+              "Field-IMCOClass9": {},
+              "Field-InslotOperCode": {
+                "#text": "OR"
+              },
+              "Field-LoadPort": {
+                "#text": "USHOU"
+              },
+              "Field-OHeight": {},
+              "Field-OLBack": {},
+              "Field-OLFront": {},
+              "Field-OWLeft": {},
+              "Field-OWRight": {},
+              "Field-OpenTsStatus": {
+                "#text": "N"
+              },
+              "Field-OutSlotOperCode": {
+                "#text": "SA"
+              },
+              "Field-RULabel": {},
+              "Field-ReeferTempMax": {},
+              "Field-SealNo": {
+                "#text": "99590"
+              },
+              "Field-SecondCarrier": {
+                "#text": "SINAR BIMA"
+              },
+              "Field-Service": {
+                "#text": "GCC1"
+              },
+              "Field-SizeType": {
+                "#text": "40HQ"
+              },
+              "Field-SpecialInst1": {},
+              "Field-SpecialInst2": {},
+              "Field-SpecialInst3": {},
+              "Field-SpecialInst4": {},
+              "Field-SpecialInst5": {},
+              "Field-TSHStatus": {
+                "#text": "Y"
+              },
+              "Field-TempSetting": {},
+              "Field-TempUnit": {},
+              "Field-TransInd": {},
+              "Field-TransType": {},
+              "Field-UltiDest": {},
+              "Field-VGM": {
+                "#text": "24521"
+              },
+              "Field-VGMAuthorizedOfficial": {},
+              "Field-VGMReferenceNumber": {},
+              "Field-VGMWeightedDate": {},
+              "Field-VGMWeightedMethod": {},
+              "Field-VentSet": {},
+              "Field-Vessel": {
+                "#text": "GLG"
+              },
+              "Field-Voyage": {
+                "#text": "001West"
+              }
+            }
+          },
+          {
+            "#text": "        ",
+            "@ID": "Container_Group",
+            "@Name": "Container_Group",
+            "@Type": "GroupRecord",
+            "Record-ContainerRec": {
+              "#text": "            ",
+              "@ID": "ContainerRec",
+              "@Name": "ContainerRec",
+              "@Type": "Record",
+              "Field-ArrExtVoy": {
+                "#text": "0PG6LE1M"
+              },
+              "Field-ArrVslCallSign": {},
+              "Field-ArrVslName": {
+                "#text": "GULF BRIDGE"
+              },
+              "Field-BookingNo": {
+                "#text": "4049307710"
+              },
+              "Field-CargoDesc": {
+                "#text": "WIND TOWER FIXTURES C/W ACCESSORIES"
+              },
+              "Field-CntNo": {
+                "#text": "DFSU7279879"
+              },
+              "Field-CntRecordType": {
+                "#text": "COPRAR1"
+              },
+              "Field-DG": {
+                "#text": "N"
+              },
+              "Field-DSGHPort1": {
+                "#text": "MYKUA"
+              },
+              "Field-DSGHPort2": {},
+              "Field-DSGHPort3": {},
+              "Field-DirectDelivery": {},
+              "Field-ExtVoyNo": {
+                "#text": "486N"
+              },
+              "Field-FullEmpty": {
+                "#text": "F"
+              },
+              "Field-GrossWt": {},
+              "Field-HaulierCde": {},
+              "Field-IMCOClass1": {},
+              "Field-IMCOClass2": {},
+              "Field-IMCOClass3": {},
+              "Field-IMCOClass4": {},
+              "Field-IMCOClass5": {},
+              "Field-IMCOClass6": {},
+              "Field-IMCOClass7": {},
+              "Field-IMCOClass8": {},
+              "Field-IMCOClass9": {},
+              "Field-InslotOperCode": {
+                "#text": "OR"
+              },
+              "Field-LoadPort": {
+                "#text": "USHOU"
+              },
+              "Field-OHeight": {},
+              "Field-OLBack": {},
+              "Field-OLFront": {},
+              "Field-OWLeft": {},
+              "Field-OWRight": {},
+              "Field-OpenTsStatus": {
+                "#text": "N"
+              },
+              "Field-OutSlotOperCode": {
+                "#text": "SA"
+              },
+              "Field-RULabel": {},
+              "Field-ReeferTempMax": {},
+              "Field-SealNo": {
+                "#text": "99637"
+              },
+              "Field-SecondCarrier": {
+                "#text": "SINAR BIMA"
+              },
+              "Field-Service": {
+                "#text": "GCC1"
+              },
+              "Field-SizeType": {
+                "#text": "40HQ"
+              },
+              "Field-SpecialInst1": {},
+              "Field-SpecialInst2": {},
+              "Field-SpecialInst3": {},
+              "Field-SpecialInst4": {},
+              "Field-SpecialInst5": {},
+              "Field-TSHStatus": {
+                "#text": "Y"
+              },
+              "Field-TempSetting": {},
+              "Field-TempUnit": {},
+              "Field-TransInd": {},
+              "Field-TransType": {},
+              "Field-UltiDest": {},
+              "Field-VGM": {
+                "#text": "25084"
+              },
+              "Field-VGMAuthorizedOfficial": {},
+              "Field-VGMReferenceNumber": {},
+              "Field-VGMWeightedDate": {},
+              "Field-VGMWeightedMethod": {},
+              "Field-VentSet": {},
+              "Field-Vessel": {
+                "#text": "GLG"
+              },
+              "Field-Voyage": {
+                "#text": "001West"
+              }
+            }
+          },
+          {
+            "#text": "        ",
+            "@ID": "Container_Group",
+            "@Name": "Container_Group",
+            "@Type": "GroupRecord",
+            "Record-ContainerRec": {
+              "#text": "            ",
+              "@ID": "ContainerRec",
+              "@Name": "ContainerRec",
+              "@Type": "Record",
+              "Field-ArrExtVoy": {
+                "#text": "0PG6LE1M"
+              },
+              "Field-ArrVslCallSign": {},
+              "Field-ArrVslName": {
+                "#text": "GULF BRIDGE"
+              },
+              "Field-BookingNo": {
+                "#text": "4049307710"
+              },
+              "Field-CargoDesc": {
+                "#text": "WIND TOWER FIXTURES C/W ACCESSORIES"
+              },
+              "Field-CntNo": {
+                "#text": "OOCU7602187"
+              },
+              "Field-CntRecordType": {
+                "#text": "COPRAR1"
+              },
+              "Field-DG": {
+                "#text": "N"
+              },
+              "Field-DSGHPort1": {
+                "#text": "MYKUA"
+              },
+              "Field-DSGHPort2": {},
+              "Field-DSGHPort3": {},
+              "Field-DirectDelivery": {},
+              "Field-ExtVoyNo": {
+                "#text": "486N"
+              },
+              "Field-FullEmpty": {
+                "#text": "F"
+              },
+              "Field-GrossWt": {},
+              "Field-HaulierCde": {},
+              "Field-IMCOClass1": {},
+              "Field-IMCOClass2": {},
+              "Field-IMCOClass3": {},
+              "Field-IMCOClass4": {},
+              "Field-IMCOClass5": {},
+              "Field-IMCOClass6": {},
+              "Field-IMCOClass7": {},
+              "Field-IMCOClass8": {},
+              "Field-IMCOClass9": {},
+              "Field-InslotOperCode": {
+                "#text": "OR"
+              },
+              "Field-LoadPort": {
+                "#text": "USHOU"
+              },
+              "Field-OHeight": {},
+              "Field-OLBack": {},
+              "Field-OLFront": {},
+              "Field-OWLeft": {},
+              "Field-OWRight": {},
+              "Field-OpenTsStatus": {
+                "#text": "N"
+              },
+              "Field-OutSlotOperCode": {
+                "#text": "SA"
+              },
+              "Field-RULabel": {},
+              "Field-ReeferTempMax": {},
+              "Field-SealNo": {
+                "#text": "99580"
+              },
+              "Field-SecondCarrier": {
+                "#text": "SINAR BIMA"
+              },
+              "Field-Service": {
+                "#text": "GCC1"
+              },
+              "Field-SizeType": {
+                "#text": "40HQ"
+              },
+              "Field-SpecialInst1": {},
+              "Field-SpecialInst2": {},
+              "Field-SpecialInst3": {},
+              "Field-SpecialInst4": {},
+              "Field-SpecialInst5": {},
+              "Field-TSHStatus": {
+                "#text": "Y"
+              },
+              "Field-TempSetting": {},
+              "Field-TempUnit": {},
+              "Field-TransInd": {},
+              "Field-TransType": {},
+              "Field-UltiDest": {},
+              "Field-VGM": {
+                "#text": "27261"
+              },
+              "Field-VGMAuthorizedOfficial": {},
+              "Field-VGMReferenceNumber": {},
+              "Field-VGMWeightedDate": {},
+              "Field-VGMWeightedMethod": {},
+              "Field-VentSet": {},
+              "Field-Vessel": {
+                "#text": "GLG"
+              },
+              "Field-Voyage": {
+                "#text": "001West"
+              }
+            }
+          },
+          {
+            "#text": "        ",
+            "@ID": "Container_Group",
+            "@Name": "Container_Group",
+            "@Type": "GroupRecord",
+            "Record-ContainerRec": {
+              "#text": "            ",
+              "@ID": "ContainerRec",
+              "@Name": "ContainerRec",
+              "@Type": "Record",
+              "Field-ArrExtVoy": {
+                "#text": "0PG6LE1M"
+              },
+              "Field-ArrVslCallSign": {},
+              "Field-ArrVslName": {
+                "#text": "GULF BRIDGE"
+              },
+              "Field-BookingNo": {
+                "#text": "4049307710"
+              },
+              "Field-CargoDesc": {
+                "#text": "WIND TOWER FIXTURES C/W ACCESSORIES"
+              },
+              "Field-CntNo": {
+                "#text": "OOCU6978797"
+              },
+              "Field-CntRecordType": {
+                "#text": "COPRAR1"
+              },
+              "Field-DG": {
+                "#text": "N"
+              },
+              "Field-DSGHPort1": {
+                "#text": "MYKUA"
+              },
+              "Field-DSGHPort2": {},
+              "Field-DSGHPort3": {},
+              "Field-DirectDelivery": {},
+              "Field-ExtVoyNo": {
+                "#text": "486N"
+              },
+              "Field-FullEmpty": {
+                "#text": "F"
+              },
+              "Field-GrossWt": {},
+              "Field-HaulierCde": {},
+              "Field-IMCOClass1": {},
+              "Field-IMCOClass2": {},
+              "Field-IMCOClass3": {},
+              "Field-IMCOClass4": {},
+              "Field-IMCOClass5": {},
+              "Field-IMCOClass6": {},
+              "Field-IMCOClass7": {},
+              "Field-IMCOClass8": {},
+              "Field-IMCOClass9": {},
+              "Field-InslotOperCode": {
+                "#text": "OR"
+              },
+              "Field-LoadPort": {
+                "#text": "USHOU"
+              },
+              "Field-OHeight": {},
+              "Field-OLBack": {},
+              "Field-OLFront": {},
+              "Field-OWLeft": {},
+              "Field-OWRight": {},
+              "Field-OpenTsStatus": {
+                "#text": "N"
+              },
+              "Field-OutSlotOperCode": {
+                "#text": "SA"
+              },
+              "Field-RULabel": {},
+              "Field-ReeferTempMax": {},
+              "Field-SealNo": {
+                "#text": "99579"
+              },
+              "Field-SecondCarrier": {
+                "#text": "SINAR BIMA"
+              },
+              "Field-Service": {
+                "#text": "GCC1"
+              },
+              "Field-SizeType": {
+                "#text": "40HQ"
+              },
+              "Field-SpecialInst1": {},
+              "Field-SpecialInst2": {},
+              "Field-SpecialInst3": {},
+              "Field-SpecialInst4": {},
+              "Field-SpecialInst5": {},
+              "Field-TSHStatus": {
+                "#text": "Y"
+              },
+              "Field-TempSetting": {},
+              "Field-TempUnit": {},
+              "Field-TransInd": {},
+              "Field-TransType": {},
+              "Field-UltiDest": {},
+              "Field-VGM": {
+                "#text": "26916"
+              },
+              "Field-VGMAuthorizedOfficial": {},
+              "Field-VGMReferenceNumber": {},
+              "Field-VGMWeightedDate": {},
+              "Field-VGMWeightedMethod": {},
+              "Field-VentSet": {},
+              "Field-Vessel": {
+                "#text": "GLG"
+              },
+              "Field-Voyage": {
+                "#text": "001West"
+              }
+            }
+          },
+          {
+            "#text": "        ",
+            "@ID": "Container_Group",
+            "@Name": "Container_Group",
+            "@Type": "GroupRecord",
+            "Record-ContainerRec": {
+              "#text": "            ",
+              "@ID": "ContainerRec",
+              "@Name": "ContainerRec",
+              "@Type": "Record",
+              "Field-ArrExtVoy": {
+                "#text": "0PG6LE1M"
+              },
+              "Field-ArrVslCallSign": {},
+              "Field-ArrVslName": {
+                "#text": "GULF BRIDGE"
+              },
+              "Field-BookingNo": {
+                "#text": "4049307710"
+              },
+              "Field-CargoDesc": {
+                "#text": "WIND TOWER FIXTURES C/W ACCESSORIES"
+              },
+              "Field-CntNo": {
+                "#text": "OOLU9311150"
+              },
+              "Field-CntRecordType": {
+                "#text": "COPRAR1"
+              },
+              "Field-DG": {
+                "#text": "N"
+              },
+              "Field-DSGHPort1": {
+                "#text": "MYKUA"
+              },
+              "Field-DSGHPort2": {},
+              "Field-DSGHPort3": {},
+              "Field-DirectDelivery": {},
+              "Field-ExtVoyNo": {
+                "#text": "486N"
+              },
+              "Field-FullEmpty": {
+                "#text": "F"
+              },
+              "Field-GrossWt": {},
+              "Field-HaulierCde": {},
+              "Field-IMCOClass1": {},
+              "Field-IMCOClass2": {},
+              "Field-IMCOClass3": {},
+              "Field-IMCOClass4": {},
+              "Field-IMCOClass5": {},
+              "Field-IMCOClass6": {},
+              "Field-IMCOClass7": {},
+              "Field-IMCOClass8": {},
+              "Field-IMCOClass9": {},
+              "Field-InslotOperCode": {
+                "#text": "OR"
+              },
+              "Field-LoadPort": {
+                "#text": "USHOU"
+              },
+              "Field-OHeight": {},
+              "Field-OLBack": {},
+              "Field-OLFront": {},
+              "Field-OWLeft": {},
+              "Field-OWRight": {},
+              "Field-OpenTsStatus": {
+                "#text": "N"
+              },
+              "Field-OutSlotOperCode": {
+                "#text": "SA"
+              },
+              "Field-RULabel": {},
+              "Field-ReeferTempMax": {},
+              "Field-SealNo": {
+                "#text": "99581"
+              },
+              "Field-SecondCarrier": {
+                "#text": "SINAR BIMA"
+              },
+              "Field-Service": {
+                "#text": "GCC1"
+              },
+              "Field-SizeType": {
+                "#text": "40HQ"
+              },
+              "Field-SpecialInst1": {},
+              "Field-SpecialInst2": {},
+              "Field-SpecialInst3": {},
+              "Field-SpecialInst4": {},
+              "Field-SpecialInst5": {},
+              "Field-TSHStatus": {
+                "#text": "Y"
+              },
+              "Field-TempSetting": {},
+              "Field-TempUnit": {},
+              "Field-TransInd": {},
+              "Field-TransType": {},
+              "Field-UltiDest": {},
+              "Field-VGM": {
+                "#text": "23251"
+              },
+              "Field-VGMAuthorizedOfficial": {},
+              "Field-VGMReferenceNumber": {},
+              "Field-VGMWeightedDate": {},
+              "Field-VGMWeightedMethod": {},
+              "Field-VentSet": {},
+              "Field-Vessel": {
+                "#text": "GLG"
+              },
+              "Field-Voyage": {
+                "#text": "001West"
+              }
+            }
+          },
+          {
+            "#text": "        ",
+            "@ID": "Container_Group",
+            "@Name": "Container_Group",
+            "@Type": "GroupRecord",
+            "Record-ContainerRec": {
+              "#text": "            ",
+              "@ID": "ContainerRec",
+              "@Name": "ContainerRec",
+              "@Type": "Record",
+              "Field-ArrExtVoy": {
+                "#text": "0PG6LE1M"
+              },
+              "Field-ArrVslCallSign": {},
+              "Field-ArrVslName": {
+                "#text": "GULF BRIDGE"
+              },
+              "Field-BookingNo": {
+                "#text": "4049307710"
+              },
+              "Field-CargoDesc": {
+                "#text": "WIND TOWER FIXTURES C/W ACCESSORIES"
+              },
+              "Field-CntNo": {
+                "#text": "SEGU6909623"
+              },
+              "Field-CntRecordType": {
+                "#text": "COPRAR1"
+              },
+              "Field-DG": {
+                "#text": "N"
+              },
+              "Field-DSGHPort1": {
+                "#text": "MYKUA"
+              },
+              "Field-DSGHPort2": {},
+              "Field-DSGHPort3": {},
+              "Field-DirectDelivery": {},
+              "Field-ExtVoyNo": {
+                "#text": "486N"
+              },
+              "Field-FullEmpty": {
+                "#text": "F"
+              },
+              "Field-GrossWt": {},
+              "Field-HaulierCde": {},
+              "Field-IMCOClass1": {},
+              "Field-IMCOClass2": {},
+              "Field-IMCOClass3": {},
+              "Field-IMCOClass4": {},
+              "Field-IMCOClass5": {},
+              "Field-IMCOClass6": {},
+              "Field-IMCOClass7": {},
+              "Field-IMCOClass8": {},
+              "Field-IMCOClass9": {},
+              "Field-InslotOperCode": {
+                "#text": "OR"
+              },
+              "Field-LoadPort": {
+                "#text": "USHOU"
+              },
+              "Field-OHeight": {},
+              "Field-OLBack": {},
+              "Field-OLFront": {},
+              "Field-OWLeft": {},
+              "Field-OWRight": {},
+              "Field-OpenTsStatus": {
+                "#text": "N"
+              },
+              "Field-OutSlotOperCode": {
+                "#text": "SA"
+              },
+              "Field-RULabel": {},
+              "Field-ReeferTempMax": {},
+              "Field-SealNo": {
+                "#text": "99636"
+              },
+              "Field-SecondCarrier": {
+                "#text": "SINAR BIMA"
+              },
+              "Field-Service": {
+                "#text": "GCC1"
+              },
+              "Field-SizeType": {
+                "#text": "40HQ"
+              },
+              "Field-SpecialInst1": {},
+              "Field-SpecialInst2": {},
+              "Field-SpecialInst3": {},
+              "Field-SpecialInst4": {},
+              "Field-SpecialInst5": {},
+              "Field-TSHStatus": {
+                "#text": "Y"
+              },
+              "Field-TempSetting": {},
+              "Field-TempUnit": {},
+              "Field-TransInd": {},
+              "Field-TransType": {},
+              "Field-UltiDest": {},
+              "Field-VGM": {
+                "#text": "22416"
+              },
+              "Field-VGMAuthorizedOfficial": {},
+              "Field-VGMReferenceNumber": {},
+              "Field-VGMWeightedDate": {},
+              "Field-VGMWeightedMethod": {},
+              "Field-VentSet": {},
+              "Field-Vessel": {
+                "#text": "GLG"
+              },
+              "Field-Voyage": {
+                "#text": "001West"
+              }
+            }
+          },
+          {
+            "#text": "        ",
+            "@ID": "Container_Group",
+            "@Name": "Container_Group",
+            "@Type": "GroupRecord",
+            "Record-ContainerRec": {
+              "#text": "            ",
+              "@ID": "ContainerRec",
+              "@Name": "ContainerRec",
+              "@Type": "Record",
+              "Field-ArrExtVoy": {
+                "#text": "0PG6LE1M"
+              },
+              "Field-ArrVslCallSign": {},
+              "Field-ArrVslName": {
+                "#text": "GULF BRIDGE"
+              },
+              "Field-BookingNo": {
+                "#text": "4049307710"
+              },
+              "Field-CargoDesc": {
+                "#text": "WIND TOWER FIXTURES C/W ACCESSORIES"
+              },
+              "Field-CntNo": {
+                "#text": "CSNU6817359"
+              },
+              "Field-CntRecordType": {
+                "#text": "COPRAR1"
+              },
+              "Field-DG": {
+                "#text": "N"
+              },
+              "Field-DSGHPort1": {
+                "#text": "MYKUA"
+              },
+              "Field-DSGHPort2": {},
+              "Field-DSGHPort3": {},
+              "Field-DirectDelivery": {},
+              "Field-ExtVoyNo": {
+                "#text": "486N"
+              },
+              "Field-FullEmpty": {
+                "#text": "F"
+              },
+              "Field-GrossWt": {},
+              "Field-HaulierCde": {},
+              "Field-IMCOClass1": {},
+              "Field-IMCOClass2": {},
+              "Field-IMCOClass3": {},
+              "Field-IMCOClass4": {},
+              "Field-IMCOClass5": {},
+              "Field-IMCOClass6": {},
+              "Field-IMCOClass7": {},
+              "Field-IMCOClass8": {},
+              "Field-IMCOClass9": {},
+              "Field-InslotOperCode": {
+                "#text": "OR"
+              },
+              "Field-LoadPort": {
+                "#text": "USHOU"
+              },
+              "Field-OHeight": {},
+              "Field-OLBack": {},
+              "Field-OLFront": {},
+              "Field-OWLeft": {},
+              "Field-OWRight": {},
+              "Field-OpenTsStatus": {
+                "#text": "N"
+              },
+              "Field-OutSlotOperCode": {
+                "#text": "SA"
+              },
+              "Field-RULabel": {},
+              "Field-ReeferTempMax": {},
+              "Field-SealNo": {
+                "#text": "99577"
+              },
+              "Field-SecondCarrier": {
+                "#text": "SINAR BIMA"
+              },
+              "Field-Service": {
+                "#text": "GCC1"
+              },
+              "Field-SizeType": {
+                "#text": "40HQ"
+              },
+              "Field-SpecialInst1": {},
+              "Field-SpecialInst2": {},
+              "Field-SpecialInst3": {},
+              "Field-SpecialInst4": {},
+              "Field-SpecialInst5": {},
+              "Field-TSHStatus": {
+                "#text": "Y"
+              },
+              "Field-TempSetting": {},
+              "Field-TempUnit": {},
+              "Field-TransInd": {},
+              "Field-TransType": {},
+              "Field-UltiDest": {},
+              "Field-VGM": {
+                "#text": "26545"
+              },
+              "Field-VGMAuthorizedOfficial": {},
+              "Field-VGMReferenceNumber": {},
+              "Field-VGMWeightedDate": {},
+              "Field-VGMWeightedMethod": {},
+              "Field-VentSet": {},
+              "Field-Vessel": {
+                "#text": "GLG"
+              },
+              "Field-Voyage": {
+                "#text": "001West"
+              }
+            }
+          },
+          {
+            "#text": "        ",
+            "@ID": "Container_Group",
+            "@Name": "Container_Group",
+            "@Type": "GroupRecord",
+            "Record-ContainerRec": {
+              "#text": "            ",
+              "@ID": "ContainerRec",
+              "@Name": "ContainerRec",
+              "@Type": "Record",
+              "Field-ArrExtVoy": {
+                "#text": "0PG6LE1M"
+              },
+              "Field-ArrVslCallSign": {},
+              "Field-ArrVslName": {
+                "#text": "GULF BRIDGE"
+              },
+              "Field-BookingNo": {
+                "#text": "4049307710"
+              },
+              "Field-CargoDesc": {
+                "#text": "WIND TOWER FIXTURES C/W ACCESSORIES"
+              },
+              "Field-CntNo": {
+                "#text": "OOCU7274616"
+              },
+              "Field-CntRecordType": {
+                "#text": "COPRAR1"
+              },
+              "Field-DG": {
+                "#text": "N"
+              },
+              "Field-DSGHPort1": {
+                "#text": "MYKUA"
+              },
+              "Field-DSGHPort2": {},
+              "Field-DSGHPort3": {},
+              "Field-DirectDelivery": {},
+              "Field-ExtVoyNo": {
+                "#text": "486N"
+              },
+              "Field-FullEmpty": {
+                "#text": "F"
+              },
+              "Field-GrossWt": {},
+              "Field-HaulierCde": {},
+              "Field-IMCOClass1": {},
+              "Field-IMCOClass2": {},
+              "Field-IMCOClass3": {},
+              "Field-IMCOClass4": {},
+              "Field-IMCOClass5": {},
+              "Field-IMCOClass6": {},
+              "Field-IMCOClass7": {},
+              "Field-IMCOClass8": {},
+              "Field-IMCOClass9": {},
+              "Field-InslotOperCode": {
+                "#text": "OR"
+              },
+              "Field-LoadPort": {
+                "#text": "USHOU"
+              },
+              "Field-OHeight": {},
+              "Field-OLBack": {},
+              "Field-OLFront": {},
+              "Field-OWLeft": {},
+              "Field-OWRight": {},
+              "Field-OpenTsStatus": {
+                "#text": "N"
+              },
+              "Field-OutSlotOperCode": {
+                "#text": "SA"
+              },
+              "Field-RULabel": {},
+              "Field-ReeferTempMax": {},
+              "Field-SealNo": {
+                "#text": "99633"
+              },
+              "Field-SecondCarrier": {
+                "#text": "SINAR BIMA"
+              },
+              "Field-Service": {
+                "#text": "GCC1"
+              },
+              "Field-SizeType": {
+                "#text": "40HQ"
+              },
+              "Field-SpecialInst1": {},
+              "Field-SpecialInst2": {},
+              "Field-SpecialInst3": {},
+              "Field-SpecialInst4": {},
+              "Field-SpecialInst5": {},
+              "Field-TSHStatus": {
+                "#text": "Y"
+              },
+              "Field-TempSetting": {},
+              "Field-TempUnit": {},
+              "Field-TransInd": {},
+              "Field-TransType": {},
+              "Field-UltiDest": {},
+              "Field-VGM": {
+                "#text": "11902"
+              },
+              "Field-VGMAuthorizedOfficial": {},
+              "Field-VGMReferenceNumber": {},
+              "Field-VGMWeightedDate": {},
+              "Field-VGMWeightedMethod": {},
+              "Field-VentSet": {},
+              "Field-Vessel": {
+                "#text": "GLG"
+              },
+              "Field-Voyage": {
+                "#text": "001West"
+              }
+            }
+          },
+          {
+            "#text": "        ",
+            "@ID": "Container_Group",
+            "@Name": "Container_Group",
+            "@Type": "GroupRecord",
+            "Record-ContainerRec": {
+              "#text": "            ",
+              "@ID": "ContainerRec",
+              "@Name": "ContainerRec",
+              "@Type": "Record",
+              "Field-ArrExtVoy": {
+                "#text": "0PG6LE1M"
+              },
+              "Field-ArrVslCallSign": {},
+              "Field-ArrVslName": {
+                "#text": "GULF BRIDGE"
+              },
+              "Field-BookingNo": {
+                "#text": "4049307710"
+              },
+              "Field-CargoDesc": {
+                "#text": "WIND TOWER FIXTURES C/W ACCESSORIES"
+              },
+              "Field-CntNo": {
+                "#text": "TCLU1542581"
+              },
+              "Field-CntRecordType": {
+                "#text": "COPRAR1"
+              },
+              "Field-DG": {
+                "#text": "N"
+              },
+              "Field-DSGHPort1": {
+                "#text": "MYKUA"
+              },
+              "Field-DSGHPort2": {},
+              "Field-DSGHPort3": {},
+              "Field-DirectDelivery": {},
+              "Field-ExtVoyNo": {
+                "#text": "486N"
+              },
+              "Field-FullEmpty": {
+                "#text": "F"
+              },
+              "Field-GrossWt": {},
+              "Field-HaulierCde": {},
+              "Field-IMCOClass1": {},
+              "Field-IMCOClass2": {},
+              "Field-IMCOClass3": {},
+              "Field-IMCOClass4": {},
+              "Field-IMCOClass5": {},
+              "Field-IMCOClass6": {},
+              "Field-IMCOClass7": {},
+              "Field-IMCOClass8": {},
+              "Field-IMCOClass9": {},
+              "Field-InslotOperCode": {
+                "#text": "OR"
+              },
+              "Field-LoadPort": {
+                "#text": "USHOU"
+              },
+              "Field-OHeight": {},
+              "Field-OLBack": {},
+              "Field-OLFront": {},
+              "Field-OWLeft": {},
+              "Field-OWRight": {},
+              "Field-OpenTsStatus": {
+                "#text": "N"
+              },
+              "Field-OutSlotOperCode": {
+                "#text": "SA"
+              },
+              "Field-RULabel": {},
+              "Field-ReeferTempMax": {},
+              "Field-SealNo": {
+                "#text": "99573"
+              },
+              "Field-SecondCarrier": {
+                "#text": "SINAR BIMA"
+              },
+              "Field-Service": {
+                "#text": "GCC1"
+              },
+              "Field-SizeType": {
+                "#text": "40HQ"
+              },
+              "Field-SpecialInst1": {},
+              "Field-SpecialInst2": {},
+              "Field-SpecialInst3": {},
+              "Field-SpecialInst4": {},
+              "Field-SpecialInst5": {},
+              "Field-TSHStatus": {
+                "#text": "Y"
+              },
+              "Field-TempSetting": {},
+              "Field-TempUnit": {},
+              "Field-TransInd": {},
+              "Field-TransType": {},
+              "Field-UltiDest": {},
+              "Field-VGM": {
+                "#text": "27805"
+              },
+              "Field-VGMAuthorizedOfficial": {},
+              "Field-VGMReferenceNumber": {},
+              "Field-VGMWeightedDate": {},
+              "Field-VGMWeightedMethod": {},
+              "Field-VentSet": {},
+              "Field-Vessel": {
+                "#text": "GLG"
+              },
+              "Field-Voyage": {
+                "#text": "001West"
+              }
+            }
+          },
+          {
+            "#text": "        ",
+            "@ID": "Container_Group",
+            "@Name": "Container_Group",
+            "@Type": "GroupRecord",
+            "Record-ContainerRec": {
+              "#text": "            ",
+              "@ID": "ContainerRec",
+              "@Name": "ContainerRec",
+              "@Type": "Record",
+              "Field-ArrExtVoy": {
+                "#text": "0PG6LE1M"
+              },
+              "Field-ArrVslCallSign": {},
+              "Field-ArrVslName": {
+                "#text": "GULF BRIDGE"
+              },
+              "Field-BookingNo": {
+                "#text": "4049307710"
+              },
+              "Field-CargoDesc": {
+                "#text": "WIND TOWER FIXTURES C/W ACCESSORIES"
+              },
+              "Field-CntNo": {
+                "#text": "OOLU8634164"
+              },
+              "Field-CntRecordType": {
+                "#text": "COPRAR1"
+              },
+              "Field-DG": {
+                "#text": "N"
+              },
+              "Field-DSGHPort1": {
+                "#text": "MYKUA"
+              },
+              "Field-DSGHPort2": {},
+              "Field-DSGHPort3": {},
+              "Field-DirectDelivery": {},
+              "Field-ExtVoyNo": {
+                "#text": "486N"
+              },
+              "Field-FullEmpty": {
+                "#text": "F"
+              },
+              "Field-GrossWt": {},
+              "Field-HaulierCde": {},
+              "Field-IMCOClass1": {},
+              "Field-IMCOClass2": {},
+              "Field-IMCOClass3": {},
+              "Field-IMCOClass4": {},
+              "Field-IMCOClass5": {},
+              "Field-IMCOClass6": {},
+              "Field-IMCOClass7": {},
+              "Field-IMCOClass8": {},
+              "Field-IMCOClass9": {},
+              "Field-InslotOperCode": {
+                "#text": "OR"
+              },
+              "Field-LoadPort": {
+                "#text": "USHOU"
+              },
+              "Field-OHeight": {},
+              "Field-OLBack": {},
+              "Field-OLFront": {},
+              "Field-OWLeft": {},
+              "Field-OWRight": {},
+              "Field-OpenTsStatus": {
+                "#text": "N"
+              },
+              "Field-OutSlotOperCode": {
+                "#text": "SA"
+              },
+              "Field-RULabel": {},
+              "Field-ReeferTempMax": {},
+              "Field-SealNo": {
+                "#text": "99638"
+              },
+              "Field-SecondCarrier": {
+                "#text": "SINAR BIMA"
+              },
+              "Field-Service": {
+                "#text": "GCC1"
+              },
+              "Field-SizeType": {
+                "#text": "40HQ"
+              },
+              "Field-SpecialInst1": {},
+              "Field-SpecialInst2": {},
+              "Field-SpecialInst3": {},
+              "Field-SpecialInst4": {},
+              "Field-SpecialInst5": {},
+              "Field-TSHStatus": {
+                "#text": "Y"
+              },
+              "Field-TempSetting": {},
+              "Field-TempUnit": {},
+              "Field-TransInd": {},
+              "Field-TransType": {},
+              "Field-UltiDest": {},
+              "Field-VGM": {
+                "#text": "27007"
+              },
+              "Field-VGMAuthorizedOfficial": {},
+              "Field-VGMReferenceNumber": {},
+              "Field-VGMWeightedDate": {},
+              "Field-VGMWeightedMethod": {},
+              "Field-VentSet": {},
+              "Field-Vessel": {
+                "#text": "GLG"
+              },
+              "Field-Voyage": {
+                "#text": "001West"
+              }
+            }
+          },
+          {
+            "#text": "        ",
+            "@ID": "Container_Group",
+            "@Name": "Container_Group",
+            "@Type": "GroupRecord",
+            "Record-ContainerRec": {
+              "#text": "            ",
+              "@ID": "ContainerRec",
+              "@Name": "ContainerRec",
+              "@Type": "Record",
+              "Field-ArrExtVoy": {
+                "#text": "0PG6LE1M"
+              },
+              "Field-ArrVslCallSign": {},
+              "Field-ArrVslName": {
+                "#text": "GULF BRIDGE"
+              },
+              "Field-BookingNo": {
+                "#text": "4049307710"
+              },
+              "Field-CargoDesc": {
+                "#text": "WIND TOWER FIXTURES C/W ACCESSORIES"
+              },
+              "Field-CntNo": {
+                "#text": "OOLU8480480"
+              },
+              "Field-CntRecordType": {
+                "#text": "COPRAR1"
+              },
+              "Field-DG": {
+                "#text": "N"
+              },
+              "Field-DSGHPort1": {
+                "#text": "MYKUA"
+              },
+              "Field-DSGHPort2": {},
+              "Field-DSGHPort3": {},
+              "Field-DirectDelivery": {},
+              "Field-ExtVoyNo": {
+                "#text": "486N"
+              },
+              "Field-FullEmpty": {
+                "#text": "F"
+              },
+              "Field-GrossWt": {},
+              "Field-HaulierCde": {},
+              "Field-IMCOClass1": {},
+              "Field-IMCOClass2": {},
+              "Field-IMCOClass3": {},
+              "Field-IMCOClass4": {},
+              "Field-IMCOClass5": {},
+              "Field-IMCOClass6": {},
+              "Field-IMCOClass7": {},
+              "Field-IMCOClass8": {},
+              "Field-IMCOClass9": {},
+              "Field-InslotOperCode": {
+                "#text": "OR"
+              },
+              "Field-LoadPort": {
+                "#text": "USHOU"
+              },
+              "Field-OHeight": {},
+              "Field-OLBack": {},
+              "Field-OLFront": {},
+              "Field-OWLeft": {},
+              "Field-OWRight": {},
+              "Field-OpenTsStatus": {
+                "#text": "N"
+              },
+              "Field-OutSlotOperCode": {
+                "#text": "SA"
+              },
+              "Field-RULabel": {},
+              "Field-ReeferTempMax": {},
+              "Field-SealNo": {
+                "#text": "99571"
+              },
+              "Field-SecondCarrier": {
+                "#text": "SINAR BIMA"
+              },
+              "Field-Service": {
+                "#text": "GCC1"
+              },
+              "Field-SizeType": {
+                "#text": "40HQ"
+              },
+              "Field-SpecialInst1": {},
+              "Field-SpecialInst2": {},
+              "Field-SpecialInst3": {},
+              "Field-SpecialInst4": {},
+              "Field-SpecialInst5": {},
+              "Field-TSHStatus": {
+                "#text": "Y"
+              },
+              "Field-TempSetting": {},
+              "Field-TempUnit": {},
+              "Field-TransInd": {},
+              "Field-TransType": {},
+              "Field-UltiDest": {},
+              "Field-VGM": {
+                "#text": "26754"
+              },
+              "Field-VGMAuthorizedOfficial": {},
+              "Field-VGMReferenceNumber": {},
+              "Field-VGMWeightedDate": {},
+              "Field-VGMWeightedMethod": {},
+              "Field-VentSet": {},
+              "Field-Vessel": {
+                "#text": "GLG"
+              },
+              "Field-Voyage": {
+                "#text": "001West"
+              }
+            }
+          },
+          {
+            "#text": "        ",
+            "@ID": "Container_Group",
+            "@Name": "Container_Group",
+            "@Type": "GroupRecord",
+            "Record-ContainerRec": {
+              "#text": "            ",
+              "@ID": "ContainerRec",
+              "@Name": "ContainerRec",
+              "@Type": "Record",
+              "Field-ArrExtVoy": {
+                "#text": "0PG6LE1M"
+              },
+              "Field-ArrVslCallSign": {},
+              "Field-ArrVslName": {
+                "#text": "GULF BRIDGE"
+              },
+              "Field-BookingNo": {
+                "#text": "4049307710"
+              },
+              "Field-CargoDesc": {
+                "#text": "WIND TOWER FIXTURES C/W ACCESSORIES"
+              },
+              "Field-CntNo": {
+                "#text": "TGHU9736263"
+              },
+              "Field-CntRecordType": {
+                "#text": "COPRAR1"
+              },
+              "Field-DG": {
+                "#text": "N"
+              },
+              "Field-DSGHPort1": {
+                "#text": "MYKUA"
+              },
+              "Field-DSGHPort2": {},
+              "Field-DSGHPort3": {},
+              "Field-DirectDelivery": {},
+              "Field-ExtVoyNo": {
+                "#text": "486N"
+              },
+              "Field-FullEmpty": {
+                "#text": "F"
+              },
+              "Field-GrossWt": {},
+              "Field-HaulierCde": {},
+              "Field-IMCOClass1": {},
+              "Field-IMCOClass2": {},
+              "Field-IMCOClass3": {},
+              "Field-IMCOClass4": {},
+              "Field-IMCOClass5": {},
+              "Field-IMCOClass6": {},
+              "Field-IMCOClass7": {},
+              "Field-IMCOClass8": {},
+              "Field-IMCOClass9": {},
+              "Field-InslotOperCode": {
+                "#text": "OR"
+              },
+              "Field-LoadPort": {
+                "#text": "USHOU"
+              },
+              "Field-OHeight": {},
+              "Field-OLBack": {},
+              "Field-OLFront": {},
+              "Field-OWLeft": {},
+              "Field-OWRight": {},
+              "Field-OpenTsStatus": {
+                "#text": "N"
+              },
+              "Field-OutSlotOperCode": {
+                "#text": "SA"
+              },
+              "Field-RULabel": {},
+              "Field-ReeferTempMax": {},
+              "Field-SealNo": {
+                "#text": "99578"
+              },
+              "Field-SecondCarrier": {
+                "#text": "SINAR BIMA"
+              },
+              "Field-Service": {
+                "#text": "GCC1"
+              },
+              "Field-SizeType": {
+                "#text": "40HQ"
+              },
+              "Field-SpecialInst1": {},
+              "Field-SpecialInst2": {},
+              "Field-SpecialInst3": {},
+              "Field-SpecialInst4": {},
+              "Field-SpecialInst5": {},
+              "Field-TSHStatus": {
+                "#text": "Y"
+              },
+              "Field-TempSetting": {},
+              "Field-TempUnit": {},
+              "Field-TransInd": {},
+              "Field-TransType": {},
+              "Field-UltiDest": {},
+              "Field-VGM": {
+                "#text": "26880"
+              },
+              "Field-VGMAuthorizedOfficial": {},
+              "Field-VGMReferenceNumber": {},
+              "Field-VGMWeightedDate": {},
+              "Field-VGMWeightedMethod": {},
+              "Field-VentSet": {},
+              "Field-Vessel": {
+                "#text": "GLG"
+              },
+              "Field-Voyage": {
+                "#text": "001West"
+              }
+            }
+          },
+          {
+            "#text": "        ",
+            "@ID": "Container_Group",
+            "@Name": "Container_Group",
+            "@Type": "GroupRecord",
+            "Record-ContainerRec": {
+              "#text": "            ",
+              "@ID": "ContainerRec",
+              "@Name": "ContainerRec",
+              "@Type": "Record",
+              "Field-ArrExtVoy": {
+                "#text": "0PG6LE1M"
+              },
+              "Field-ArrVslCallSign": {},
+              "Field-ArrVslName": {
+                "#text": "GULF BRIDGE"
+              },
+              "Field-BookingNo": {
+                "#text": "4049307710"
+              },
+              "Field-CargoDesc": {
+                "#text": "WIND TOWER FIXTURES C/W ACCESSORIES"
+              },
+              "Field-CntNo": {
+                "#text": "OOCU7382185"
+              },
+              "Field-CntRecordType": {
+                "#text": "COPRAR1"
+              },
+              "Field-DG": {
+                "#text": "N"
+              },
+              "Field-DSGHPort1": {
+                "#text": "MYKUA"
+              },
+              "Field-DSGHPort2": {},
+              "Field-DSGHPort3": {},
+              "Field-DirectDelivery": {},
+              "Field-ExtVoyNo": {
+                "#text": "486N"
+              },
+              "Field-FullEmpty": {
+                "#text": "F"
+              },
+              "Field-GrossWt": {},
+              "Field-HaulierCde": {},
+              "Field-IMCOClass1": {},
+              "Field-IMCOClass2": {},
+              "Field-IMCOClass3": {},
+              "Field-IMCOClass4": {},
+              "Field-IMCOClass5": {},
+              "Field-IMCOClass6": {},
+              "Field-IMCOClass7": {},
+              "Field-IMCOClass8": {},
+              "Field-IMCOClass9": {},
+              "Field-InslotOperCode": {
+                "#text": "OR"
+              },
+              "Field-LoadPort": {
+                "#text": "USHOU"
+              },
+              "Field-OHeight": {},
+              "Field-OLBack": {},
+              "Field-OLFront": {},
+              "Field-OWLeft": {},
+              "Field-OWRight": {},
+              "Field-OpenTsStatus": {
+                "#text": "N"
+              },
+              "Field-OutSlotOperCode": {
+                "#text": "SA"
+              },
+              "Field-RULabel": {},
+              "Field-ReeferTempMax": {},
+              "Field-SealNo": {
+                "#text": "99572"
+              },
+              "Field-SecondCarrier": {
+                "#text": "SINAR BIMA"
+              },
+              "Field-Service": {
+                "#text": "GCC1"
+              },
+              "Field-SizeType": {
+                "#text": "40HQ"
+              },
+              "Field-SpecialInst1": {},
+              "Field-SpecialInst2": {},
+              "Field-SpecialInst3": {},
+              "Field-SpecialInst4": {},
+              "Field-SpecialInst5": {},
+              "Field-TSHStatus": {
+                "#text": "Y"
+              },
+              "Field-TempSetting": {},
+              "Field-TempUnit": {},
+              "Field-TransInd": {},
+              "Field-TransType": {},
+              "Field-UltiDest": {},
+              "Field-VGM": {
+                "#text": "16093"
+              },
+              "Field-VGMAuthorizedOfficial": {},
+              "Field-VGMReferenceNumber": {},
+              "Field-VGMWeightedDate": {},
+              "Field-VGMWeightedMethod": {},
+              "Field-VentSet": {},
+              "Field-Vessel": {
+                "#text": "GLG"
+              },
+              "Field-Voyage": {
+                "#text": "001West"
+              }
+            }
+          },
+          {
+            "#text": "        ",
+            "@ID": "Container_Group",
+            "@Name": "Container_Group",
+            "@Type": "GroupRecord",
+            "Record-ContainerRec": {
+              "#text": "            ",
+              "@ID": "ContainerRec",
+              "@Name": "ContainerRec",
+              "@Type": "Record",
+              "Field-ArrExtVoy": {
+                "#text": "0PG6LE1M"
+              },
+              "Field-ArrVslCallSign": {},
+              "Field-ArrVslName": {
+                "#text": "GULF BRIDGE"
+              },
+              "Field-BookingNo": {
+                "#text": "4049307710"
+              },
+              "Field-CargoDesc": {
+                "#text": "WIND TOWER FIXTURES C/W ACCESSORIES"
+              },
+              "Field-CntNo": {
+                "#text": "OOLU9110428"
+              },
+              "Field-CntRecordType": {
+                "#text": "COPRAR1"
+              },
+              "Field-DG": {
+                "#text": "N"
+              },
+              "Field-DSGHPort1": {
+                "#text": "MYKUA"
+              },
+              "Field-DSGHPort2": {},
+              "Field-DSGHPort3": {},
+              "Field-DirectDelivery": {},
+              "Field-ExtVoyNo": {
+                "#text": "486N"
+              },
+              "Field-FullEmpty": {
+                "#text": "F"
+              },
+              "Field-GrossWt": {},
+              "Field-HaulierCde": {},
+              "Field-IMCOClass1": {},
+              "Field-IMCOClass2": {},
+              "Field-IMCOClass3": {},
+              "Field-IMCOClass4": {},
+              "Field-IMCOClass5": {},
+              "Field-IMCOClass6": {},
+              "Field-IMCOClass7": {},
+              "Field-IMCOClass8": {},
+              "Field-IMCOClass9": {},
+              "Field-InslotOperCode": {
+                "#text": "OR"
+              },
+              "Field-LoadPort": {
+                "#text": "USHOU"
+              },
+              "Field-OHeight": {},
+              "Field-OLBack": {},
+              "Field-OLFront": {},
+              "Field-OWLeft": {},
+              "Field-OWRight": {},
+              "Field-OpenTsStatus": {
+                "#text": "N"
+              },
+              "Field-OutSlotOperCode": {
+                "#text": "SA"
+              },
+              "Field-RULabel": {},
+              "Field-ReeferTempMax": {},
+              "Field-SealNo": {
+                "#text": "99575"
+              },
+              "Field-SecondCarrier": {
+                "#text": "SINAR BIMA"
+              },
+              "Field-Service": {
+                "#text": "GCC1"
+              },
+              "Field-SizeType": {
+                "#text": "40HQ"
+              },
+              "Field-SpecialInst1": {},
+              "Field-SpecialInst2": {},
+              "Field-SpecialInst3": {},
+              "Field-SpecialInst4": {},
+              "Field-SpecialInst5": {},
+              "Field-TSHStatus": {
+                "#text": "Y"
+              },
+              "Field-TempSetting": {},
+              "Field-TempUnit": {},
+              "Field-TransInd": {},
+              "Field-TransType": {},
+              "Field-UltiDest": {},
+              "Field-VGM": {
+                "#text": "27380"
+              },
+              "Field-VGMAuthorizedOfficial": {},
+              "Field-VGMReferenceNumber": {},
+              "Field-VGMWeightedDate": {},
+              "Field-VGMWeightedMethod": {},
+              "Field-VentSet": {},
+              "Field-Vessel": {
+                "#text": "GLG"
+              },
+              "Field-Voyage": {
+                "#text": "001West"
+              }
+            }
+          },
+          {
+            "#text": "        ",
+            "@ID": "Container_Group",
+            "@Name": "Container_Group",
+            "@Type": "GroupRecord",
+            "Record-ContainerRec": {
+              "#text": "            ",
+              "@ID": "ContainerRec",
+              "@Name": "ContainerRec",
+              "@Type": "Record",
+              "Field-ArrExtVoy": {
+                "#text": "0PG6LE1M"
+              },
+              "Field-ArrVslCallSign": {},
+              "Field-ArrVslName": {
+                "#text": "GULF BRIDGE"
+              },
+              "Field-BookingNo": {
+                "#text": "2110464050"
+              },
+              "Field-CargoDesc": {
+                "#text": "ST.NO. 4542, ZINC ALKYLDITHIOPHOSPHATE, ARYL  PHOSPHITE"
+              },
+              "Field-CntNo": {
+                "#text": "OOLU1145310"
+              },
+              "Field-CntRecordType": {
+                "#text": "COPRAR1"
+              },
+              "Field-DG": {
+                "#text": "N"
+              },
+              "Field-DSGHPort1": {
+                "#text": "INCCU"
+              },
+              "Field-DSGHPort2": {},
+              "Field-DSGHPort3": {},
+              "Field-DirectDelivery": {},
+              "Field-ExtVoyNo": {
+                "#text": "0098W"
+              },
+              "Field-FullEmpty": {
+                "#text": "F"
+              },
+              "Field-GrossWt": {},
+              "Field-HaulierCde": {},
+              "Field-IMCOClass1": {
+                "#text": "9"
+              },
+              "Field-IMCOClass2": {},
+              "Field-IMCOClass3": {},
+              "Field-IMCOClass4": {},
+              "Field-IMCOClass5": {},
+              "Field-IMCOClass6": {},
+              "Field-IMCOClass7": {},
+              "Field-IMCOClass8": {},
+              "Field-IMCOClass9": {},
+              "Field-InslotOperCode": {
+                "#text": "OR"
+              },
+              "Field-LoadPort": {
+                "#text": "USHOU"
+              },
+              "Field-OHeight": {},
+              "Field-OLBack": {},
+              "Field-OLFront": {},
+              "Field-OWLeft": {},
+              "Field-OWRight": {},
+              "Field-OpenTsStatus": {
+                "#text": "N"
+              },
+              "Field-OutSlotOperCode": {
+                "#text": "SA"
+              },
+              "Field-RULabel": {},
+              "Field-ReeferTempMax": {},
+              "Field-SealNo": {
+                "#text": "00385360"
+              },
+              "Field-SecondCarrier": {
+                "#text": "KOTA TENAGA"
+              },
+              "Field-Service": {
+                "#text": "GCC1"
+              },
+              "Field-SizeType": {
+                "#text": "20GP"
+              },
+              "Field-SpecialInst1": {},
+              "Field-SpecialInst2": {},
+              "Field-SpecialInst3": {},
+              "Field-SpecialInst4": {},
+              "Field-SpecialInst5": {},
+              "Field-TSHStatus": {
+                "#text": "Y"
+              },
+              "Field-TempSetting": {},
+              "Field-TempUnit": {},
+              "Field-TransInd": {},
+              "Field-TransType": {},
+              "Field-UltiDest": {},
+              "Field-VGM": {
+                "#text": "20199"
+              },
+              "Field-VGMAuthorizedOfficial": {},
+              "Field-VGMReferenceNumber": {},
+              "Field-VGMWeightedDate": {},
+              "Field-VGMWeightedMethod": {},
+              "Field-VentSet": {},
+              "Field-Vessel": {
+                "#text": "GLG"
+              },
+              "Field-Voyage": {
+                "#text": "001West"
+              }
+            }
+          },
+          {
+            "#text": "        ",
+            "@ID": "Container_Group",
+            "@Name": "Container_Group",
+            "@Type": "GroupRecord",
+            "Record-ContainerRec": {
+              "#text": "            ",
+              "@ID": "ContainerRec",
+              "@Name": "ContainerRec",
+              "@Type": "Record",
+              "Field-ArrExtVoy": {
+                "#text": "6-015E"
+              },
+              "Field-ArrVslCallSign": {},
+              "Field-ArrVslName": {
+                "#text": "TAMPA TRIUMPH"
+              },
+              "Field-BookingNo": {
+                "#text": "2111548070"
+              },
+              "Field-CargoDesc": {
+                "#text": "SODIUM  HYPOPHOSPHITE"
+              },
+              "Field-CntNo": {
+                "#text": "OOLU2856755"
+              },
+              "Field-CntRecordType": {
+                "#text": "COPRAR1"
+              },
+              "Field-DG": {
+                "#text": "N"
+              },
+              "Field-DSGHPort1": {
+                "#text": "MYKCH"
+              },
+              "Field-DSGHPort2": {},
+              "Field-DSGHPort3": {},
+              "Field-DirectDelivery": {},
+              "Field-ExtVoyNo": {
+                "#text": "59141A"
+              },
+              "Field-FullEmpty": {
+                "#text": "F"
+              },
+              "Field-GrossWt": {},
+              "Field-HaulierCde": {},
+              "Field-IMCOClass1": {},
+              "Field-IMCOClass2": {},
+              "Field-IMCOClass3": {},
+              "Field-IMCOClass4": {},
+              "Field-IMCOClass5": {},
+              "Field-IMCOClass6": {},
+              "Field-IMCOClass7": {},
+              "Field-IMCOClass8": {},
+              "Field-IMCOClass9": {},
+              "Field-InslotOperCode": {
+                "#text": "OR"
+              },
+              "Field-LoadPort": {
+                "#text": "ITGOA"
+              },
+              "Field-OHeight": {},
+              "Field-OLBack": {},
+              "Field-OLFront": {},
+              "Field-OWLeft": {},
+              "Field-OWRight": {},
+              "Field-OpenTsStatus": {
+                "#text": "N"
+              },
+              "Field-OutSlotOperCode": {
+                "#text": "SY"
+              },
+              "Field-RULabel": {},
+              "Field-ReeferTempMax": {},
+              "Field-SealNo": {
+                "#text": "0026586"
+              },
+              "Field-SecondCarrier": {
+                "#text": "DANUM 159"
+              },
+              "Field-Service": {
+                "#text": "WM1"
+              },
+              "Field-SizeType": {
+                "#text": "20GP"
+              },
+              "Field-SpecialInst1": {},
+              "Field-SpecialInst2": {},
+              "Field-SpecialInst3": {},
+              "Field-SpecialInst4": {},
+              "Field-SpecialInst5": {},
+              "Field-TSHStatus": {
+                "#text": "Y"
+              },
+              "Field-TempSetting": {},
+              "Field-TempUnit": {},
+              "Field-TransInd": {},
+              "Field-TransType": {},
+              "Field-UltiDest": {},
+              "Field-VGM": {
+                "#text": "23831"
+              },
+              "Field-VGMAuthorizedOfficial": {},
+              "Field-VGMReferenceNumber": {},
+              "Field-VGMWeightedDate": {},
+              "Field-VGMWeightedMethod": {
+                "#text": "Method2"
+              },
+              "Field-VentSet": {},
+              "Field-Vessel": {
+                "#text": "TPT"
+              },
+              "Field-Voyage": {
+                "#text": "015East"
+              }
+            }
+          },
+          {
+            "#text": "        ",
+            "@ID": "Container_Group",
+            "@Name": "Container_Group",
+            "@Type": "GroupRecord",
+            "Record-ContainerRec": {
+              "#text": "            ",
+              "@ID": "ContainerRec",
+              "@Name": "ContainerRec",
+              "@Type": "Record",
+              "Field-ArrExtVoy": {
+                "#text": "6-015E"
+              },
+              "Field-ArrVslCallSign": {},
+              "Field-ArrVslName": {
+                "#text": "TAMPA TRIUMPH"
+              },
+              "Field-BookingNo": {
+                "#text": "2111528310"
+              },
+              "Field-CargoDesc": {
+                "#text": "EGG WHITE POWDER"
+              },
+              "Field-CntNo": {
+                "#text": "OOCU6535356"
+              },
+              "Field-CntRecordType": {
+                "#text": "COPRAR1"
+              },
+              "Field-DG": {
+                "#text": "N"
+              },
+              "Field-DSGHPort1": {
+                "#text": "THBKK"
+              },
+              "Field-DSGHPort2": {},
+              "Field-DSGHPort3": {},
+              "Field-DirectDelivery": {},
+              "Field-ExtVoyNo": {
+                "#text": "105N"
+              },
+              "Field-FullEmpty": {
+                "#text": "F"
+              },
+              "Field-GrossWt": {},
+              "Field-HaulierCde": {},
+              "Field-IMCOClass1": {},
+              "Field-IMCOClass2": {},
+              "Field-IMCOClass3": {},
+              "Field-IMCOClass4": {},
+              "Field-IMCOClass5": {},
+              "Field-IMCOClass6": {},
+              "Field-IMCOClass7": {},
+              "Field-IMCOClass8": {},
+              "Field-IMCOClass9": {},
+              "Field-InslotOperCode": {
+                "#text": "OR"
+              },
+              "Field-LoadPort": {
+                "#text": "ITSPE"
+              },
+              "Field-OHeight": {},
+              "Field-OLBack": {},
+              "Field-OLFront": {},
+              "Field-OWLeft": {},
+              "Field-OWRight": {},
+              "Field-OpenTsStatus": {
+                "#text": "N"
+              },
+              "Field-OutSlotOperCode": {
+                "#text": "RC"
+              },
+              "Field-RULabel": {},
+              "Field-ReeferTempMax": {},
+              "Field-SealNo": {
+                "#text": "1825676"
+              },
+              "Field-SecondCarrier": {
+                "#text": "TC SYMPHONY"
+              },
+              "Field-Service": {
+                "#text": "WM1"
+              },
+              "Field-SizeType": {
+                "#text": "40HQ"
+              },
+              "Field-SpecialInst1": {},
+              "Field-SpecialInst2": {},
+              "Field-SpecialInst3": {},
+              "Field-SpecialInst4": {},
+              "Field-SpecialInst5": {},
+              "Field-TSHStatus": {
+                "#text": "Y"
+              },
+              "Field-TempSetting": {},
+              "Field-TempUnit": {},
+              "Field-TransInd": {},
+              "Field-TransType": {},
+              "Field-UltiDest": {},
+              "Field-VGM": {
+                "#text": "24800"
+              },
+              "Field-VGMAuthorizedOfficial": {},
+              "Field-VGMReferenceNumber": {},
+              "Field-VGMWeightedDate": {},
+              "Field-VGMWeightedMethod": {},
+              "Field-VentSet": {},
+              "Field-Vessel": {
+                "#text": "TPT"
+              },
+              "Field-Voyage": {
+                "#text": "015East"
+              }
+            }
+          },
+          {
+            "#text": "        ",
+            "@ID": "Container_Group",
+            "@Name": "Container_Group",
+            "@Type": "GroupRecord",
+            "Record-ContainerRec": {
+              "#text": "            ",
+              "@ID": "ContainerRec",
+              "@Name": "ContainerRec",
+              "@Type": "Record",
+              "Field-ArrExtVoy": {
+                "#text": "6-015E"
+              },
+              "Field-ArrVslCallSign": {},
+              "Field-ArrVslName": {
+                "#text": "TAMPA TRIUMPH"
+              },
+              "Field-BookingNo": {
+                "#text": "4049579290"
+              },
+              "Field-CargoDesc": {
+                "#text": "CIFAMIN BK 250ML, BORFAST L.1, CALCISAN KG.1,"
+              },
+              "Field-CntNo": {
+                "#text": "FCIU4862343"
+              },
+              "Field-CntRecordType": {
+                "#text": "COPRAR1"
+              },
+              "Field-DG": {
+                "#text": "N"
+              },
+              "Field-DSGHPort1": {
+                "#text": "THBKK"
+              },
+              "Field-DSGHPort2": {},
+              "Field-DSGHPort3": {},
+              "Field-DirectDelivery": {},
+              "Field-ExtVoyNo": {
+                "#text": "105N"
+              },
+              "Field-FullEmpty": {
+                "#text": "F"
+              },
+              "Field-GrossWt": {},
+              "Field-HaulierCde": {},
+              "Field-IMCOClass1": {},
+              "Field-IMCOClass2": {},
+              "Field-IMCOClass3": {},
+              "Field-IMCOClass4": {},
+              "Field-IMCOClass5": {},
+              "Field-IMCOClass6": {},
+              "Field-IMCOClass7": {},
+              "Field-IMCOClass8": {},
+              "Field-IMCOClass9": {},
+              "Field-InslotOperCode": {
+                "#text": "OR"
+              },
+              "Field-LoadPort": {
+                "#text": "ITSPE"
+              },
+              "Field-OHeight": {},
+              "Field-OLBack": {},
+              "Field-OLFront": {},
+              "Field-OWLeft": {},
+              "Field-OWRight": {},
+              "Field-OpenTsStatus": {
+                "#text": "N"
+              },
+              "Field-OutSlotOperCode": {
+                "#text": "RC"
+              },
+              "Field-RULabel": {},
+              "Field-ReeferTempMax": {},
+              "Field-SealNo": {
+                "#text": "OOLFTV4598"
+              },
+              "Field-SecondCarrier": {
+                "#text": "TC SYMPHONY"
+              },
+              "Field-Service": {
+                "#text": "WM1"
+              },
+              "Field-SizeType": {
+                "#text": "20GP"
+              },
+              "Field-SpecialInst1": {},
+              "Field-SpecialInst2": {},
+              "Field-SpecialInst3": {},
+              "Field-SpecialInst4": {},
+              "Field-SpecialInst5": {},
+              "Field-TSHStatus": {
+                "#text": "Y"
+              },
+              "Field-TempSetting": {},
+              "Field-TempUnit": {},
+              "Field-TransInd": {},
+              "Field-TransType": {},
+              "Field-UltiDest": {},
+              "Field-VGM": {
+                "#text": "19210"
+              },
+              "Field-VGMAuthorizedOfficial": {},
+              "Field-VGMReferenceNumber": {},
+              "Field-VGMWeightedDate": {},
+              "Field-VGMWeightedMethod": {},
+              "Field-VentSet": {},
+              "Field-Vessel": {
+                "#text": "TPT"
+              },
+              "Field-Voyage": {
+                "#text": "015East"
+              }
+            }
+          },
+          {
+            "#text": "        ",
+            "@ID": "Container_Group",
+            "@Name": "Container_Group",
+            "@Type": "GroupRecord",
+            "Record-ContainerRec": {
+              "#text": "            ",
+              "@ID": "ContainerRec",
+              "@Name": "ContainerRec",
+              "@Type": "Record",
+              "Field-ArrExtVoy": {
+                "#text": "6-015E"
+              },
+              "Field-ArrVslCallSign": {},
+              "Field-ArrVslName": {
+                "#text": "TAMPA TRIUMPH"
+              },
+              "Field-BookingNo": {
+                "#text": "4049579290"
+              },
+              "Field-CargoDesc": {
+                "#text": "SINERGON 2000 KG.1,"
+              },
+              "Field-CntNo": {
+                "#text": "OOLU0393409"
+              },
+              "Field-CntRecordType": {
+                "#text": "COPRAR1"
+              },
+              "Field-DG": {
+                "#text": "N"
+              },
+              "Field-DSGHPort1": {
+                "#text": "THBKK"
+              },
+              "Field-DSGHPort2": {},
+              "Field-DSGHPort3": {},
+              "Field-DirectDelivery": {},
+              "Field-ExtVoyNo": {
+                "#text": "105N"
+              },
+              "Field-FullEmpty": {
+                "#text": "F"
+              },
+              "Field-GrossWt": {},
+              "Field-HaulierCde": {},
+              "Field-IMCOClass1": {},
+              "Field-IMCOClass2": {},
+              "Field-IMCOClass3": {},
+              "Field-IMCOClass4": {},
+              "Field-IMCOClass5": {},
+              "Field-IMCOClass6": {},
+              "Field-IMCOClass7": {},
+              "Field-IMCOClass8": {},
+              "Field-IMCOClass9": {},
+              "Field-InslotOperCode": {
+                "#text": "OR"
+              },
+              "Field-LoadPort": {
+                "#text": "ITSPE"
+              },
+              "Field-OHeight": {},
+              "Field-OLBack": {},
+              "Field-OLFront": {},
+              "Field-OWLeft": {},
+              "Field-OWRight": {},
+              "Field-OpenTsStatus": {
+                "#text": "N"
+              },
+              "Field-OutSlotOperCode": {
+                "#text": "RC"
+              },
+              "Field-RULabel": {},
+              "Field-ReeferTempMax": {},
+              "Field-SealNo": {
+                "#text": "OOLFTV4569"
+              },
+              "Field-SecondCarrier": {
+                "#text": "TC SYMPHONY"
+              },
+              "Field-Service": {
+                "#text": "WM1"
+              },
+              "Field-SizeType": {
+                "#text": "20GP"
+              },
+              "Field-SpecialInst1": {},
+              "Field-SpecialInst2": {},
+              "Field-SpecialInst3": {},
+              "Field-SpecialInst4": {},
+              "Field-SpecialInst5": {},
+              "Field-TSHStatus": {
+                "#text": "Y"
+              },
+              "Field-TempSetting": {},
+              "Field-TempUnit": {},
+              "Field-TransInd": {},
+              "Field-TransType": {},
+              "Field-UltiDest": {},
+              "Field-VGM": {
+                "#text": "18760"
+              },
+              "Field-VGMAuthorizedOfficial": {},
+              "Field-VGMReferenceNumber": {},
+              "Field-VGMWeightedDate": {},
+              "Field-VGMWeightedMethod": {},
+              "Field-VentSet": {},
+              "Field-Vessel": {
+                "#text": "TPT"
+              },
+              "Field-Voyage": {
+                "#text": "015East"
+              }
+            }
+          },
+          {
+            "#text": "        ",
+            "@ID": "Container_Group",
+            "@Name": "Container_Group",
+            "@Type": "GroupRecord",
+            "Record-ContainerRec": {
+              "#text": "            ",
+              "@ID": "ContainerRec",
+              "@Name": "ContainerRec",
+              "@Type": "Record",
+              "Field-ArrExtVoy": {
+                "#text": "6-015E"
+              },
+              "Field-ArrVslCallSign": {},
+              "Field-ArrVslName": {
+                "#text": "TAMPA TRIUMPH"
+              },
+              "Field-BookingNo": {
+                "#text": "2636645730"
+              },
+              "Field-CargoDesc": {
+                "#text": "PLASTIC GROUTING CAPS WITH  ACCESSORIES; STAY CABLE TOOLINGS"
+              },
+              "Field-CntNo": {
+                "#text": "OOLU4296536"
+              },
+              "Field-CntRecordType": {
+                "#text": "COPRAR1"
+              },
+              "Field-DG": {
+                "#text": "N"
+              },
+              "Field-DSGHPort1": {
+                "#text": "PHCEB"
+              },
+              "Field-DSGHPort2": {},
+              "Field-DSGHPort3": {},
+              "Field-DirectDelivery": {},
+              "Field-ExtVoyNo": {
+                "#text": "268E"
+              },
+              "Field-FullEmpty": {
+                "#text": "F"
+              },
+              "Field-GrossWt": {},
+              "Field-HaulierCde": {},
+              "Field-IMCOClass1": {},
+              "Field-IMCOClass2": {},
+              "Field-IMCOClass3": {},
+              "Field-IMCOClass4": {},
+              "Field-IMCOClass5": {},
+              "Field-IMCOClass6": {},
+              "Field-IMCOClass7": {},
+              "Field-IMCOClass8": {},
+              "Field-IMCOClass9": {},
+              "Field-InslotOperCode": {
+                "#text": "OR"
+              },
+              "Field-LoadPort": {
+                "#text": "FRFOS"
+              },
+              "Field-OHeight": {},
+              "Field-OLBack": {},
+              "Field-OLFront": {},
+              "Field-OWLeft": {},
+              "Field-OWRight": {},
+              "Field-OpenTsStatus": {
+                "#text": "N"
+              },
+              "Field-OutSlotOperCode": {
+                "#text": "AC"
+              },
+              "Field-RULabel": {},
+              "Field-ReeferTempMax": {},
+              "Field-SealNo": {
+                "#text": "EU114240"
+              },
+              "Field-SecondCarrier": {
+                "#text": "THANA BHUM"
+              },
+              "Field-Service": {
+                "#text": "WM1"
+              },
+              "Field-SizeType": {
+                "#text": "40GP"
+              },
+              "Field-SpecialInst1": {},
+              "Field-SpecialInst2": {},
+              "Field-SpecialInst3": {},
+              "Field-SpecialInst4": {},
+              "Field-SpecialInst5": {},
+              "Field-TSHStatus": {
+                "#text": "Y"
+              },
+              "Field-TempSetting": {},
+              "Field-TempUnit": {},
+              "Field-TransInd": {},
+              "Field-TransType": {},
+              "Field-UltiDest": {},
+              "Field-VGM": {
+                "#text": "10891"
+              },
+              "Field-VGMAuthorizedOfficial": {},
+              "Field-VGMReferenceNumber": {},
+              "Field-VGMWeightedDate": {
+                "#text": "202003152300"
+              },
+              "Field-VGMWeightedMethod": {
+                "#text": "Method2"
+              },
+              "Field-VentSet": {},
+              "Field-Vessel": {
+                "#text": "TPT"
+              },
+              "Field-Voyage": {
+                "#text": "015East"
+              }
+            }
+          },
+          {
+            "#text": "        ",
+            "@ID": "Container_Group",
+            "@Name": "Container_Group",
+            "@Type": "GroupRecord",
+            "Record-ContainerRec": {
+              "#text": "            ",
+              "@ID": "ContainerRec",
+              "@Name": "ContainerRec",
+              "@Type": "Record",
+              "Field-ArrExtVoy": {
+                "#text": "6-015E"
+              },
+              "Field-ArrVslCallSign": {},
+              "Field-ArrVslName": {
+                "#text": "TAMPA TRIUMPH"
+              },
+              "Field-BookingNo": {
+                "#text": "4049640060"
+              },
+              "Field-CargoDesc": {
+                "#text": "HINGE; FURNITURE; TIP LATCH FERRO ZINC.S.V.; HANDLES AND ACCESSORIES"
+              },
+              "Field-CntNo": {
+                "#text": "OOLU1813105"
+              },
+              "Field-CntRecordType": {
+                "#text": "COPRAR1"
+              },
+              "Field-DG": {
+                "#text": "N"
+              },
+              "Field-DSGHPort1": {
+                "#text": "THBKK"
+              },
+              "Field-DSGHPort2": {},
+              "Field-DSGHPort3": {},
+              "Field-DirectDelivery": {},
+              "Field-ExtVoyNo": {
+                "#text": "105N"
+              },
+              "Field-FullEmpty": {
+                "#text": "F"
+              },
+              "Field-GrossWt": {},
+              "Field-HaulierCde": {},
+              "Field-IMCOClass1": {},
+              "Field-IMCOClass2": {},
+              "Field-IMCOClass3": {},
+              "Field-IMCOClass4": {},
+              "Field-IMCOClass5": {},
+              "Field-IMCOClass6": {},
+              "Field-IMCOClass7": {},
+              "Field-IMCOClass8": {},
+              "Field-IMCOClass9": {},
+              "Field-InslotOperCode": {
+                "#text": "OR"
+              },
+              "Field-LoadPort": {
+                "#text": "ITGOA"
+              },
+              "Field-OHeight": {},
+              "Field-OLBack": {},
+              "Field-OLFront": {},
+              "Field-OWLeft": {},
+              "Field-OWRight": {},
+              "Field-OpenTsStatus": {
+                "#text": "N"
+              },
+              "Field-OutSlotOperCode": {
+                "#text": "RC"
+              },
+              "Field-RULabel": {},
+              "Field-ReeferTempMax": {},
+              "Field-SealNo": {
+                "#text": "3081320"
+              },
+              "Field-SecondCarrier": {
+                "#text": "TC SYMPHONY"
+              },
+              "Field-Service": {
+                "#text": "WM1"
+              },
+              "Field-SizeType": {
+                "#text": "20GP"
+              },
+              "Field-SpecialInst1": {},
+              "Field-SpecialInst2": {},
+              "Field-SpecialInst3": {},
+              "Field-SpecialInst4": {},
+              "Field-SpecialInst5": {},
+              "Field-TSHStatus": {
+                "#text": "Y"
+              },
+              "Field-TempSetting": {},
+              "Field-TempUnit": {},
+              "Field-TransInd": {},
+              "Field-TransType": {},
+              "Field-UltiDest": {},
+              "Field-VGM": {
+                "#text": "5970"
+              },
+              "Field-VGMAuthorizedOfficial": {},
+              "Field-VGMReferenceNumber": {},
+              "Field-VGMWeightedDate": {},
+              "Field-VGMWeightedMethod": {
+                "#text": "Method1"
+              },
+              "Field-VentSet": {},
+              "Field-Vessel": {
+                "#text": "TPT"
+              },
+              "Field-Voyage": {
+                "#text": "015East"
+              }
+            }
+          },
+          {
+            "#text": "        ",
+            "@ID": "Container_Group",
+            "@Name": "Container_Group",
+            "@Type": "GroupRecord",
+            "Record-ContainerRec": {
+              "#text": "            ",
+              "@ID": "ContainerRec",
+              "@Name": "ContainerRec",
+              "@Type": "Record",
+              "Field-ArrExtVoy": {
+                "#text": "0AA5EE1M"
+              },
+              "Field-ArrVslCallSign": {},
+              "Field-ArrVslName": {
+                "#text": "CMA CGM CARL ANTOINE"
+              },
+              "Field-BookingNo": {
+                "#text": "2635488130"
+              },
+              "Field-CargoDesc": {
+                "#text": "EUCALYPTUS GRANDIS LOGS , TREATED WOOD (ALUMINIUM  PHOSPHIDE"
+              },
+              "Field-CntNo": {
+                "#text": "OOCU7430154"
+              },
+              "Field-CntRecordType": {
+                "#text": "COPRAR1"
+              },
+              "Field-DG": {
+                "#text": "N"
+              },
+              "Field-DSGHPort1": {
+                "#text": "VNUIH"
+              },
+              "Field-DSGHPort2": {},
+              "Field-DSGHPort3": {},
+              "Field-DirectDelivery": {},
+              "Field-ExtVoyNo": {
+                "#text": "018N"
+              },
+              "Field-FullEmpty": {
+                "#text": "F"
+              },
+              "Field-GrossWt": {},
+              "Field-HaulierCde": {},
+              "Field-IMCOClass1": {},
+              "Field-IMCOClass2": {},
+              "Field-IMCOClass3": {},
+              "Field-IMCOClass4": {},
+              "Field-IMCOClass5": {},
+              "Field-IMCOClass6": {},
+              "Field-IMCOClass7": {},
+              "Field-IMCOClass8": {},
+              "Field-IMCOClass9": {},
+              "Field-InslotOperCode": {
+                "#text": "OR"
+              },
+              "Field-LoadPort": {
+                "#text": "BRPNG"
+              },
+              "Field-OHeight": {},
+              "Field-OLBack": {},
+              "Field-OLFront": {},
+              "Field-OWLeft": {},
+              "Field-OWRight": {},
+              "Field-OpenTsStatus": {
+                "#text": "N"
+              },
+              "Field-OutSlotOperCode": {
+                "#text": "MG"
+              },
+              "Field-RULabel": {},
+              "Field-ReeferTempMax": {},
+              "Field-SealNo": {
+                "#text": "315235"
+              },
+              "Field-SecondCarrier": {
+                "#text": "AISOPOS II"
+              },
+              "Field-Service": {
+                "#text": "TLA1"
+              },
+              "Field-SizeType": {
+                "#text": "40HQ"
+              },
+              "Field-SpecialInst1": {},
+              "Field-SpecialInst2": {},
+              "Field-SpecialInst3": {},
+              "Field-SpecialInst4": {},
+              "Field-SpecialInst5": {},
+              "Field-TSHStatus": {
+                "#text": "Y"
+              },
+              "Field-TempSetting": {},
+              "Field-TempUnit": {},
+              "Field-TransInd": {},
+              "Field-TransType": {},
+              "Field-UltiDest": {},
+              "Field-VGM": {
+                "#text": "31570"
+              },
+              "Field-VGMAuthorizedOfficial": {},
+              "Field-VGMReferenceNumber": {},
+              "Field-VGMWeightedDate": {
+                "#text": "202003062119"
+              },
+              "Field-VGMWeightedMethod": {
+                "#text": "Method1"
+              },
+              "Field-VentSet": {},
+              "Field-Vessel": {
+                "#text": "TOI"
+              },
+              "Field-Voyage": {
+                "#text": "013East"
+              }
+            }
+          },
+          {
+            "#text": "        ",
+            "@ID": "Container_Group",
+            "@Name": "Container_Group",
+            "@Type": "GroupRecord",
+            "Record-ContainerRec": {
+              "#text": "            ",
+              "@ID": "ContainerRec",
+              "@Name": "ContainerRec",
+              "@Type": "Record",
+              "Field-ArrExtVoy": {
+                "#text": "0AA5EE1M"
+              },
+              "Field-ArrVslCallSign": {},
+              "Field-ArrVslName": {
+                "#text": "CMA CGM CARL ANTOINE"
+              },
+              "Field-BookingNo": {
+                "#text": "2635488130"
+              },
+              "Field-CargoDesc": {
+                "#text": "EUCALYPTUS GRANDIS LOGS , TREATED WOOD (ALUMINIUM  PHOSPHIDE"
+              },
+              "Field-CntNo": {
+                "#text": "OOCU6825822"
+              },
+              "Field-CntRecordType": {
+                "#text": "COPRAR1"
+              },
+              "Field-DG": {
+                "#text": "N"
+              },
+              "Field-DSGHPort1": {
+                "#text": "VNUIH"
+              },
+              "Field-DSGHPort2": {},
+              "Field-DSGHPort3": {},
+              "Field-DirectDelivery": {},
+              "Field-ExtVoyNo": {
+                "#text": "018N"
+              },
+              "Field-FullEmpty": {
+                "#text": "F"
+              },
+              "Field-GrossWt": {},
+              "Field-HaulierCde": {},
+              "Field-IMCOClass1": {},
+              "Field-IMCOClass2": {},
+              "Field-IMCOClass3": {},
+              "Field-IMCOClass4": {},
+              "Field-IMCOClass5": {},
+              "Field-IMCOClass6": {},
+              "Field-IMCOClass7": {},
+              "Field-IMCOClass8": {},
+              "Field-IMCOClass9": {},
+              "Field-InslotOperCode": {
+                "#text": "OR"
+              },
+              "Field-LoadPort": {
+                "#text": "BRPNG"
+              },
+              "Field-OHeight": {},
+              "Field-OLBack": {},
+              "Field-OLFront": {},
+              "Field-OWLeft": {},
+              "Field-OWRight": {},
+              "Field-OpenTsStatus": {
+                "#text": "N"
+              },
+              "Field-OutSlotOperCode": {
+                "#text": "MG"
+              },
+              "Field-RULabel": {},
+              "Field-ReeferTempMax": {},
+              "Field-SealNo": {
+                "#text": "315240"
+              },
+              "Field-SecondCarrier": {
+                "#text": "AISOPOS II"
+              },
+              "Field-Service": {
+                "#text": "TLA1"
+              },
+              "Field-SizeType": {
+                "#text": "40HQ"
+              },
+              "Field-SpecialInst1": {},
+              "Field-SpecialInst2": {},
+              "Field-SpecialInst3": {},
+              "Field-SpecialInst4": {},
+              "Field-SpecialInst5": {},
+              "Field-TSHStatus": {
+                "#text": "Y"
+              },
+              "Field-TempSetting": {},
+              "Field-TempUnit": {},
+              "Field-TransInd": {},
+              "Field-TransType": {},
+              "Field-UltiDest": {},
+              "Field-VGM": {
+                "#text": "31520"
+              },
+              "Field-VGMAuthorizedOfficial": {},
+              "Field-VGMReferenceNumber": {},
+              "Field-VGMWeightedDate": {
+                "#text": "202003062120"
+              },
+              "Field-VGMWeightedMethod": {
+                "#text": "Method1"
+              },
+              "Field-VentSet": {},
+              "Field-Vessel": {
+                "#text": "TOI"
+              },
+              "Field-Voyage": {
+                "#text": "013East"
+              }
+            }
+          },
+          {
+            "#text": "        ",
+            "@ID": "Container_Group",
+            "@Name": "Container_Group",
+            "@Type": "GroupRecord",
+            "Record-ContainerRec": {
+              "#text": "            ",
+              "@ID": "ContainerRec",
+              "@Name": "ContainerRec",
+              "@Type": "Record",
+              "Field-ArrExtVoy": {
+                "#text": "0AA5EE1M"
+              },
+              "Field-ArrVslCallSign": {},
+              "Field-ArrVslName": {
+                "#text": "CMA CGM CARL ANTOINE"
+              },
+              "Field-BookingNo": {
+                "#text": "2635488130"
+              },
+              "Field-CargoDesc": {
+                "#text": "EUCALYPTUS GRANDIS LOGS , TREATED WOOD (ALUMINIUM  PHOSPHIDE"
+              },
+              "Field-CntNo": {
+                "#text": "OOCU6524876"
+              },
+              "Field-CntRecordType": {
+                "#text": "COPRAR1"
+              },
+              "Field-DG": {
+                "#text": "N"
+              },
+              "Field-DSGHPort1": {
+                "#text": "VNUIH"
+              },
+              "Field-DSGHPort2": {},
+              "Field-DSGHPort3": {},
+              "Field-DirectDelivery": {},
+              "Field-ExtVoyNo": {
+                "#text": "018N"
+              },
+              "Field-FullEmpty": {
+                "#text": "F"
+              },
+              "Field-GrossWt": {},
+              "Field-HaulierCde": {},
+              "Field-IMCOClass1": {},
+              "Field-IMCOClass2": {},
+              "Field-IMCOClass3": {},
+              "Field-IMCOClass4": {},
+              "Field-IMCOClass5": {},
+              "Field-IMCOClass6": {},
+              "Field-IMCOClass7": {},
+              "Field-IMCOClass8": {},
+              "Field-IMCOClass9": {},
+              "Field-InslotOperCode": {
+                "#text": "OR"
+              },
+              "Field-LoadPort": {
+                "#text": "BRPNG"
+              },
+              "Field-OHeight": {},
+              "Field-OLBack": {},
+              "Field-OLFront": {},
+              "Field-OWLeft": {},
+              "Field-OWRight": {},
+              "Field-OpenTsStatus": {
+                "#text": "N"
+              },
+              "Field-OutSlotOperCode": {
+                "#text": "MG"
+              },
+              "Field-RULabel": {},
+              "Field-ReeferTempMax": {},
+              "Field-SealNo": {
+                "#text": "315241"
+              },
+              "Field-SecondCarrier": {
+                "#text": "AISOPOS II"
+              },
+              "Field-Service": {
+                "#text": "TLA1"
+              },
+              "Field-SizeType": {
+                "#text": "40HQ"
+              },
+              "Field-SpecialInst1": {},
+              "Field-SpecialInst2": {},
+              "Field-SpecialInst3": {},
+              "Field-SpecialInst4": {},
+              "Field-SpecialInst5": {},
+              "Field-TSHStatus": {
+                "#text": "Y"
+              },
+              "Field-TempSetting": {},
+              "Field-TempUnit": {},
+              "Field-TransInd": {},
+              "Field-TransType": {},
+              "Field-UltiDest": {},
+              "Field-VGM": {
+                "#text": "31530"
+              },
+              "Field-VGMAuthorizedOfficial": {},
+              "Field-VGMReferenceNumber": {},
+              "Field-VGMWeightedDate": {
+                "#text": "202003062119"
+              },
+              "Field-VGMWeightedMethod": {
+                "#text": "Method1"
+              },
+              "Field-VentSet": {},
+              "Field-Vessel": {
+                "#text": "TOI"
+              },
+              "Field-Voyage": {
+                "#text": "013East"
+              }
+            }
+          },
+          {
+            "#text": "        ",
+            "@ID": "Container_Group",
+            "@Name": "Container_Group",
+            "@Type": "GroupRecord",
+            "Record-ContainerRec": {
+              "#text": "            ",
+              "@ID": "ContainerRec",
+              "@Name": "ContainerRec",
+              "@Type": "Record",
+              "Field-ArrExtVoy": {
+                "#text": "0AA5EE1M"
+              },
+              "Field-ArrVslCallSign": {},
+              "Field-ArrVslName": {
+                "#text": "CMA CGM CARL ANTOINE"
+              },
+              "Field-BookingNo": {
+                "#text": "2635488130"
+              },
+              "Field-CargoDesc": {
+                "#text": "EUCALYPTUS GRANDIS LOGS , TREATED WOOD (ALUMINIUM  PHOSPHIDE"
+              },
+              "Field-CntNo": {
+                "#text": "OOCU7067368"
+              },
+              "Field-CntRecordType": {
+                "#text": "COPRAR1"
+              },
+              "Field-DG": {
+                "#text": "N"
+              },
+              "Field-DSGHPort1": {
+                "#text": "VNUIH"
+              },
+              "Field-DSGHPort2": {},
+              "Field-DSGHPort3": {},
+              "Field-DirectDelivery": {},
+              "Field-ExtVoyNo": {
+                "#text": "018N"
+              },
+              "Field-FullEmpty": {
+                "#text": "F"
+              },
+              "Field-GrossWt": {},
+              "Field-HaulierCde": {},
+              "Field-IMCOClass1": {},
+              "Field-IMCOClass2": {},
+              "Field-IMCOClass3": {},
+              "Field-IMCOClass4": {},
+              "Field-IMCOClass5": {},
+              "Field-IMCOClass6": {},
+              "Field-IMCOClass7": {},
+              "Field-IMCOClass8": {},
+              "Field-IMCOClass9": {},
+              "Field-InslotOperCode": {
+                "#text": "OR"
+              },
+              "Field-LoadPort": {
+                "#text": "BRPNG"
+              },
+              "Field-OHeight": {},
+              "Field-OLBack": {},
+              "Field-OLFront": {},
+              "Field-OWLeft": {},
+              "Field-OWRight": {},
+              "Field-OpenTsStatus": {
+                "#text": "N"
+              },
+              "Field-OutSlotOperCode": {
+                "#text": "MG"
+              },
+              "Field-RULabel": {},
+              "Field-ReeferTempMax": {},
+              "Field-SealNo": {
+                "#text": "315270"
+              },
+              "Field-SecondCarrier": {
+                "#text": "AISOPOS II"
+              },
+              "Field-Service": {
+                "#text": "TLA1"
+              },
+              "Field-SizeType": {
+                "#text": "40HQ"
+              },
+              "Field-SpecialInst1": {},
+              "Field-SpecialInst2": {},
+              "Field-SpecialInst3": {},
+              "Field-SpecialInst4": {},
+              "Field-SpecialInst5": {},
+              "Field-TSHStatus": {
+                "#text": "Y"
+              },
+              "Field-TempSetting": {},
+              "Field-TempUnit": {},
+              "Field-TransInd": {},
+              "Field-TransType": {},
+              "Field-UltiDest": {},
+              "Field-VGM": {
+                "#text": "31510"
+              },
+              "Field-VGMAuthorizedOfficial": {},
+              "Field-VGMReferenceNumber": {},
+              "Field-VGMWeightedDate": {
+                "#text": "202003062119"
+              },
+              "Field-VGMWeightedMethod": {
+                "#text": "Method1"
+              },
+              "Field-VentSet": {},
+              "Field-Vessel": {
+                "#text": "TOI"
+              },
+              "Field-Voyage": {
+                "#text": "013East"
+              }
+            }
+          },
+          {
+            "#text": "        ",
+            "@ID": "Container_Group",
+            "@Name": "Container_Group",
+            "@Type": "GroupRecord",
+            "Record-ContainerRec": {
+              "#text": "            ",
+              "@ID": "ContainerRec",
+              "@Name": "ContainerRec",
+              "@Type": "Record",
+              "Field-ArrExtVoy": {
+                "#text": "0AA5EE1M"
+              },
+              "Field-ArrVslCallSign": {},
+              "Field-ArrVslName": {
+                "#text": "CMA CGM CARL ANTOINE"
+              },
+              "Field-BookingNo": {
+                "#text": "2635488130"
+              },
+              "Field-CargoDesc": {
+                "#text": "EUCALYPTUS GRANDIS LOGS , TREATED WOOD (ALUMINIUM  PHOSPHIDE"
+              },
+              "Field-CntNo": {
+                "#text": "CBHU9595391"
+              },
+              "Field-CntRecordType": {
+                "#text": "COPRAR1"
+              },
+              "Field-DG": {
+                "#text": "N"
+              },
+              "Field-DSGHPort1": {
+                "#text": "VNUIH"
+              },
+              "Field-DSGHPort2": {},
+              "Field-DSGHPort3": {},
+              "Field-DirectDelivery": {},
+              "Field-ExtVoyNo": {
+                "#text": "018N"
+              },
+              "Field-FullEmpty": {
+                "#text": "F"
+              },
+              "Field-GrossWt": {},
+              "Field-HaulierCde": {},
+              "Field-IMCOClass1": {},
+              "Field-IMCOClass2": {},
+              "Field-IMCOClass3": {},
+              "Field-IMCOClass4": {},
+              "Field-IMCOClass5": {},
+              "Field-IMCOClass6": {},
+              "Field-IMCOClass7": {},
+              "Field-IMCOClass8": {},
+              "Field-IMCOClass9": {},
+              "Field-InslotOperCode": {
+                "#text": "OR"
+              },
+              "Field-LoadPort": {
+                "#text": "BRPNG"
+              },
+              "Field-OHeight": {},
+              "Field-OLBack": {},
+              "Field-OLFront": {},
+              "Field-OWLeft": {},
+              "Field-OWRight": {},
+              "Field-OpenTsStatus": {
+                "#text": "N"
+              },
+              "Field-OutSlotOperCode": {
+                "#text": "MG"
+              },
+              "Field-RULabel": {},
+              "Field-ReeferTempMax": {},
+              "Field-SealNo": {
+                "#text": "315233"
+              },
+              "Field-SecondCarrier": {
+                "#text": "AISOPOS II"
+              },
+              "Field-Service": {
+                "#text": "TLA1"
+              },
+              "Field-SizeType": {
+                "#text": "40HQ"
+              },
+              "Field-SpecialInst1": {},
+              "Field-SpecialInst2": {},
+              "Field-SpecialInst3": {},
+              "Field-SpecialInst4": {},
+              "Field-SpecialInst5": {},
+              "Field-TSHStatus": {
+                "#text": "Y"
+              },
+              "Field-TempSetting": {},
+              "Field-TempUnit": {},
+              "Field-TransInd": {},
+              "Field-TransType": {},
+              "Field-UltiDest": {},
+              "Field-VGM": {
+                "#text": "31580"
+              },
+              "Field-VGMAuthorizedOfficial": {},
+              "Field-VGMReferenceNumber": {},
+              "Field-VGMWeightedDate": {
+                "#text": "202003062119"
+              },
+              "Field-VGMWeightedMethod": {
+                "#text": "Method1"
+              },
+              "Field-VentSet": {},
+              "Field-Vessel": {
+                "#text": "TOI"
+              },
+              "Field-Voyage": {
+                "#text": "013East"
+              }
+            }
+          },
+          {
+            "#text": "        ",
+            "@ID": "Container_Group",
+            "@Name": "Container_Group",
+            "@Type": "GroupRecord",
+            "Record-ContainerRec": {
+              "#text": "            ",
+              "@ID": "ContainerRec",
+              "@Name": "ContainerRec",
+              "@Type": "Record",
+              "Field-ArrExtVoy": {
+                "#text": "0AA5EE1M"
+              },
+              "Field-ArrVslCallSign": {},
+              "Field-ArrVslName": {
+                "#text": "CMA CGM CARL ANTOINE"
+              },
+              "Field-BookingNo": {
+                "#text": "2635488130"
+              },
+              "Field-CargoDesc": {
+                "#text": "EUCALYPTUS GRANDIS LOGS , TREATED WOOD (ALUMINIUM  PHOSPHIDE"
+              },
+              "Field-CntNo": {
+                "#text": "OOCU7815080"
+              },
+              "Field-CntRecordType": {
+                "#text": "COPRAR1"
+              },
+              "Field-DG": {
+                "#text": "N"
+              },
+              "Field-DSGHPort1": {
+                "#text": "VNUIH"
+              },
+              "Field-DSGHPort2": {},
+              "Field-DSGHPort3": {},
+              "Field-DirectDelivery": {},
+              "Field-ExtVoyNo": {
+                "#text": "018N"
+              },
+              "Field-FullEmpty": {
+                "#text": "F"
+              },
+              "Field-GrossWt": {},
+              "Field-HaulierCde": {},
+              "Field-IMCOClass1": {},
+              "Field-IMCOClass2": {},
+              "Field-IMCOClass3": {},
+              "Field-IMCOClass4": {},
+              "Field-IMCOClass5": {},
+              "Field-IMCOClass6": {},
+              "Field-IMCOClass7": {},
+              "Field-IMCOClass8": {},
+              "Field-IMCOClass9": {},
+              "Field-InslotOperCode": {
+                "#text": "OR"
+              },
+              "Field-LoadPort": {
+                "#text": "BRPNG"
+              },
+              "Field-OHeight": {},
+              "Field-OLBack": {},
+              "Field-OLFront": {},
+              "Field-OWLeft": {},
+              "Field-OWRight": {},
+              "Field-OpenTsStatus": {
+                "#text": "N"
+              },
+              "Field-OutSlotOperCode": {
+                "#text": "MG"
+              },
+              "Field-RULabel": {},
+              "Field-ReeferTempMax": {},
+              "Field-SealNo": {
+                "#text": "315238"
+              },
+              "Field-SecondCarrier": {
+                "#text": "AISOPOS II"
+              },
+              "Field-Service": {
+                "#text": "TLA1"
+              },
+              "Field-SizeType": {
+                "#text": "40HQ"
+              },
+              "Field-SpecialInst1": {},
+              "Field-SpecialInst2": {},
+              "Field-SpecialInst3": {},
+              "Field-SpecialInst4": {},
+              "Field-SpecialInst5": {},
+              "Field-TSHStatus": {
+                "#text": "Y"
+              },
+              "Field-TempSetting": {},
+              "Field-TempUnit": {},
+              "Field-TransInd": {},
+              "Field-TransType": {},
+              "Field-UltiDest": {},
+              "Field-VGM": {
+                "#text": "31570"
+              },
+              "Field-VGMAuthorizedOfficial": {},
+              "Field-VGMReferenceNumber": {},
+              "Field-VGMWeightedDate": {
+                "#text": "202003062119"
+              },
+              "Field-VGMWeightedMethod": {
+                "#text": "Method1"
+              },
+              "Field-VentSet": {},
+              "Field-Vessel": {
+                "#text": "TOI"
+              },
+              "Field-Voyage": {
+                "#text": "013East"
+              }
+            }
+          },
+          {
+            "#text": "        ",
+            "@ID": "Container_Group",
+            "@Name": "Container_Group",
+            "@Type": "GroupRecord",
+            "Record-ContainerRec": {
+              "#text": "            ",
+              "@ID": "ContainerRec",
+              "@Name": "ContainerRec",
+              "@Type": "Record",
+              "Field-ArrExtVoy": {
+                "#text": "0AA5EE1M"
+              },
+              "Field-ArrVslCallSign": {},
+              "Field-ArrVslName": {
+                "#text": "CMA CGM CARL ANTOINE"
+              },
+              "Field-BookingNo": {
+                "#text": "2635488130"
+              },
+              "Field-CargoDesc": {
+                "#text": "EUCALYPTUS GRANDIS LOGS , TREATED WOOD (ALUMINIUM  PHOSPHIDE"
+              },
+              "Field-CntNo": {
+                "#text": "CBHU8455081"
+              },
+              "Field-CntRecordType": {
+                "#text": "COPRAR1"
+              },
+              "Field-DG": {
+                "#text": "N"
+              },
+              "Field-DSGHPort1": {
+                "#text": "VNUIH"
+              },
+              "Field-DSGHPort2": {},
+              "Field-DSGHPort3": {},
+              "Field-DirectDelivery": {},
+              "Field-ExtVoyNo": {
+                "#text": "018N"
+              },
+              "Field-FullEmpty": {
+                "#text": "F"
+              },
+              "Field-GrossWt": {},
+              "Field-HaulierCde": {},
+              "Field-IMCOClass1": {},
+              "Field-IMCOClass2": {},
+              "Field-IMCOClass3": {},
+              "Field-IMCOClass4": {},
+              "Field-IMCOClass5": {},
+              "Field-IMCOClass6": {},
+              "Field-IMCOClass7": {},
+              "Field-IMCOClass8": {},
+              "Field-IMCOClass9": {},
+              "Field-InslotOperCode": {
+                "#text": "OR"
+              },
+              "Field-LoadPort": {
+                "#text": "BRPNG"
+              },
+              "Field-OHeight": {},
+              "Field-OLBack": {},
+              "Field-OLFront": {},
+              "Field-OWLeft": {},
+              "Field-OWRight": {},
+              "Field-OpenTsStatus": {
+                "#text": "N"
+              },
+              "Field-OutSlotOperCode": {
+                "#text": "MG"
+              },
+              "Field-RULabel": {},
+              "Field-ReeferTempMax": {},
+              "Field-SealNo": {
+                "#text": "315221"
+              },
+              "Field-SecondCarrier": {
+                "#text": "AISOPOS II"
+              },
+              "Field-Service": {
+                "#text": "TLA1"
+              },
+              "Field-SizeType": {
+                "#text": "40HQ"
+              },
+              "Field-SpecialInst1": {},
+              "Field-SpecialInst2": {},
+              "Field-SpecialInst3": {},
+              "Field-SpecialInst4": {},
+              "Field-SpecialInst5": {},
+              "Field-TSHStatus": {
+                "#text": "Y"
+              },
+              "Field-TempSetting": {},
+              "Field-TempUnit": {},
+              "Field-TransInd": {},
+              "Field-TransType": {},
+              "Field-UltiDest": {},
+              "Field-VGM": {
+                "#text": "31650"
+              },
+              "Field-VGMAuthorizedOfficial": {},
+              "Field-VGMReferenceNumber": {},
+              "Field-VGMWeightedDate": {
+                "#text": "202003062120"
+              },
+              "Field-VGMWeightedMethod": {
+                "#text": "Method1"
+              },
+              "Field-VentSet": {},
+              "Field-Vessel": {
+                "#text": "TOI"
+              },
+              "Field-Voyage": {
+                "#text": "013East"
+              }
+            }
+          },
+          {
+            "#text": "        ",
+            "@ID": "Container_Group",
+            "@Name": "Container_Group",
+            "@Type": "GroupRecord",
+            "Record-ContainerRec": {
+              "#text": "            ",
+              "@ID": "ContainerRec",
+              "@Name": "ContainerRec",
+              "@Type": "Record",
+              "Field-ArrExtVoy": {
+                "#text": "0AA5EE1M"
+              },
+              "Field-ArrVslCallSign": {},
+              "Field-ArrVslName": {
+                "#text": "CMA CGM CARL ANTOINE"
+              },
+              "Field-BookingNo": {
+                "#text": "2635488130"
+              },
+              "Field-CargoDesc": {
+                "#text": "EUCALYPTUS GRANDIS LOGS , TREATED WOOD (ALUMINIUM  PHOSPHIDE"
+              },
+              "Field-CntNo": {
+                "#text": "CSNU6943275"
+              },
+              "Field-CntRecordType": {
+                "#text": "COPRAR1"
+              },
+              "Field-DG": {
+                "#text": "N"
+              },
+              "Field-DSGHPort1": {
+                "#text": "VNUIH"
+              },
+              "Field-DSGHPort2": {},
+              "Field-DSGHPort3": {},
+              "Field-DirectDelivery": {},
+              "Field-ExtVoyNo": {
+                "#text": "018N"
+              },
+              "Field-FullEmpty": {
+                "#text": "F"
+              },
+              "Field-GrossWt": {},
+              "Field-HaulierCde": {},
+              "Field-IMCOClass1": {},
+              "Field-IMCOClass2": {},
+              "Field-IMCOClass3": {},
+              "Field-IMCOClass4": {},
+              "Field-IMCOClass5": {},
+              "Field-IMCOClass6": {},
+              "Field-IMCOClass7": {},
+              "Field-IMCOClass8": {},
+              "Field-IMCOClass9": {},
+              "Field-InslotOperCode": {
+                "#text": "OR"
+              },
+              "Field-LoadPort": {
+                "#text": "BRPNG"
+              },
+              "Field-OHeight": {},
+              "Field-OLBack": {},
+              "Field-OLFront": {},
+              "Field-OWLeft": {},
+              "Field-OWRight": {},
+              "Field-OpenTsStatus": {
+                "#text": "N"
+              },
+              "Field-OutSlotOperCode": {
+                "#text": "MG"
+              },
+              "Field-RULabel": {},
+              "Field-ReeferTempMax": {},
+              "Field-SealNo": {
+                "#text": "228624"
+              },
+              "Field-SecondCarrier": {
+                "#text": "AISOPOS II"
+              },
+              "Field-Service": {
+                "#text": "TLA1"
+              },
+              "Field-SizeType": {
+                "#text": "40HQ"
+              },
+              "Field-SpecialInst1": {},
+              "Field-SpecialInst2": {},
+              "Field-SpecialInst3": {},
+              "Field-SpecialInst4": {},
+              "Field-SpecialInst5": {},
+              "Field-TSHStatus": {
+                "#text": "Y"
+              },
+              "Field-TempSetting": {},
+              "Field-TempUnit": {},
+              "Field-TransInd": {},
+              "Field-TransType": {},
+              "Field-UltiDest": {},
+              "Field-VGM": {
+                "#text": "31550"
+              },
+              "Field-VGMAuthorizedOfficial": {},
+              "Field-VGMReferenceNumber": {},
+              "Field-VGMWeightedDate": {
+                "#text": "202003062118"
+              },
+              "Field-VGMWeightedMethod": {
+                "#text": "Method1"
+              },
+              "Field-VentSet": {},
+              "Field-Vessel": {
+                "#text": "TOI"
+              },
+              "Field-Voyage": {
+                "#text": "013East"
+              }
+            }
+          },
+          {
+            "#text": "        ",
+            "@ID": "Container_Group",
+            "@Name": "Container_Group",
+            "@Type": "GroupRecord",
+            "Record-ContainerRec": {
+              "#text": "            ",
+              "@ID": "ContainerRec",
+              "@Name": "ContainerRec",
+              "@Type": "Record",
+              "Field-ArrExtVoy": {
+                "#text": "0AA5EE1M"
+              },
+              "Field-ArrVslCallSign": {},
+              "Field-ArrVslName": {
+                "#text": "CMA CGM CARL ANTOINE"
+              },
+              "Field-BookingNo": {
+                "#text": "2635488130"
+              },
+              "Field-CargoDesc": {
+                "#text": "EUCALYPTUS GRANDIS LOGS , TREATED WOOD (ALUMINIUM  PHOSPHIDE"
+              },
+              "Field-CntNo": {
+                "#text": "TGBU7773883"
+              },
+              "Field-CntRecordType": {
+                "#text": "COPRAR1"
+              },
+              "Field-DG": {
+                "#text": "N"
+              },
+              "Field-DSGHPort1": {
+                "#text": "VNUIH"
+              },
+              "Field-DSGHPort2": {},
+              "Field-DSGHPort3": {},
+              "Field-DirectDelivery": {},
+              "Field-ExtVoyNo": {
+                "#text": "018N"
+              },
+              "Field-FullEmpty": {
+                "#text": "F"
+              },
+              "Field-GrossWt": {},
+              "Field-HaulierCde": {},
+              "Field-IMCOClass1": {},
+              "Field-IMCOClass2": {},
+              "Field-IMCOClass3": {},
+              "Field-IMCOClass4": {},
+              "Field-IMCOClass5": {},
+              "Field-IMCOClass6": {},
+              "Field-IMCOClass7": {},
+              "Field-IMCOClass8": {},
+              "Field-IMCOClass9": {},
+              "Field-InslotOperCode": {
+                "#text": "OR"
+              },
+              "Field-LoadPort": {
+                "#text": "BRPNG"
+              },
+              "Field-OHeight": {},
+              "Field-OLBack": {},
+              "Field-OLFront": {},
+              "Field-OWLeft": {},
+              "Field-OWRight": {},
+              "Field-OpenTsStatus": {
+                "#text": "N"
+              },
+              "Field-OutSlotOperCode": {
+                "#text": "MG"
+              },
+              "Field-RULabel": {},
+              "Field-ReeferTempMax": {},
+              "Field-SealNo": {
+                "#text": "315236"
+              },
+              "Field-SecondCarrier": {
+                "#text": "AISOPOS II"
+              },
+              "Field-Service": {
+                "#text": "TLA1"
+              },
+              "Field-SizeType": {
+                "#text": "40HQ"
+              },
+              "Field-SpecialInst1": {},
+              "Field-SpecialInst2": {},
+              "Field-SpecialInst3": {},
+              "Field-SpecialInst4": {},
+              "Field-SpecialInst5": {},
+              "Field-TSHStatus": {
+                "#text": "Y"
+              },
+              "Field-TempSetting": {},
+              "Field-TempUnit": {},
+              "Field-TransInd": {},
+              "Field-TransType": {},
+              "Field-UltiDest": {},
+              "Field-VGM": {
+                "#text": "31450"
+              },
+              "Field-VGMAuthorizedOfficial": {},
+              "Field-VGMReferenceNumber": {},
+              "Field-VGMWeightedDate": {
+                "#text": "202003062119"
+              },
+              "Field-VGMWeightedMethod": {
+                "#text": "Method1"
+              },
+              "Field-VentSet": {},
+              "Field-Vessel": {
+                "#text": "TOI"
+              },
+              "Field-Voyage": {
+                "#text": "013East"
+              }
+            }
+          },
+          {
+            "#text": "        ",
+            "@ID": "Container_Group",
+            "@Name": "Container_Group",
+            "@Type": "GroupRecord",
+            "Record-ContainerRec": {
+              "#text": "            ",
+              "@ID": "ContainerRec",
+              "@Name": "ContainerRec",
+              "@Type": "Record",
+              "Field-ArrExtVoy": {
+                "#text": "0AA5EE1M"
+              },
+              "Field-ArrVslCallSign": {},
+              "Field-ArrVslName": {
+                "#text": "CMA CGM CARL ANTOINE"
+              },
+              "Field-BookingNo": {
+                "#text": "2635488130"
+              },
+              "Field-CargoDesc": {
+                "#text": "EUCALYPTUS GRANDIS LOGS , TREATED WOOD (ALUMINIUM  PHOSPHIDE"
+              },
+              "Field-CntNo": {
+                "#text": "OOCU6793303"
+              },
+              "Field-CntRecordType": {
+                "#text": "COPRAR1"
+              },
+              "Field-DG": {
+                "#text": "N"
+              },
+              "Field-DSGHPort1": {
+                "#text": "VNUIH"
+              },
+              "Field-DSGHPort2": {},
+              "Field-DSGHPort3": {},
+              "Field-DirectDelivery": {},
+              "Field-ExtVoyNo": {
+                "#text": "018N"
+              },
+              "Field-FullEmpty": {
+                "#text": "F"
+              },
+              "Field-GrossWt": {},
+              "Field-HaulierCde": {},
+              "Field-IMCOClass1": {},
+              "Field-IMCOClass2": {},
+              "Field-IMCOClass3": {},
+              "Field-IMCOClass4": {},
+              "Field-IMCOClass5": {},
+              "Field-IMCOClass6": {},
+              "Field-IMCOClass7": {},
+              "Field-IMCOClass8": {},
+              "Field-IMCOClass9": {},
+              "Field-InslotOperCode": {
+                "#text": "OR"
+              },
+              "Field-LoadPort": {
+                "#text": "BRPNG"
+              },
+              "Field-OHeight": {},
+              "Field-OLBack": {},
+              "Field-OLFront": {},
+              "Field-OWLeft": {},
+              "Field-OWRight": {},
+              "Field-OpenTsStatus": {
+                "#text": "N"
+              },
+              "Field-OutSlotOperCode": {
+                "#text": "MG"
+              },
+              "Field-RULabel": {},
+              "Field-ReeferTempMax": {},
+              "Field-SealNo": {
+                "#text": "315228"
+              },
+              "Field-SecondCarrier": {
+                "#text": "AISOPOS II"
+              },
+              "Field-Service": {
+                "#text": "TLA1"
+              },
+              "Field-SizeType": {
+                "#text": "40HQ"
+              },
+              "Field-SpecialInst1": {},
+              "Field-SpecialInst2": {},
+              "Field-SpecialInst3": {},
+              "Field-SpecialInst4": {},
+              "Field-SpecialInst5": {},
+              "Field-TSHStatus": {
+                "#text": "Y"
+              },
+              "Field-TempSetting": {},
+              "Field-TempUnit": {},
+              "Field-TransInd": {},
+              "Field-TransType": {},
+              "Field-UltiDest": {},
+              "Field-VGM": {
+                "#text": "31520"
+              },
+              "Field-VGMAuthorizedOfficial": {},
+              "Field-VGMReferenceNumber": {},
+              "Field-VGMWeightedDate": {
+                "#text": "202003062118"
+              },
+              "Field-VGMWeightedMethod": {
+                "#text": "Method1"
+              },
+              "Field-VentSet": {},
+              "Field-Vessel": {
+                "#text": "TOI"
+              },
+              "Field-Voyage": {
+                "#text": "013East"
+              }
+            }
+          }
+        ],
+        "Record-Header": {
+          "#text": "        ",
+          "@ID": "Header",
+          "@Name": "Header",
+          "@Type": "Record",
+          "Field-AAAAActionType": {},
+          "Field-AAAAMesgId": {
+            "#text": "COPRARRI"
+          },
+          "Field-AAAAPartId": {
+            "#text": "PSA2"
+          },
+          "Field-AAAARecordType": {
+            "#text": "NEW"
+          }
+        },
+        "Record-HeaderRec": {
+          "@{http://www.w3.org/2001/XMLSchema-instance}nil": "true"
+        }
+      }
+    },
+    "Record-Header": {
+      "#text": "        ",
+      "@ID": "Header",
+      "@Name": "Header",
+      "@Type": "Record",
+      "Field-AAAAActionType": {},
+      "Field-AAAAMesgId": {
+        "#text": "COPRARRI"
+      },
+      "Field-AAAAPartId": {
+        "#text": "PSA2"
+      },
+      "Field-AAAARecordType": {
+        "#text": "NEW"
+      }
+    },
+    "Record-HeaderRec": {
+      "@{http://www.w3.org/2001/XMLSchema-instance}nil": "true"
+    }
+  }
+}
