@@ -5,8 +5,8 @@ import pandas as pd
 from UnwantedDataFilter import filterDict
 from XMLFileExtractor import extractXml
 
-PSA2_FOLDER_PATH = '../../PSA2'
-PSA_FOLDER_PATH = '../../PSA'
+PSA2_FOLDER_PATH = '../../XMLSource2'
+PSA_FOLDER_PATH = '../../XMLSource1'
 
 # Extract XML Files and convert it to Dictionary (CntrNumber will be the key)
 
