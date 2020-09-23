@@ -1,0 +1,26 @@
+,new_value,old_value
+root['OOLU9509423']['Field-OutSlotOperCode'],OR,SA
+root['OOLU8742981']['Field-OutSlotOperCode'],OR,SA
+root['CCLU7646740']['Field-OutSlotOperCode'],OR,SA
+root['OOLU3963927']['Field-BookingNo'],OOLU3963927,EP13446090
+root['CBHU4061691']['Field-BookingNo'],CBHU4061691,EP13408210
+root['OOLU9351282']['Field-OutSlotOperCode'],OR,SA
+root['OOLU0362481']['Field-ExtVoyNo'],123N,089N
+root['OOLU0362481']['Field-SecondCarrier'],OOCL GUANGZHOU,OOCL NEW ZEALAND
+root['OOLU9544532']['Field-OutSlotOperCode'],OR,SA
+root['OOLU3870085']['Field-BookingNo'],OOLU3870085,EP13446090
+root['OOLU1814708']['Field-BookingNo'],OOLU1814708,EP13408210
+root['OOLU6942173']['Field-OutSlotOperCode'],OR,SA
+root['TCLU7577754']['Field-BookingNo'],TCLU7577754,EP13448840
+root['OOLU8692751']['Field-OutSlotOperCode'],OR,SA
+root['OOLU3867610']['Field-BookingNo'],OOLU3867610,EP13446090
+root['DRYU9924190']['Field-OutSlotOperCode'],OR,SA
+root['TCNU3843426']['Field-OutSlotOperCode'],OR,SA
+root['OOLU6162330']['Field-BookingNo'],OOLU6162330,EP13446100
+root['UETU2303137']['Field-BookingNo'],UETU2303137,EP13408210
+root['GVCU2123995']['Field-BookingNo'],GVCU2123995,EP13408210
+root['OOLU0681750']['Field-ExtVoyNo'],123N,089N
+root['OOLU0681750']['Field-SecondCarrier'],OOCL GUANGZHOU,OOCL NEW ZEALAND
+root['CBHU4222857']['Field-BookingNo'],CBHU4222857,EP13408210
+root['AMFU2000003']['Field-BookingNo'],AMFU2000003,EP13448820
+root['CCLU7901358']['Field-OutSlotOperCode'],OR,SA

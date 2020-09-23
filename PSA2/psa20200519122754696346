@@ -1,0 +1,628 @@
+<ns0:Message-PSACOPRAR xmlns:ns0="http://www.edifecs.com/xdata/200" Type="Message" ID="PSACOPRAR" XDataVersion="2.0" Standard="PFF">
+    <ns0:Record-Header ID="Header" Name="Header" Type="Record">
+        <ns0:Field-AAAARecordType DataType="String">NEW</ns0:Field-AAAARecordType>
+        <ns0:Field-AAAAMesgId DataType="String">COPRARRI</ns0:Field-AAAAMesgId>
+        <ns0:Field-AAAAPartId DataType="String">PSA2</ns0:Field-AAAAPartId>
+        <ns0:Field-AAAAActionType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+    </ns0:Record-Header>
+    <ns0:GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
+        <ns0:Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
+            <ns0:Field-CntRecordType DataType="String">COPRAR1</ns0:Field-CntRecordType>
+            <ns0:Field-CntNo DataType="String">OOLU6427419</ns0:Field-CntNo>
+            <ns0:Field-BookingNo DataType="String">2635888790</ns0:Field-BookingNo>
+            <ns0:Field-Service DataType="String">TLA2</ns0:Field-Service>
+            <ns0:Field-Vessel DataType="String">LES</ns0:Field-Vessel>
+            <ns0:Field-Voyage DataType="String">023East</ns0:Field-Voyage>
+            <ns0:Field-ExtVoyNo DataType="String">020E</ns0:Field-ExtVoyNo>
+            <ns0:Field-LoadPort DataType="String">BRSSZ</ns0:Field-LoadPort>
+            <ns0:Field-SizeType DataType="String">40RQ</ns0:Field-SizeType>
+            <ns0:Field-FullEmpty DataType="String">F</ns0:Field-FullEmpty>
+            <ns0:Field-GrossWt xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-ReeferTempMax xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-TempSetting DataType="String">-018.00</ns0:Field-TempSetting>
+            <ns0:Field-TempUnit DataType="String">C</ns0:Field-TempUnit>
+            <ns0:Field-SpecialInst1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst4 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst5 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-VentSet DataType="String">0M</ns0:Field-VentSet>
+            <ns0:Field-IMCOClass1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass4 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass5 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass6 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass7 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass8 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass9 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DSGHPort1 DataType="String">CNTXG</ns0:Field-DSGHPort1>
+            <ns0:Field-DSGHPort2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DSGHPort3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-TransType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-TransInd xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SealNo DataType="String">329167</ns0:Field-SealNo>
+            <ns0:Field-UltiDest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-OLFront DataType="String"/>
+            <ns0:Field-OLBack DataType="String"/>
+            <ns0:Field-OWLeft DataType="String"/>
+            <ns0:Field-OWRight DataType="String"/>
+            <ns0:Field-OHeight DataType="String"/>
+            <ns0:Field-InslotOperCode DataType="String">OR</ns0:Field-InslotOperCode>
+            <ns0:Field-OutSlotOperCode DataType="String">OR</ns0:Field-OutSlotOperCode>
+            <ns0:Field-SecondCarrier DataType="String">MAERSK SALALAH</ns0:Field-SecondCarrier>
+            <ns0:Field-CargoDesc DataType="String">BONELESS BEEF - SHIN , BEEF -  CHUCK ROLL, BEEF -  BRISKET</ns0:Field-CargoDesc>
+            <ns0:Field-RULabel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DG DataType="String">N</ns0:Field-DG>
+            <ns0:Field-TSHStatus DataType="String">Y</ns0:Field-TSHStatus>
+            <ns0:Field-ArrExtVoy DataType="String">0091E</ns0:Field-ArrExtVoy>
+            <ns0:Field-ArrVslCallSign DataType="String">9V2116</ns0:Field-ArrVslCallSign>
+            <ns0:Field-ArrVslName DataType="String">KOTA LESTARI</ns0:Field-ArrVslName>
+            <ns0:Field-HaulierCde xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-VGM DataType="String">32748</ns0:Field-VGM>
+            <ns0:Field-VGMReferenceNumber xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-VGMWeightedMethod DataType="String">Method2</ns0:Field-VGMWeightedMethod>
+            <ns0:Field-VGMWeightedDate DataType="String">202004032300</ns0:Field-VGMWeightedDate>
+            <ns0:Field-VGMAuthorizedOfficial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DirectDelivery DataType="String"/>
+        </ns0:Record-ContainerRec>
+    </ns0:GroupRecord-Container_Group>
+    <ns0:GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
+        <ns0:Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
+            <ns0:Field-CntRecordType DataType="String">COPRAR1</ns0:Field-CntRecordType>
+            <ns0:Field-CntNo DataType="String">OOLU6135211</ns0:Field-CntNo>
+            <ns0:Field-BookingNo DataType="String">2636991470</ns0:Field-BookingNo>
+            <ns0:Field-Service DataType="String">TLA2</ns0:Field-Service>
+            <ns0:Field-Vessel DataType="String">LES</ns0:Field-Vessel>
+            <ns0:Field-Voyage DataType="String">023East</ns0:Field-Voyage>
+            <ns0:Field-ExtVoyNo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-LoadPort DataType="String">BRNVT</ns0:Field-LoadPort>
+            <ns0:Field-SizeType DataType="String">40RQ</ns0:Field-SizeType>
+            <ns0:Field-FullEmpty DataType="String">F</ns0:Field-FullEmpty>
+            <ns0:Field-GrossWt xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-ReeferTempMax xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-TempSetting DataType="String">-018.00</ns0:Field-TempSetting>
+            <ns0:Field-TempUnit DataType="String">C</ns0:Field-TempUnit>
+            <ns0:Field-SpecialInst1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst4 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst5 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-VentSet DataType="String">0M</ns0:Field-VentSet>
+            <ns0:Field-IMCOClass1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass4 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass5 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass6 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass7 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass8 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass9 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DSGHPort1 DataType="String">SGSIN</ns0:Field-DSGHPort1>
+            <ns0:Field-DSGHPort2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DSGHPort3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-TransType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-TransInd xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SealNo DataType="String">238322</ns0:Field-SealNo>
+            <ns0:Field-UltiDest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-OLFront DataType="String"/>
+            <ns0:Field-OLBack DataType="String"/>
+            <ns0:Field-OWLeft DataType="String"/>
+            <ns0:Field-OWRight DataType="String"/>
+            <ns0:Field-OHeight DataType="String"/>
+            <ns0:Field-InslotOperCode DataType="String">OR</ns0:Field-InslotOperCode>
+            <ns0:Field-OutSlotOperCode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SecondCarrier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-CargoDesc DataType="String">Frozen Pork Legs Boneless,  Skinless</ns0:Field-CargoDesc>
+            <ns0:Field-RULabel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DG DataType="String">N</ns0:Field-DG>
+            <ns0:Field-TSHStatus DataType="String">N</ns0:Field-TSHStatus>
+            <ns0:Field-ArrExtVoy DataType="String">0091E</ns0:Field-ArrExtVoy>
+            <ns0:Field-ArrVslCallSign DataType="String">9V2116</ns0:Field-ArrVslCallSign>
+            <ns0:Field-ArrVslName DataType="String">KOTA LESTARI</ns0:Field-ArrVslName>
+            <ns0:Field-HaulierCde xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-VGM DataType="String">32331</ns0:Field-VGM>
+            <ns0:Field-VGMReferenceNumber xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-VGMWeightedMethod xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-VGMWeightedDate DataType="String"/>
+            <ns0:Field-VGMAuthorizedOfficial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DirectDelivery DataType="String"/>
+        </ns0:Record-ContainerRec>
+    </ns0:GroupRecord-Container_Group>
+    <ns0:GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
+        <ns0:Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
+            <ns0:Field-CntRecordType DataType="String">COPRAR1</ns0:Field-CntRecordType>
+            <ns0:Field-CntNo DataType="String">OOLU6489600</ns0:Field-CntNo>
+            <ns0:Field-BookingNo DataType="String">2636991471</ns0:Field-BookingNo>
+            <ns0:Field-Service DataType="String">TLA2</ns0:Field-Service>
+            <ns0:Field-Vessel DataType="String">LES</ns0:Field-Vessel>
+            <ns0:Field-Voyage DataType="String">023East</ns0:Field-Voyage>
+            <ns0:Field-ExtVoyNo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-LoadPort DataType="String">BRNVT</ns0:Field-LoadPort>
+            <ns0:Field-SizeType DataType="String">40RQ</ns0:Field-SizeType>
+            <ns0:Field-FullEmpty DataType="String">F</ns0:Field-FullEmpty>
+            <ns0:Field-GrossWt xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-ReeferTempMax xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-TempSetting DataType="String">-018.00</ns0:Field-TempSetting>
+            <ns0:Field-TempUnit DataType="String">C</ns0:Field-TempUnit>
+            <ns0:Field-SpecialInst1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst4 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst5 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-VentSet DataType="String">0M</ns0:Field-VentSet>
+            <ns0:Field-IMCOClass1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass4 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass5 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass6 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass7 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass8 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass9 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DSGHPort1 DataType="String">SGSIN</ns0:Field-DSGHPort1>
+            <ns0:Field-DSGHPort2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DSGHPort3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-TransType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-TransInd xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SealNo DataType="String">238352</ns0:Field-SealNo>
+            <ns0:Field-UltiDest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-OLFront DataType="String"/>
+            <ns0:Field-OLBack DataType="String"/>
+            <ns0:Field-OWLeft DataType="String"/>
+            <ns0:Field-OWRight DataType="String"/>
+            <ns0:Field-OHeight DataType="String"/>
+            <ns0:Field-InslotOperCode DataType="String">OR</ns0:Field-InslotOperCode>
+            <ns0:Field-OutSlotOperCode xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SecondCarrier xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-CargoDesc DataType="String">Frozen Pork Shoulders Boneles</ns0:Field-CargoDesc>
+            <ns0:Field-RULabel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DG DataType="String">N</ns0:Field-DG>
+            <ns0:Field-TSHStatus DataType="String">N</ns0:Field-TSHStatus>
+            <ns0:Field-ArrExtVoy DataType="String">0091E</ns0:Field-ArrExtVoy>
+            <ns0:Field-ArrVslCallSign DataType="String">9V2116</ns0:Field-ArrVslCallSign>
+            <ns0:Field-ArrVslName DataType="String">KOTA LESTARI</ns0:Field-ArrVslName>
+            <ns0:Field-HaulierCde xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-VGM DataType="String">32546</ns0:Field-VGM>
+            <ns0:Field-VGMReferenceNumber xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-VGMWeightedMethod xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-VGMWeightedDate DataType="String"/>
+            <ns0:Field-VGMAuthorizedOfficial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DirectDelivery DataType="String"/>
+        </ns0:Record-ContainerRec>
+    </ns0:GroupRecord-Container_Group>
+    <ns0:GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
+        <ns0:Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
+            <ns0:Field-CntRecordType DataType="String">COPRAR1</ns0:Field-CntRecordType>
+            <ns0:Field-CntNo DataType="String">OOLU6235355</ns0:Field-CntNo>
+            <ns0:Field-BookingNo DataType="String">2637489660</ns0:Field-BookingNo>
+            <ns0:Field-Service DataType="String">TLA2</ns0:Field-Service>
+            <ns0:Field-Vessel DataType="String">LES</ns0:Field-Vessel>
+            <ns0:Field-Voyage DataType="String">023East</ns0:Field-Voyage>
+            <ns0:Field-ExtVoyNo DataType="String">020E</ns0:Field-ExtVoyNo>
+            <ns0:Field-LoadPort DataType="String">BRSSZ</ns0:Field-LoadPort>
+            <ns0:Field-SizeType DataType="String">40RQ</ns0:Field-SizeType>
+            <ns0:Field-FullEmpty DataType="String">F</ns0:Field-FullEmpty>
+            <ns0:Field-GrossWt xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-ReeferTempMax xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-TempSetting DataType="String">-018.00</ns0:Field-TempSetting>
+            <ns0:Field-TempUnit DataType="String">C</ns0:Field-TempUnit>
+            <ns0:Field-SpecialInst1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst4 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst5 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-VentSet DataType="String">0M</ns0:Field-VentSet>
+            <ns0:Field-IMCOClass1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass4 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass5 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass6 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass7 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass8 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass9 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DSGHPort1 DataType="String">CNTXG</ns0:Field-DSGHPort1>
+            <ns0:Field-DSGHPort2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DSGHPort3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-TransType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-TransInd xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SealNo DataType="String">338188</ns0:Field-SealNo>
+            <ns0:Field-UltiDest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-OLFront DataType="String"/>
+            <ns0:Field-OLBack DataType="String"/>
+            <ns0:Field-OWLeft DataType="String"/>
+            <ns0:Field-OWRight DataType="String"/>
+            <ns0:Field-OHeight DataType="String"/>
+            <ns0:Field-InslotOperCode DataType="String">OR</ns0:Field-InslotOperCode>
+            <ns0:Field-OutSlotOperCode DataType="String">OR</ns0:Field-OutSlotOperCode>
+            <ns0:Field-SecondCarrier DataType="String">MAERSK SALALAH</ns0:Field-SecondCarrier>
+            <ns0:Field-CargoDesc DataType="String">FROZEN BONELESS  BEEF - SHIN,CHUCK ROLL,SHOULDER,BRISKET,NEC</ns0:Field-CargoDesc>
+            <ns0:Field-RULabel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DG DataType="String">N</ns0:Field-DG>
+            <ns0:Field-TSHStatus DataType="String">Y</ns0:Field-TSHStatus>
+            <ns0:Field-ArrExtVoy DataType="String">0091E</ns0:Field-ArrExtVoy>
+            <ns0:Field-ArrVslCallSign DataType="String">9V2116</ns0:Field-ArrVslCallSign>
+            <ns0:Field-ArrVslName DataType="String">KOTA LESTARI</ns0:Field-ArrVslName>
+            <ns0:Field-HaulierCde xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-VGM DataType="String">32619</ns0:Field-VGM>
+            <ns0:Field-VGMReferenceNumber xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-VGMWeightedMethod DataType="String">Method2</ns0:Field-VGMWeightedMethod>
+            <ns0:Field-VGMWeightedDate DataType="String">202004131703</ns0:Field-VGMWeightedDate>
+            <ns0:Field-VGMAuthorizedOfficial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DirectDelivery DataType="String"/>
+        </ns0:Record-ContainerRec>
+    </ns0:GroupRecord-Container_Group>
+    <ns0:GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
+        <ns0:Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
+            <ns0:Field-CntRecordType DataType="String">COPRAR1</ns0:Field-CntRecordType>
+            <ns0:Field-CntNo DataType="String">OOLU6173490</ns0:Field-CntNo>
+            <ns0:Field-BookingNo DataType="String">2637570430</ns0:Field-BookingNo>
+            <ns0:Field-Service DataType="String">TLA2</ns0:Field-Service>
+            <ns0:Field-Vessel DataType="String">LES</ns0:Field-Vessel>
+            <ns0:Field-Voyage DataType="String">023East</ns0:Field-Voyage>
+            <ns0:Field-ExtVoyNo DataType="String">020E</ns0:Field-ExtVoyNo>
+            <ns0:Field-LoadPort DataType="String">BRSSZ</ns0:Field-LoadPort>
+            <ns0:Field-SizeType DataType="String">40RQ</ns0:Field-SizeType>
+            <ns0:Field-FullEmpty DataType="String">F</ns0:Field-FullEmpty>
+            <ns0:Field-GrossWt xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-ReeferTempMax xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-TempSetting DataType="String">-018.00</ns0:Field-TempSetting>
+            <ns0:Field-TempUnit DataType="String">C</ns0:Field-TempUnit>
+            <ns0:Field-SpecialInst1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst4 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst5 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-VentSet DataType="String">0M</ns0:Field-VentSet>
+            <ns0:Field-IMCOClass1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass4 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass5 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass6 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass7 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass8 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass9 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DSGHPort1 DataType="String">CNTXG</ns0:Field-DSGHPort1>
+            <ns0:Field-DSGHPort2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DSGHPort3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-TransType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-TransInd xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SealNo DataType="String">001604</ns0:Field-SealNo>
+            <ns0:Field-UltiDest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-OLFront DataType="String"/>
+            <ns0:Field-OLBack DataType="String"/>
+            <ns0:Field-OWLeft DataType="String"/>
+            <ns0:Field-OWRight DataType="String"/>
+            <ns0:Field-OHeight DataType="String"/>
+            <ns0:Field-InslotOperCode DataType="String">OR</ns0:Field-InslotOperCode>
+            <ns0:Field-OutSlotOperCode DataType="String">OR</ns0:Field-OutSlotOperCode>
+            <ns0:Field-SecondCarrier DataType="String">MAERSK SALALAH</ns0:Field-SecondCarrier>
+            <ns0:Field-CargoDesc DataType="String">FROZEN BONELESS  BEEF EYEROUND,BONELESS  BEEF FLAT</ns0:Field-CargoDesc>
+            <ns0:Field-RULabel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DG DataType="String">N</ns0:Field-DG>
+            <ns0:Field-TSHStatus DataType="String">Y</ns0:Field-TSHStatus>
+            <ns0:Field-ArrExtVoy DataType="String">0091E</ns0:Field-ArrExtVoy>
+            <ns0:Field-ArrVslCallSign DataType="String">9V2116</ns0:Field-ArrVslCallSign>
+            <ns0:Field-ArrVslName DataType="String">KOTA LESTARI</ns0:Field-ArrVslName>
+            <ns0:Field-HaulierCde xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-VGM DataType="String">32799</ns0:Field-VGM>
+            <ns0:Field-VGMReferenceNumber xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-VGMWeightedMethod DataType="String">Method1</ns0:Field-VGMWeightedMethod>
+            <ns0:Field-VGMWeightedDate DataType="String">202004202049</ns0:Field-VGMWeightedDate>
+            <ns0:Field-VGMAuthorizedOfficial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DirectDelivery DataType="String"/>
+        </ns0:Record-ContainerRec>
+    </ns0:GroupRecord-Container_Group>
+    <ns0:GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
+        <ns0:Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
+            <ns0:Field-CntRecordType DataType="String">COPRAR1</ns0:Field-CntRecordType>
+            <ns0:Field-CntNo DataType="String">OOLU6180463</ns0:Field-CntNo>
+            <ns0:Field-BookingNo DataType="String">2637571310</ns0:Field-BookingNo>
+            <ns0:Field-Service DataType="String">TLA2</ns0:Field-Service>
+            <ns0:Field-Vessel DataType="String">LES</ns0:Field-Vessel>
+            <ns0:Field-Voyage DataType="String">023East</ns0:Field-Voyage>
+            <ns0:Field-ExtVoyNo DataType="String">020E</ns0:Field-ExtVoyNo>
+            <ns0:Field-LoadPort DataType="String">BRSSZ</ns0:Field-LoadPort>
+            <ns0:Field-SizeType DataType="String">40RQ</ns0:Field-SizeType>
+            <ns0:Field-FullEmpty DataType="String">F</ns0:Field-FullEmpty>
+            <ns0:Field-GrossWt xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-ReeferTempMax xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-TempSetting DataType="String">-018.00</ns0:Field-TempSetting>
+            <ns0:Field-TempUnit DataType="String">C</ns0:Field-TempUnit>
+            <ns0:Field-SpecialInst1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst4 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst5 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-VentSet DataType="String">0M</ns0:Field-VentSet>
+            <ns0:Field-IMCOClass1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass4 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass5 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass6 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass7 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass8 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass9 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DSGHPort1 DataType="String">CNTXG</ns0:Field-DSGHPort1>
+            <ns0:Field-DSGHPort2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DSGHPort3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-TransType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-TransInd xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SealNo DataType="String">001494</ns0:Field-SealNo>
+            <ns0:Field-UltiDest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-OLFront DataType="String"/>
+            <ns0:Field-OLBack DataType="String"/>
+            <ns0:Field-OWLeft DataType="String"/>
+            <ns0:Field-OWRight DataType="String"/>
+            <ns0:Field-OHeight DataType="String"/>
+            <ns0:Field-InslotOperCode DataType="String">OR</ns0:Field-InslotOperCode>
+            <ns0:Field-OutSlotOperCode DataType="String">OR</ns0:Field-OutSlotOperCode>
+            <ns0:Field-SecondCarrier DataType="String">MAERSK SALALAH</ns0:Field-SecondCarrier>
+            <ns0:Field-CargoDesc DataType="String">FROZEN BONELESS  BEEF CHUCK , FROZEN BONELESS  BEEF NECK</ns0:Field-CargoDesc>
+            <ns0:Field-RULabel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DG DataType="String">N</ns0:Field-DG>
+            <ns0:Field-TSHStatus DataType="String">Y</ns0:Field-TSHStatus>
+            <ns0:Field-ArrExtVoy DataType="String">0091E</ns0:Field-ArrExtVoy>
+            <ns0:Field-ArrVslCallSign DataType="String">9V2116</ns0:Field-ArrVslCallSign>
+            <ns0:Field-ArrVslName DataType="String">KOTA LESTARI</ns0:Field-ArrVslName>
+            <ns0:Field-HaulierCde xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-VGM DataType="String">32767</ns0:Field-VGM>
+            <ns0:Field-VGMReferenceNumber xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-VGMWeightedMethod DataType="String">Method1</ns0:Field-VGMWeightedMethod>
+            <ns0:Field-VGMWeightedDate DataType="String">202004091418</ns0:Field-VGMWeightedDate>
+            <ns0:Field-VGMAuthorizedOfficial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DirectDelivery DataType="String"/>
+        </ns0:Record-ContainerRec>
+    </ns0:GroupRecord-Container_Group>
+    <ns0:GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
+        <ns0:Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
+            <ns0:Field-CntRecordType DataType="String">COPRAR1</ns0:Field-CntRecordType>
+            <ns0:Field-CntNo DataType="String">OOLU2897219</ns0:Field-CntNo>
+            <ns0:Field-BookingNo DataType="String">2637659190</ns0:Field-BookingNo>
+            <ns0:Field-Service DataType="String">TLA2</ns0:Field-Service>
+            <ns0:Field-Vessel DataType="String">LES</ns0:Field-Vessel>
+            <ns0:Field-Voyage DataType="String">023East</ns0:Field-Voyage>
+            <ns0:Field-ExtVoyNo DataType="String">018N</ns0:Field-ExtVoyNo>
+            <ns0:Field-LoadPort DataType="String">BRSSZ</ns0:Field-LoadPort>
+            <ns0:Field-SizeType DataType="String">20GP</ns0:Field-SizeType>
+            <ns0:Field-FullEmpty DataType="String">F</ns0:Field-FullEmpty>
+            <ns0:Field-GrossWt xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-ReeferTempMax xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-TempSetting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-TempUnit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst4 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst5 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-VentSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass4 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass5 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass6 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass7 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass8 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass9 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DSGHPort1 DataType="String">MYWSP</ns0:Field-DSGHPort1>
+            <ns0:Field-DSGHPort2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DSGHPort3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-TransType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-TransInd xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SealNo DataType="String">330570</ns0:Field-SealNo>
+            <ns0:Field-UltiDest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-OLFront DataType="String"/>
+            <ns0:Field-OLBack DataType="String"/>
+            <ns0:Field-OWLeft DataType="String"/>
+            <ns0:Field-OWRight DataType="String"/>
+            <ns0:Field-OHeight DataType="String"/>
+            <ns0:Field-InslotOperCode DataType="String">OR</ns0:Field-InslotOperCode>
+            <ns0:Field-OutSlotOperCode DataType="String">OR</ns0:Field-OutSlotOperCode>
+            <ns0:Field-SecondCarrier DataType="String">QINGDAO TOWER</ns0:Field-SecondCarrier>
+            <ns0:Field-CargoDesc DataType="String">BRAZIL Green Coffee, Brazil, Arabica</ns0:Field-CargoDesc>
+            <ns0:Field-RULabel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DG DataType="String">N</ns0:Field-DG>
+            <ns0:Field-TSHStatus DataType="String">Y</ns0:Field-TSHStatus>
+            <ns0:Field-ArrExtVoy DataType="String">0091E</ns0:Field-ArrExtVoy>
+            <ns0:Field-ArrVslCallSign DataType="String">9V2116</ns0:Field-ArrVslCallSign>
+            <ns0:Field-ArrVslName DataType="String">KOTA LESTARI</ns0:Field-ArrVslName>
+            <ns0:Field-HaulierCde xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-VGM DataType="String">22450</ns0:Field-VGM>
+            <ns0:Field-VGMReferenceNumber DataType="String">7085B</ns0:Field-VGMReferenceNumber>
+            <ns0:Field-VGMWeightedMethod DataType="String">Method2</ns0:Field-VGMWeightedMethod>
+            <ns0:Field-VGMWeightedDate DataType="String">202004151121</ns0:Field-VGMWeightedDate>
+            <ns0:Field-VGMAuthorizedOfficial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DirectDelivery DataType="String"/>
+        </ns0:Record-ContainerRec>
+    </ns0:GroupRecord-Container_Group>
+    <ns0:GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
+        <ns0:Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
+            <ns0:Field-CntRecordType DataType="String">COPRAR1</ns0:Field-CntRecordType>
+            <ns0:Field-CntNo DataType="String">OOLU0285908</ns0:Field-CntNo>
+            <ns0:Field-BookingNo DataType="String">2637659190</ns0:Field-BookingNo>
+            <ns0:Field-Service DataType="String">TLA2</ns0:Field-Service>
+            <ns0:Field-Vessel DataType="String">LES</ns0:Field-Vessel>
+            <ns0:Field-Voyage DataType="String">023East</ns0:Field-Voyage>
+            <ns0:Field-ExtVoyNo DataType="String">018N</ns0:Field-ExtVoyNo>
+            <ns0:Field-LoadPort DataType="String">BRSSZ</ns0:Field-LoadPort>
+            <ns0:Field-SizeType DataType="String">20GP</ns0:Field-SizeType>
+            <ns0:Field-FullEmpty DataType="String">F</ns0:Field-FullEmpty>
+            <ns0:Field-GrossWt xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-ReeferTempMax xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-TempSetting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-TempUnit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst4 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst5 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-VentSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass4 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass5 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass6 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass7 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass8 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass9 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DSGHPort1 DataType="String">MYWSP</ns0:Field-DSGHPort1>
+            <ns0:Field-DSGHPort2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DSGHPort3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-TransType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-TransInd xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SealNo DataType="String">337231</ns0:Field-SealNo>
+            <ns0:Field-UltiDest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-OLFront DataType="String"/>
+            <ns0:Field-OLBack DataType="String"/>
+            <ns0:Field-OWLeft DataType="String"/>
+            <ns0:Field-OWRight DataType="String"/>
+            <ns0:Field-OHeight DataType="String"/>
+            <ns0:Field-InslotOperCode DataType="String">OR</ns0:Field-InslotOperCode>
+            <ns0:Field-OutSlotOperCode DataType="String">OR</ns0:Field-OutSlotOperCode>
+            <ns0:Field-SecondCarrier DataType="String">QINGDAO TOWER</ns0:Field-SecondCarrier>
+            <ns0:Field-CargoDesc DataType="String">BRAZIL Green Coffee, Brazil, Arabica</ns0:Field-CargoDesc>
+            <ns0:Field-RULabel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DG DataType="String">N</ns0:Field-DG>
+            <ns0:Field-TSHStatus DataType="String">Y</ns0:Field-TSHStatus>
+            <ns0:Field-ArrExtVoy DataType="String">0091E</ns0:Field-ArrExtVoy>
+            <ns0:Field-ArrVslCallSign DataType="String">9V2116</ns0:Field-ArrVslCallSign>
+            <ns0:Field-ArrVslName DataType="String">KOTA LESTARI</ns0:Field-ArrVslName>
+            <ns0:Field-HaulierCde xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-VGM DataType="String">22420</ns0:Field-VGM>
+            <ns0:Field-VGMReferenceNumber DataType="String">7084A</ns0:Field-VGMReferenceNumber>
+            <ns0:Field-VGMWeightedMethod DataType="String">Method2</ns0:Field-VGMWeightedMethod>
+            <ns0:Field-VGMWeightedDate DataType="String">202004151121</ns0:Field-VGMWeightedDate>
+            <ns0:Field-VGMAuthorizedOfficial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DirectDelivery DataType="String"/>
+        </ns0:Record-ContainerRec>
+    </ns0:GroupRecord-Container_Group>
+    <ns0:GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
+        <ns0:Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
+            <ns0:Field-CntRecordType DataType="String">COPRAR1</ns0:Field-CntRecordType>
+            <ns0:Field-CntNo DataType="String">OOLU1238161</ns0:Field-CntNo>
+            <ns0:Field-BookingNo DataType="String">2637659190</ns0:Field-BookingNo>
+            <ns0:Field-Service DataType="String">TLA2</ns0:Field-Service>
+            <ns0:Field-Vessel DataType="String">LES</ns0:Field-Vessel>
+            <ns0:Field-Voyage DataType="String">023East</ns0:Field-Voyage>
+            <ns0:Field-ExtVoyNo DataType="String">018N</ns0:Field-ExtVoyNo>
+            <ns0:Field-LoadPort DataType="String">BRSSZ</ns0:Field-LoadPort>
+            <ns0:Field-SizeType DataType="String">20GP</ns0:Field-SizeType>
+            <ns0:Field-FullEmpty DataType="String">F</ns0:Field-FullEmpty>
+            <ns0:Field-GrossWt xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-ReeferTempMax xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-TempSetting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-TempUnit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst4 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst5 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-VentSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass4 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass5 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass6 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass7 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass8 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass9 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DSGHPort1 DataType="String">MYWSP</ns0:Field-DSGHPort1>
+            <ns0:Field-DSGHPort2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DSGHPort3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-TransType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-TransInd xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SealNo DataType="String">330521</ns0:Field-SealNo>
+            <ns0:Field-UltiDest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-OLFront DataType="String"/>
+            <ns0:Field-OLBack DataType="String"/>
+            <ns0:Field-OWLeft DataType="String"/>
+            <ns0:Field-OWRight DataType="String"/>
+            <ns0:Field-OHeight DataType="String"/>
+            <ns0:Field-InslotOperCode DataType="String">OR</ns0:Field-InslotOperCode>
+            <ns0:Field-OutSlotOperCode DataType="String">OR</ns0:Field-OutSlotOperCode>
+            <ns0:Field-SecondCarrier DataType="String">QINGDAO TOWER</ns0:Field-SecondCarrier>
+            <ns0:Field-CargoDesc DataType="String">BRAZIL Green Coffee, Brazil, Arabica</ns0:Field-CargoDesc>
+            <ns0:Field-RULabel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DG DataType="String">N</ns0:Field-DG>
+            <ns0:Field-TSHStatus DataType="String">Y</ns0:Field-TSHStatus>
+            <ns0:Field-ArrExtVoy DataType="String">0091E</ns0:Field-ArrExtVoy>
+            <ns0:Field-ArrVslCallSign DataType="String">9V2116</ns0:Field-ArrVslCallSign>
+            <ns0:Field-ArrVslName DataType="String">KOTA LESTARI</ns0:Field-ArrVslName>
+            <ns0:Field-HaulierCde xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-VGM DataType="String">22500</ns0:Field-VGM>
+            <ns0:Field-VGMReferenceNumber DataType="String">7085A</ns0:Field-VGMReferenceNumber>
+            <ns0:Field-VGMWeightedMethod DataType="String">Method2</ns0:Field-VGMWeightedMethod>
+            <ns0:Field-VGMWeightedDate DataType="String">202004151121</ns0:Field-VGMWeightedDate>
+            <ns0:Field-VGMAuthorizedOfficial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DirectDelivery DataType="String"/>
+        </ns0:Record-ContainerRec>
+    </ns0:GroupRecord-Container_Group>
+    <ns0:GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
+        <ns0:Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
+            <ns0:Field-CntRecordType DataType="String">COPRAR1</ns0:Field-CntRecordType>
+            <ns0:Field-CntNo DataType="String">OOLU0784337</ns0:Field-CntNo>
+            <ns0:Field-BookingNo DataType="String">2637659190</ns0:Field-BookingNo>
+            <ns0:Field-Service DataType="String">TLA2</ns0:Field-Service>
+            <ns0:Field-Vessel DataType="String">LES</ns0:Field-Vessel>
+            <ns0:Field-Voyage DataType="String">023East</ns0:Field-Voyage>
+            <ns0:Field-ExtVoyNo DataType="String">018N</ns0:Field-ExtVoyNo>
+            <ns0:Field-LoadPort DataType="String">BRSSZ</ns0:Field-LoadPort>
+            <ns0:Field-SizeType DataType="String">20GP</ns0:Field-SizeType>
+            <ns0:Field-FullEmpty DataType="String">F</ns0:Field-FullEmpty>
+            <ns0:Field-GrossWt xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-ReeferTempMax xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-TempSetting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-TempUnit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst4 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SpecialInst5 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-VentSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass4 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass5 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass6 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass7 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass8 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-IMCOClass9 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DSGHPort1 DataType="String">MYWSP</ns0:Field-DSGHPort1>
+            <ns0:Field-DSGHPort2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DSGHPort3 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-TransType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-TransInd xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-SealNo DataType="String">330400</ns0:Field-SealNo>
+            <ns0:Field-UltiDest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-OLFront DataType="String"/>
+            <ns0:Field-OLBack DataType="String"/>
+            <ns0:Field-OWLeft DataType="String"/>
+            <ns0:Field-OWRight DataType="String"/>
+            <ns0:Field-OHeight DataType="String"/>
+            <ns0:Field-InslotOperCode DataType="String">OR</ns0:Field-InslotOperCode>
+            <ns0:Field-OutSlotOperCode DataType="String">OR</ns0:Field-OutSlotOperCode>
+            <ns0:Field-SecondCarrier DataType="String">QINGDAO TOWER</ns0:Field-SecondCarrier>
+            <ns0:Field-CargoDesc DataType="String">BRAZIL Green Coffee, Brazil, Arabica</ns0:Field-CargoDesc>
+            <ns0:Field-RULabel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DG DataType="String">N</ns0:Field-DG>
+            <ns0:Field-TSHStatus DataType="String">Y</ns0:Field-TSHStatus>
+            <ns0:Field-ArrExtVoy DataType="String">0091E</ns0:Field-ArrExtVoy>
+            <ns0:Field-ArrVslCallSign DataType="String">9V2116</ns0:Field-ArrVslCallSign>
+            <ns0:Field-ArrVslName DataType="String">KOTA LESTARI</ns0:Field-ArrVslName>
+            <ns0:Field-HaulierCde xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-VGM DataType="String">22350</ns0:Field-VGM>
+            <ns0:Field-VGMReferenceNumber DataType="String">7084B</ns0:Field-VGMReferenceNumber>
+            <ns0:Field-VGMWeightedMethod DataType="String">Method2</ns0:Field-VGMWeightedMethod>
+            <ns0:Field-VGMWeightedDate DataType="String">202004151121</ns0:Field-VGMWeightedDate>
+            <ns0:Field-VGMAuthorizedOfficial xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
+            <ns0:Field-DirectDelivery DataType="String"/>
+        </ns0:Record-ContainerRec>
+    </ns0:GroupRecord-Container_Group>
+</ns0:Message-PSACOPRAR>
