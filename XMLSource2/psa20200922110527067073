@@ -10,11 +10,11 @@
             <ns0:Field-CntRecordType DataType="String">COPRAR1</ns0:Field-CntRecordType>
             <ns0:Field-CntNo DataType="String">OOLU1457046</ns0:Field-CntNo>
             <ns0:Field-BookingNo DataType="String">2647638880</ns0:Field-BookingNo>
-            <ns0:Field-Service DataType="String">YSS</ns0:Field-Service>
-            <ns0:Field-Vessel DataType="String">KUT</ns0:Field-Vessel>
-            <ns0:Field-Voyage DataType="String">219South</ns0:Field-Voyage>
+            <ns0:Field-Service DataType="String">YwdwadSS</ns0:Field-Service>
+            <ns0:Field-Vessel DataType="String">KUTdwdw</ns0:Field-Vessel>
+            <ns0:Field-Voyage DataType="String">219dwwdSouth</ns0:Field-Voyage>
             <ns0:Field-ExtVoyNo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>
-            <ns0:Field-LoadPort DataType="String">MMMI9</ns0:Field-LoadPort>
+            <ns0:Field-LoadPort DataType="String">MMMdwdwI9</ns0:Field-LoadPort>
             <ns0:Field-SizeType DataType="String">20GP</ns0:Field-SizeType>
             <ns0:Field-FullEmpty DataType="String">F</ns0:Field-FullEmpty>
             <ns0:Field-GrossWt xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true" DataType="String"/>

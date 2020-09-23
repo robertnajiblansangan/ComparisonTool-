@@ -6,7 +6,7 @@ To Install Dependencies:
 
 To Use the tool
 1. Fill the XMLSource1 and XMLSource2 Folder of XMLs to compare
-2. Run the CompareItV2.exe 
+2. Run the CompareItV2.bat 
 
 Before Pushing codes, go to src/py directory
 1. Run CMD

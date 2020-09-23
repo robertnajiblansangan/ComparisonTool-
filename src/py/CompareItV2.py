@@ -28,9 +28,10 @@ diff = deepdiff.DeepDiff(oldTliDataFinalDict, newTliDataFinalDict)
 today = datetime.now()
 dateAndTimeToday = today.strftime("%d-%m-%Y %H_%M_%S")
 
-try:
-    df = pd.DataFrame.from_dict(diff.get('values_changed'), orient='index') # convert dict to dataframe
-    df.to_csv('../../DISCREPANCIES/'+dateAndTimeToday+'.csv')
-    print(df)
-except:
-    print("Comparison Completed, no Discrepancy found")
+# try:
+df = pd.DataFrame.from_dict(diff.get('values_changed'), orient='index') # convert dict to dataframe
+df.to_csv('../../DISCREPANCIES/'+dateAndTimeToday+'.csv')
+print("\n \n ************Discrepancy found Please check DISCREPANCIES Folder for Generated CSV Report************ \n")
+print(df)
+# except:
+print("\n \n ************Comparison Completed, no Discrepancy found************ \n \n")
