@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Message-PSACOPRAR Type="Message" ID="PSACOPRAR" XDataVersion="2.0" Standard="PFF" xmlns="http://www.edifecs.com/xdata/200">
     <Record-Header ID="Header" Name="Header" Type="Record">
-        <Field-AAAARecordType>NEW</Field-AAAARecordType>
+        <Field-AAAARecordType>UPD</Field-AAAARecordType>
         <Field-AAAAMesgId>COPRARRI</Field-AAAAMesgId>
         <Field-AAAAPartId>PSA2</Field-AAAAPartId>
         <Field-AAAAActionType/>
@@ -10,20 +10,83 @@
     <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
         <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
             <Field-CntRecordType>COPRAR1</Field-CntRecordType>
-            <Field-CntNo>OOLU0650024</Field-CntNo>
-            <Field-BookingNo>2639367740</Field-BookingNo>
-            <Field-Service>KTX5</Field-Service>
-            <Field-Vessel>EME</Field-Vessel>
-            <Field-Voyage>240South</Field-Voyage>
-            <Field-ExtVoyNo>006W</Field-ExtVoyNo>
-            <Field-LoadPort>HKHKG</Field-LoadPort>
+            <Field-CntNo>TLLU4834034</Field-CntNo>
+            <Field-BookingNo>2646426390</Field-BookingNo>
+            <Field-Service>YSS</Field-Service>
+            <Field-Vessel>KUT</Field-Vessel>
+            <Field-Voyage>219South</Field-Voyage>
+            <Field-ExtVoyNo>088N</Field-ExtVoyNo>
+            <Field-LoadPort>MMMI9</Field-LoadPort>
+            <Field-SizeType>40HQ</Field-SizeType>
+            <Field-FullEmpty>F</Field-FullEmpty>
+            <Field-GrossWt/>
+            <Field-ReeferTempMax/>
+            <Field-TempSetting/>
+            <Field-TempUnit/>
+            <Field-SpecialInst1/>
+            <Field-SpecialInst2/>
+            <Field-SpecialInst3/>
+            <Field-SpecialInst4/>
+            <Field-SpecialInst5/>
+            <Field-VentSet></Field-VentSet>
+            <Field-IMCOClass1/>
+            <Field-IMCOClass2/>
+            <Field-IMCOClass3/>
+            <Field-IMCOClass4/>
+            <Field-IMCOClass5/>
+            <Field-IMCOClass6/>
+            <Field-IMCOClass7/>
+            <Field-IMCOClass8/>
+            <Field-IMCOClass9/>
+            <Field-DSGHPort1>JPTYO</Field-DSGHPort1>
+            <Field-DSGHPort2></Field-DSGHPort2>
+            <Field-DSGHPort3/>
+            <Field-TransType/>
+            <Field-TransInd/>
+            <Field-SealNo>OOLGDH1732</Field-SealNo>
+            <Field-UltiDest/>
+            <Field-OLFront/>
+            <Field-OLBack/>
+            <Field-OWLeft/>
+            <Field-OWRight/>
+            <Field-OHeight/>
+            <Field-InslotOperCode>OR</Field-InslotOperCode>
+            <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
+            <Field-SecondCarrier>NYK DIANA</Field-SecondCarrier>
+            <Field-CargoDesc>LADIES WOVEN DOWN JACKET</Field-CargoDesc>
+            <Field-RULabel/>
+            <Field-DG>N</Field-DG>
+            <Field-TSHStatus>Y</Field-TSHStatus>
+            <Field-OpenTsStatus>N</Field-OpenTsStatus>
+            <Field-ArrExtVoy>219S</Field-ArrExtVoy>
+            <Field-ArrVslCallSign>3EQH4</Field-ArrVslCallSign>
+            <Field-ArrVslName>KUO TAI</Field-ArrVslName>
+            <Field-HaulierCde></Field-HaulierCde>
+            <Field-VGM>4700</Field-VGM>
+            <Field-VGMReferenceNumber/>
+            <Field-VGMWeightedMethod>Method1</Field-VGMWeightedMethod>
+            <Field-VGMWeightedDate></Field-VGMWeightedDate>
+            <Field-VGMAuthorizedOfficial/>
+            <Field-DirectDelivery/>
+        </Record-ContainerRec>
+    </GroupRecord-Container_Group>
+    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
+        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
+            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
+            <Field-CntNo>OOLU1179412</Field-CntNo>
+            <Field-BookingNo>2646821980</Field-BookingNo>
+            <Field-Service>YSS</Field-Service>
+            <Field-Vessel>KUT</Field-Vessel>
+            <Field-Voyage>219South</Field-Voyage>
+            <Field-ExtVoyNo>088N</Field-ExtVoyNo>
+            <Field-LoadPort>MMMI9</Field-LoadPort>
             <Field-SizeType>20GP</Field-SizeType>
             <Field-FullEmpty>F</Field-FullEmpty>
             <Field-GrossWt/>
             <Field-ReeferTempMax/>
             <Field-TempSetting/>
             <Field-TempUnit/>
-            <Field-SpecialInst1>OD</Field-SpecialInst1>
+            <Field-SpecialInst1/>
             <Field-SpecialInst2/>
             <Field-SpecialInst3/>
             <Field-SpecialInst4/>
@@ -38,12 +101,12 @@
             <Field-IMCOClass7/>
             <Field-IMCOClass8/>
             <Field-IMCOClass9/>
-            <Field-DSGHPort1>AEJEA</Field-DSGHPort1>
+            <Field-DSGHPort1>JPTYO</Field-DSGHPort1>
             <Field-DSGHPort2></Field-DSGHPort2>
             <Field-DSGHPort3/>
             <Field-TransType/>
             <Field-TransInd/>
-            <Field-SealNo>OOLEUW8169</Field-SealNo>
+            <Field-SealNo>OOLGDH1763</Field-SealNo>
             <Field-UltiDest/>
             <Field-OLFront/>
             <Field-OLBack/>
@@ -52,19 +115,19 @@
             <Field-OHeight/>
             <Field-InslotOperCode>OR</Field-InslotOperCode>
             <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
-            <Field-SecondCarrier>COSCO SHIPPING PLANET</Field-SecondCarrier>
-            <Field-CargoDesc>EMPTY PLASTIC COMPACT</Field-CargoDesc>
+            <Field-SecondCarrier>NYK DIANA</Field-SecondCarrier>
+            <Field-CargoDesc>MENS' DOWN JK</Field-CargoDesc>
             <Field-RULabel/>
             <Field-DG>N</Field-DG>
             <Field-TSHStatus>Y</Field-TSHStatus>
             <Field-OpenTsStatus>N</Field-OpenTsStatus>
-            <Field-ArrExtVoy>240S</Field-ArrExtVoy>
-            <Field-ArrVslCallSign>VRFB8</Field-ArrVslCallSign>
-            <Field-ArrVslName>SEASPAN EMERALD</Field-ArrVslName>
+            <Field-ArrExtVoy>219S</Field-ArrExtVoy>
+            <Field-ArrVslCallSign>3EQH4</Field-ArrVslCallSign>
+            <Field-ArrVslName>KUO TAI</Field-ArrVslName>
             <Field-HaulierCde></Field-HaulierCde>
-            <Field-VGM>5646</Field-VGM>
+            <Field-VGM>3450</Field-VGM>
             <Field-VGMReferenceNumber/>
-            <Field-VGMWeightedMethod/>
+            <Field-VGMWeightedMethod>Method1</Field-VGMWeightedMethod>
             <Field-VGMWeightedDate></Field-VGMWeightedDate>
             <Field-VGMAuthorizedOfficial/>
             <Field-DirectDelivery/>
@@ -73,20 +136,20 @@
     <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
         <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
             <Field-CntRecordType>COPRAR1</Field-CntRecordType>
-            <Field-CntNo>TGHU9891233</Field-CntNo>
-            <Field-BookingNo>2639367740</Field-BookingNo>
-            <Field-Service>KTX5</Field-Service>
-            <Field-Vessel>EME</Field-Vessel>
-            <Field-Voyage>240South</Field-Voyage>
-            <Field-ExtVoyNo>006W</Field-ExtVoyNo>
-            <Field-LoadPort>HKHKG</Field-LoadPort>
-            <Field-SizeType>40HQ</Field-SizeType>
+            <Field-CntNo>FCIU4845140</Field-CntNo>
+            <Field-BookingNo>2646917790</Field-BookingNo>
+            <Field-Service>YSS</Field-Service>
+            <Field-Vessel>KUT</Field-Vessel>
+            <Field-Voyage>219South</Field-Voyage>
+            <Field-ExtVoyNo>010W</Field-ExtVoyNo>
+            <Field-LoadPort>MMMI9</Field-LoadPort>
+            <Field-SizeType>20GP</Field-SizeType>
             <Field-FullEmpty>F</Field-FullEmpty>
             <Field-GrossWt/>
             <Field-ReeferTempMax/>
             <Field-TempSetting/>
             <Field-TempUnit/>
-            <Field-SpecialInst1>OD</Field-SpecialInst1>
+            <Field-SpecialInst1/>
             <Field-SpecialInst2/>
             <Field-SpecialInst3/>
             <Field-SpecialInst4/>
@@ -101,12 +164,12 @@
             <Field-IMCOClass7/>
             <Field-IMCOClass8/>
             <Field-IMCOClass9/>
-            <Field-DSGHPort1>AEJEA</Field-DSGHPort1>
+            <Field-DSGHPort1>DEHAM</Field-DSGHPort1>
             <Field-DSGHPort2></Field-DSGHPort2>
             <Field-DSGHPort3/>
             <Field-TransType/>
             <Field-TransInd/>
-            <Field-SealNo>OOLEFW8644</Field-SealNo>
+            <Field-SealNo>OOLGDH61709</Field-SealNo>
             <Field-UltiDest/>
             <Field-OLFront/>
             <Field-OLBack/>
@@ -115,20 +178,20 @@
             <Field-OHeight/>
             <Field-InslotOperCode>OR</Field-InslotOperCode>
             <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
-            <Field-SecondCarrier>COSCO SHIPPING PLANET</Field-SecondCarrier>
-            <Field-CargoDesc>POS TERMINAL</Field-CargoDesc>
+            <Field-SecondCarrier>COSCO SHIPPING NEBULA</Field-SecondCarrier>
+            <Field-CargoDesc>MEN'S PARKA JACKET</Field-CargoDesc>
             <Field-RULabel/>
             <Field-DG>N</Field-DG>
             <Field-TSHStatus>Y</Field-TSHStatus>
             <Field-OpenTsStatus>N</Field-OpenTsStatus>
-            <Field-ArrExtVoy>240S</Field-ArrExtVoy>
-            <Field-ArrVslCallSign>VRFB8</Field-ArrVslCallSign>
-            <Field-ArrVslName>SEASPAN EMERALD</Field-ArrVslName>
+            <Field-ArrExtVoy>219S</Field-ArrExtVoy>
+            <Field-ArrVslCallSign>3EQH4</Field-ArrVslCallSign>
+            <Field-ArrVslName>KUO TAI</Field-ArrVslName>
             <Field-HaulierCde></Field-HaulierCde>
-            <Field-VGM>16996</Field-VGM>
+            <Field-VGM>3950</Field-VGM>
             <Field-VGMReferenceNumber/>
-            <Field-VGMWeightedMethod/>
-            <Field-VGMWeightedDate></Field-VGMWeightedDate>
+            <Field-VGMWeightedMethod>Method1</Field-VGMWeightedMethod>
+            <Field-VGMWeightedDate>202009170743</Field-VGMWeightedDate>
             <Field-VGMAuthorizedOfficial/>
             <Field-DirectDelivery/>
         </Record-ContainerRec>
@@ -136,76 +199,13 @@
     <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
         <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
             <Field-CntRecordType>COPRAR1</Field-CntRecordType>
-            <Field-CntNo>OOCU6419079</Field-CntNo>
-            <Field-BookingNo>2639367740</Field-BookingNo>
-            <Field-Service>KTX5</Field-Service>
-            <Field-Vessel>EME</Field-Vessel>
-            <Field-Voyage>240South</Field-Voyage>
-            <Field-ExtVoyNo>006W</Field-ExtVoyNo>
-            <Field-LoadPort>HKHKG</Field-LoadPort>
-            <Field-SizeType>40HQ</Field-SizeType>
-            <Field-FullEmpty>F</Field-FullEmpty>
-            <Field-GrossWt/>
-            <Field-ReeferTempMax/>
-            <Field-TempSetting/>
-            <Field-TempUnit/>
-            <Field-SpecialInst1>OD</Field-SpecialInst1>
-            <Field-SpecialInst2/>
-            <Field-SpecialInst3/>
-            <Field-SpecialInst4/>
-            <Field-SpecialInst5/>
-            <Field-VentSet></Field-VentSet>
-            <Field-IMCOClass1/>
-            <Field-IMCOClass2/>
-            <Field-IMCOClass3/>
-            <Field-IMCOClass4/>
-            <Field-IMCOClass5/>
-            <Field-IMCOClass6/>
-            <Field-IMCOClass7/>
-            <Field-IMCOClass8/>
-            <Field-IMCOClass9/>
-            <Field-DSGHPort1>AEJEA</Field-DSGHPort1>
-            <Field-DSGHPort2></Field-DSGHPort2>
-            <Field-DSGHPort3/>
-            <Field-TransType/>
-            <Field-TransInd/>
-            <Field-SealNo>OOLEFW8646</Field-SealNo>
-            <Field-UltiDest/>
-            <Field-OLFront/>
-            <Field-OLBack/>
-            <Field-OWLeft/>
-            <Field-OWRight/>
-            <Field-OHeight/>
-            <Field-InslotOperCode>OR</Field-InslotOperCode>
-            <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
-            <Field-SecondCarrier>COSCO SHIPPING PLANET</Field-SecondCarrier>
-            <Field-CargoDesc>PRINTED CIRCUIT BOARDS</Field-CargoDesc>
-            <Field-RULabel/>
-            <Field-DG>N</Field-DG>
-            <Field-TSHStatus>Y</Field-TSHStatus>
-            <Field-OpenTsStatus>N</Field-OpenTsStatus>
-            <Field-ArrExtVoy>240S</Field-ArrExtVoy>
-            <Field-ArrVslCallSign>VRFB8</Field-ArrVslCallSign>
-            <Field-ArrVslName>SEASPAN EMERALD</Field-ArrVslName>
-            <Field-HaulierCde></Field-HaulierCde>
-            <Field-VGM>13205</Field-VGM>
-            <Field-VGMReferenceNumber/>
-            <Field-VGMWeightedMethod/>
-            <Field-VGMWeightedDate></Field-VGMWeightedDate>
-            <Field-VGMAuthorizedOfficial/>
-            <Field-DirectDelivery/>
-        </Record-ContainerRec>
-    </GroupRecord-Container_Group>
-    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
-        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
-            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
-            <Field-CntNo>TGHU9644721</Field-CntNo>
-            <Field-BookingNo>4105623010</Field-BookingNo>
-            <Field-Service>KTX5</Field-Service>
-            <Field-Vessel>EME</Field-Vessel>
-            <Field-Voyage>240South</Field-Voyage>
-            <Field-ExtVoyNo>006W</Field-ExtVoyNo>
-            <Field-LoadPort>JPNGO</Field-LoadPort>
+            <Field-CntNo>DFSU7612871</Field-CntNo>
+            <Field-BookingNo>2646917790</Field-BookingNo>
+            <Field-Service>YSS</Field-Service>
+            <Field-Vessel>KUT</Field-Vessel>
+            <Field-Voyage>219South</Field-Voyage>
+            <Field-ExtVoyNo>010W</Field-ExtVoyNo>
+            <Field-LoadPort>MMMI9</Field-LoadPort>
             <Field-SizeType>40HQ</Field-SizeType>
             <Field-FullEmpty>F</Field-FullEmpty>
             <Field-GrossWt/>
@@ -227,12 +227,12 @@
             <Field-IMCOClass7/>
             <Field-IMCOClass8/>
             <Field-IMCOClass9/>
-            <Field-DSGHPort1>AEJEA</Field-DSGHPort1>
+            <Field-DSGHPort1>DEHAM</Field-DSGHPort1>
             <Field-DSGHPort2></Field-DSGHPort2>
             <Field-DSGHPort3/>
             <Field-TransType/>
             <Field-TransInd/>
-            <Field-SealNo>OOLGCJ3692</Field-SealNo>
+            <Field-SealNo>OOLGDH61641</Field-SealNo>
             <Field-UltiDest/>
             <Field-OLFront/>
             <Field-OLBack/>
@@ -241,20 +241,20 @@
             <Field-OHeight/>
             <Field-InslotOperCode>OR</Field-InslotOperCode>
             <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
-            <Field-SecondCarrier>COSCO SHIPPING PLANET</Field-SecondCarrier>
-            <Field-CargoDesc>USED VEHICLES</Field-CargoDesc>
+            <Field-SecondCarrier>COSCO SHIPPING NEBULA</Field-SecondCarrier>
+            <Field-CargoDesc>MEN'S PARKA JACKET</Field-CargoDesc>
             <Field-RULabel/>
             <Field-DG>N</Field-DG>
             <Field-TSHStatus>Y</Field-TSHStatus>
             <Field-OpenTsStatus>N</Field-OpenTsStatus>
-            <Field-ArrExtVoy>240S</Field-ArrExtVoy>
-            <Field-ArrVslCallSign>VRFB8</Field-ArrVslCallSign>
-            <Field-ArrVslName>SEASPAN EMERALD</Field-ArrVslName>
+            <Field-ArrExtVoy>219S</Field-ArrExtVoy>
+            <Field-ArrVslCallSign>3EQH4</Field-ArrVslCallSign>
+            <Field-ArrVslName>KUO TAI</Field-ArrVslName>
             <Field-HaulierCde></Field-HaulierCde>
-            <Field-VGM>9700</Field-VGM>
+            <Field-VGM>14000</Field-VGM>
             <Field-VGMReferenceNumber/>
-            <Field-VGMWeightedMethod/>
-            <Field-VGMWeightedDate></Field-VGMWeightedDate>
+            <Field-VGMWeightedMethod>Method1</Field-VGMWeightedMethod>
+            <Field-VGMWeightedDate>202009170744</Field-VGMWeightedDate>
             <Field-VGMAuthorizedOfficial/>
             <Field-DirectDelivery/>
         </Record-ContainerRec>
@@ -262,13 +262,13 @@
     <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
         <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
             <Field-CntRecordType>COPRAR1</Field-CntRecordType>
-            <Field-CntNo>FCIU9477442</Field-CntNo>
-            <Field-BookingNo>4105623010</Field-BookingNo>
-            <Field-Service>KTX5</Field-Service>
-            <Field-Vessel>EME</Field-Vessel>
-            <Field-Voyage>240South</Field-Voyage>
-            <Field-ExtVoyNo>006W</Field-ExtVoyNo>
-            <Field-LoadPort>JPNGO</Field-LoadPort>
+            <Field-CntNo>TCNU1321818</Field-CntNo>
+            <Field-BookingNo>2646917790</Field-BookingNo>
+            <Field-Service>YSS</Field-Service>
+            <Field-Vessel>KUT</Field-Vessel>
+            <Field-Voyage>219South</Field-Voyage>
+            <Field-ExtVoyNo>010W</Field-ExtVoyNo>
+            <Field-LoadPort>MMMI9</Field-LoadPort>
             <Field-SizeType>40HQ</Field-SizeType>
             <Field-FullEmpty>F</Field-FullEmpty>
             <Field-GrossWt/>
@@ -290,12 +290,12 @@
             <Field-IMCOClass7/>
             <Field-IMCOClass8/>
             <Field-IMCOClass9/>
-            <Field-DSGHPort1>AEJEA</Field-DSGHPort1>
+            <Field-DSGHPort1>DEHAM</Field-DSGHPort1>
             <Field-DSGHPort2></Field-DSGHPort2>
             <Field-DSGHPort3/>
             <Field-TransType/>
             <Field-TransInd/>
-            <Field-SealNo>OOLGCJ3696</Field-SealNo>
+            <Field-SealNo>OOLGDH61707</Field-SealNo>
             <Field-UltiDest/>
             <Field-OLFront/>
             <Field-OLBack/>
@@ -304,20 +304,20 @@
             <Field-OHeight/>
             <Field-InslotOperCode>OR</Field-InslotOperCode>
             <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
-            <Field-SecondCarrier>COSCO SHIPPING PLANET</Field-SecondCarrier>
-            <Field-CargoDesc>USED VEHICLES</Field-CargoDesc>
+            <Field-SecondCarrier>COSCO SHIPPING NEBULA</Field-SecondCarrier>
+            <Field-CargoDesc>MEN'S PARKA JACKET</Field-CargoDesc>
             <Field-RULabel/>
             <Field-DG>N</Field-DG>
             <Field-TSHStatus>Y</Field-TSHStatus>
             <Field-OpenTsStatus>N</Field-OpenTsStatus>
-            <Field-ArrExtVoy>240S</Field-ArrExtVoy>
-            <Field-ArrVslCallSign>VRFB8</Field-ArrVslCallSign>
-            <Field-ArrVslName>SEASPAN EMERALD</Field-ArrVslName>
+            <Field-ArrExtVoy>219S</Field-ArrExtVoy>
+            <Field-ArrVslCallSign>3EQH4</Field-ArrVslCallSign>
+            <Field-ArrVslName>KUO TAI</Field-ArrVslName>
             <Field-HaulierCde></Field-HaulierCde>
-            <Field-VGM>10100</Field-VGM>
+            <Field-VGM>8300</Field-VGM>
             <Field-VGMReferenceNumber/>
-            <Field-VGMWeightedMethod/>
-            <Field-VGMWeightedDate></Field-VGMWeightedDate>
+            <Field-VGMWeightedMethod>Method1</Field-VGMWeightedMethod>
+            <Field-VGMWeightedDate>202009170744</Field-VGMWeightedDate>
             <Field-VGMAuthorizedOfficial/>
             <Field-DirectDelivery/>
         </Record-ContainerRec>
@@ -325,14 +325,14 @@
     <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
         <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
             <Field-CntRecordType>COPRAR1</Field-CntRecordType>
-            <Field-CntNo>TEMU7927171</Field-CntNo>
-            <Field-BookingNo>4105623010</Field-BookingNo>
-            <Field-Service>KTX5</Field-Service>
-            <Field-Vessel>EME</Field-Vessel>
-            <Field-Voyage>240South</Field-Voyage>
-            <Field-ExtVoyNo>006W</Field-ExtVoyNo>
-            <Field-LoadPort>JPNGO</Field-LoadPort>
-            <Field-SizeType>40HQ</Field-SizeType>
+            <Field-CntNo>OOLU2929147</Field-CntNo>
+            <Field-BookingNo>2646955090</Field-BookingNo>
+            <Field-Service>YSS</Field-Service>
+            <Field-Vessel>KUT</Field-Vessel>
+            <Field-Voyage>219South</Field-Voyage>
+            <Field-ExtVoyNo>127W</Field-ExtVoyNo>
+            <Field-LoadPort>MMMI9</Field-LoadPort>
+            <Field-SizeType>20GP</Field-SizeType>
             <Field-FullEmpty>F</Field-FullEmpty>
             <Field-GrossWt/>
             <Field-ReeferTempMax/>
@@ -353,12 +353,12 @@
             <Field-IMCOClass7/>
             <Field-IMCOClass8/>
             <Field-IMCOClass9/>
-            <Field-DSGHPort1>AEJEA</Field-DSGHPort1>
+            <Field-DSGHPort1>INMUN</Field-DSGHPort1>
             <Field-DSGHPort2></Field-DSGHPort2>
             <Field-DSGHPort3/>
             <Field-TransType/>
             <Field-TransInd/>
-            <Field-SealNo>OOLGCJ3725</Field-SealNo>
+            <Field-SealNo>OOLGDH1691</Field-SealNo>
             <Field-UltiDest/>
             <Field-OLFront/>
             <Field-OLBack/>
@@ -367,20 +367,20 @@
             <Field-OHeight/>
             <Field-InslotOperCode>OR</Field-InslotOperCode>
             <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
-            <Field-SecondCarrier>COSCO SHIPPING PLANET</Field-SecondCarrier>
-            <Field-CargoDesc>USED VEHICLES</Field-CargoDesc>
+            <Field-SecondCarrier>OOCL GUANGZHOU</Field-SecondCarrier>
+            <Field-CargoDesc>TEAK VENEER</Field-CargoDesc>
             <Field-RULabel/>
             <Field-DG>N</Field-DG>
             <Field-TSHStatus>Y</Field-TSHStatus>
             <Field-OpenTsStatus>N</Field-OpenTsStatus>
-            <Field-ArrExtVoy>240S</Field-ArrExtVoy>
-            <Field-ArrVslCallSign>VRFB8</Field-ArrVslCallSign>
-            <Field-ArrVslName>SEASPAN EMERALD</Field-ArrVslName>
+            <Field-ArrExtVoy>219S</Field-ArrExtVoy>
+            <Field-ArrVslCallSign>3EQH4</Field-ArrVslCallSign>
+            <Field-ArrVslName>KUO TAI</Field-ArrVslName>
             <Field-HaulierCde></Field-HaulierCde>
-            <Field-VGM>9900</Field-VGM>
+            <Field-VGM>8100</Field-VGM>
             <Field-VGMReferenceNumber/>
-            <Field-VGMWeightedMethod/>
-            <Field-VGMWeightedDate></Field-VGMWeightedDate>
+            <Field-VGMWeightedMethod>Method1</Field-VGMWeightedMethod>
+            <Field-VGMWeightedDate>202009160000</Field-VGMWeightedDate>
             <Field-VGMAuthorizedOfficial/>
             <Field-DirectDelivery/>
         </Record-ContainerRec>
@@ -388,14 +388,14 @@
     <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
         <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
             <Field-CntRecordType>COPRAR1</Field-CntRecordType>
-            <Field-CntNo>BMOU5517235</Field-CntNo>
-            <Field-BookingNo>4105623010</Field-BookingNo>
-            <Field-Service>KTX5</Field-Service>
-            <Field-Vessel>EME</Field-Vessel>
-            <Field-Voyage>240South</Field-Voyage>
-            <Field-ExtVoyNo>006W</Field-ExtVoyNo>
-            <Field-LoadPort>JPNGO</Field-LoadPort>
-            <Field-SizeType>40HQ</Field-SizeType>
+            <Field-CntNo>XXXX0442233</Field-CntNo>
+            <Field-BookingNo>2115290281</Field-BookingNo>
+            <Field-Service>YSS</Field-Service>
+            <Field-Vessel>KUT</Field-Vessel>
+            <Field-Voyage>219South</Field-Voyage>
+            <Field-ExtVoyNo>011W</Field-ExtVoyNo>
+            <Field-LoadPort>MMMI9</Field-LoadPort>
+            <Field-SizeType>20GP</Field-SizeType>
             <Field-FullEmpty>F</Field-FullEmpty>
             <Field-GrossWt/>
             <Field-ReeferTempMax/>
@@ -421,7 +421,7 @@
             <Field-DSGHPort3/>
             <Field-TransType/>
             <Field-TransInd/>
-            <Field-SealNo>OOLGCH2466</Field-SealNo>
+            <Field-SealNo>GDG9812</Field-SealNo>
             <Field-UltiDest/>
             <Field-OLFront/>
             <Field-OLBack/>
@@ -430,20 +430,20 @@
             <Field-OHeight/>
             <Field-InslotOperCode>OR</Field-InslotOperCode>
             <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
-            <Field-SecondCarrier>COSCO SHIPPING PLANET</Field-SecondCarrier>
-            <Field-CargoDesc>USED VEHICLES</Field-CargoDesc>
+            <Field-SecondCarrier>COSCO SHIPPING SOLAR</Field-SecondCarrier>
+            <Field-CargoDesc>AIPP-Myanmar10MWDiesel-18-</Field-CargoDesc>
             <Field-RULabel/>
             <Field-DG>N</Field-DG>
             <Field-TSHStatus>Y</Field-TSHStatus>
             <Field-OpenTsStatus>N</Field-OpenTsStatus>
-            <Field-ArrExtVoy>240S</Field-ArrExtVoy>
-            <Field-ArrVslCallSign>VRFB8</Field-ArrVslCallSign>
-            <Field-ArrVslName>SEASPAN EMERALD</Field-ArrVslName>
+            <Field-ArrExtVoy>219S</Field-ArrExtVoy>
+            <Field-ArrVslCallSign>3EQH4</Field-ArrVslCallSign>
+            <Field-ArrVslName>KUO TAI</Field-ArrVslName>
             <Field-HaulierCde></Field-HaulierCde>
-            <Field-VGM>9050</Field-VGM>
+            <Field-VGM>11800</Field-VGM>
             <Field-VGMReferenceNumber/>
-            <Field-VGMWeightedMethod/>
-            <Field-VGMWeightedDate></Field-VGMWeightedDate>
+            <Field-VGMWeightedMethod>Method1</Field-VGMWeightedMethod>
+            <Field-VGMWeightedDate>202009171829</Field-VGMWeightedDate>
             <Field-VGMAuthorizedOfficial/>
             <Field-DirectDelivery/>
         </Record-ContainerRec>
@@ -451,14 +451,14 @@
     <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
         <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
             <Field-CntRecordType>COPRAR1</Field-CntRecordType>
-            <Field-CntNo>RFCU4046047</Field-CntNo>
-            <Field-BookingNo>4105623010</Field-BookingNo>
-            <Field-Service>KTX5</Field-Service>
-            <Field-Vessel>EME</Field-Vessel>
-            <Field-Voyage>240South</Field-Voyage>
-            <Field-ExtVoyNo>006W</Field-ExtVoyNo>
-            <Field-LoadPort>JPNGO</Field-LoadPort>
-            <Field-SizeType>40HQ</Field-SizeType>
+            <Field-CntNo>XXXX3405519</Field-CntNo>
+            <Field-BookingNo>2115290280</Field-BookingNo>
+            <Field-Service>YSS</Field-Service>
+            <Field-Vessel>KUT</Field-Vessel>
+            <Field-Voyage>219South</Field-Voyage>
+            <Field-ExtVoyNo>011W</Field-ExtVoyNo>
+            <Field-LoadPort>MMMI9</Field-LoadPort>
+            <Field-SizeType>20GP</Field-SizeType>
             <Field-FullEmpty>F</Field-FullEmpty>
             <Field-GrossWt/>
             <Field-ReeferTempMax/>
@@ -484,7 +484,7 @@
             <Field-DSGHPort3/>
             <Field-TransType/>
             <Field-TransInd/>
-            <Field-SealNo>OOLGCH2319</Field-SealNo>
+            <Field-SealNo>GDG9811</Field-SealNo>
             <Field-UltiDest/>
             <Field-OLFront/>
             <Field-OLBack/>
@@ -493,1091 +493,20 @@
             <Field-OHeight/>
             <Field-InslotOperCode>OR</Field-InslotOperCode>
             <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
-            <Field-SecondCarrier>COSCO SHIPPING PLANET</Field-SecondCarrier>
-            <Field-CargoDesc>USED VEHICLES</Field-CargoDesc>
+            <Field-SecondCarrier>COSCO SHIPPING SOLAR</Field-SecondCarrier>
+            <Field-CargoDesc>Cable Drum</Field-CargoDesc>
             <Field-RULabel/>
             <Field-DG>N</Field-DG>
             <Field-TSHStatus>Y</Field-TSHStatus>
             <Field-OpenTsStatus>N</Field-OpenTsStatus>
-            <Field-ArrExtVoy>240S</Field-ArrExtVoy>
-            <Field-ArrVslCallSign>VRFB8</Field-ArrVslCallSign>
-            <Field-ArrVslName>SEASPAN EMERALD</Field-ArrVslName>
-            <Field-HaulierCde></Field-HaulierCde>
-            <Field-VGM>9900</Field-VGM>
-            <Field-VGMReferenceNumber/>
-            <Field-VGMWeightedMethod/>
-            <Field-VGMWeightedDate></Field-VGMWeightedDate>
-            <Field-VGMAuthorizedOfficial/>
-            <Field-DirectDelivery/>
-        </Record-ContainerRec>
-    </GroupRecord-Container_Group>
-    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
-        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
-            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
-            <Field-CntNo>DFSU7237889</Field-CntNo>
-            <Field-BookingNo>4105623010</Field-BookingNo>
-            <Field-Service>KTX5</Field-Service>
-            <Field-Vessel>EME</Field-Vessel>
-            <Field-Voyage>240South</Field-Voyage>
-            <Field-ExtVoyNo>006W</Field-ExtVoyNo>
-            <Field-LoadPort>JPNGO</Field-LoadPort>
-            <Field-SizeType>40HQ</Field-SizeType>
-            <Field-FullEmpty>F</Field-FullEmpty>
-            <Field-GrossWt/>
-            <Field-ReeferTempMax/>
-            <Field-TempSetting/>
-            <Field-TempUnit/>
-            <Field-SpecialInst1/>
-            <Field-SpecialInst2/>
-            <Field-SpecialInst3/>
-            <Field-SpecialInst4/>
-            <Field-SpecialInst5/>
-            <Field-VentSet></Field-VentSet>
-            <Field-IMCOClass1/>
-            <Field-IMCOClass2/>
-            <Field-IMCOClass3/>
-            <Field-IMCOClass4/>
-            <Field-IMCOClass5/>
-            <Field-IMCOClass6/>
-            <Field-IMCOClass7/>
-            <Field-IMCOClass8/>
-            <Field-IMCOClass9/>
-            <Field-DSGHPort1>AEJEA</Field-DSGHPort1>
-            <Field-DSGHPort2></Field-DSGHPort2>
-            <Field-DSGHPort3/>
-            <Field-TransType/>
-            <Field-TransInd/>
-            <Field-SealNo>OOLGCJ3163</Field-SealNo>
-            <Field-UltiDest/>
-            <Field-OLFront/>
-            <Field-OLBack/>
-            <Field-OWLeft/>
-            <Field-OWRight/>
-            <Field-OHeight/>
-            <Field-InslotOperCode>OR</Field-InslotOperCode>
-            <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
-            <Field-SecondCarrier>COSCO SHIPPING PLANET</Field-SecondCarrier>
-            <Field-CargoDesc>USED VEHICLES</Field-CargoDesc>
-            <Field-RULabel/>
-            <Field-DG>N</Field-DG>
-            <Field-TSHStatus>Y</Field-TSHStatus>
-            <Field-OpenTsStatus>N</Field-OpenTsStatus>
-            <Field-ArrExtVoy>240S</Field-ArrExtVoy>
-            <Field-ArrVslCallSign>VRFB8</Field-ArrVslCallSign>
-            <Field-ArrVslName>SEASPAN EMERALD</Field-ArrVslName>
-            <Field-HaulierCde></Field-HaulierCde>
-            <Field-VGM>9070</Field-VGM>
-            <Field-VGMReferenceNumber/>
-            <Field-VGMWeightedMethod/>
-            <Field-VGMWeightedDate></Field-VGMWeightedDate>
-            <Field-VGMAuthorizedOfficial/>
-            <Field-DirectDelivery/>
-        </Record-ContainerRec>
-    </GroupRecord-Container_Group>
-    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
-        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
-            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
-            <Field-CntNo>SEGU6912165</Field-CntNo>
-            <Field-BookingNo>4105623020</Field-BookingNo>
-            <Field-Service>KTX5</Field-Service>
-            <Field-Vessel>EME</Field-Vessel>
-            <Field-Voyage>240South</Field-Voyage>
-            <Field-ExtVoyNo>006W</Field-ExtVoyNo>
-            <Field-LoadPort>JPNGO</Field-LoadPort>
-            <Field-SizeType>40HQ</Field-SizeType>
-            <Field-FullEmpty>F</Field-FullEmpty>
-            <Field-GrossWt/>
-            <Field-ReeferTempMax/>
-            <Field-TempSetting/>
-            <Field-TempUnit/>
-            <Field-SpecialInst1/>
-            <Field-SpecialInst2/>
-            <Field-SpecialInst3/>
-            <Field-SpecialInst4/>
-            <Field-SpecialInst5/>
-            <Field-VentSet></Field-VentSet>
-            <Field-IMCOClass1/>
-            <Field-IMCOClass2/>
-            <Field-IMCOClass3/>
-            <Field-IMCOClass4/>
-            <Field-IMCOClass5/>
-            <Field-IMCOClass6/>
-            <Field-IMCOClass7/>
-            <Field-IMCOClass8/>
-            <Field-IMCOClass9/>
-            <Field-DSGHPort1>AEJEA</Field-DSGHPort1>
-            <Field-DSGHPort2></Field-DSGHPort2>
-            <Field-DSGHPort3/>
-            <Field-TransType/>
-            <Field-TransInd/>
-            <Field-SealNo>OOLGCJ3613</Field-SealNo>
-            <Field-UltiDest/>
-            <Field-OLFront/>
-            <Field-OLBack/>
-            <Field-OWLeft/>
-            <Field-OWRight/>
-            <Field-OHeight/>
-            <Field-InslotOperCode>OR</Field-InslotOperCode>
-            <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
-            <Field-SecondCarrier>COSCO SHIPPING PLANET</Field-SecondCarrier>
-            <Field-CargoDesc>USED VEHICLES</Field-CargoDesc>
-            <Field-RULabel/>
-            <Field-DG>N</Field-DG>
-            <Field-TSHStatus>Y</Field-TSHStatus>
-            <Field-OpenTsStatus>N</Field-OpenTsStatus>
-            <Field-ArrExtVoy>240S</Field-ArrExtVoy>
-            <Field-ArrVslCallSign>VRFB8</Field-ArrVslCallSign>
-            <Field-ArrVslName>SEASPAN EMERALD</Field-ArrVslName>
-            <Field-HaulierCde></Field-HaulierCde>
-            <Field-VGM>9300</Field-VGM>
-            <Field-VGMReferenceNumber/>
-            <Field-VGMWeightedMethod/>
-            <Field-VGMWeightedDate></Field-VGMWeightedDate>
-            <Field-VGMAuthorizedOfficial/>
-            <Field-DirectDelivery/>
-        </Record-ContainerRec>
-    </GroupRecord-Container_Group>
-    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
-        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
-            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
-            <Field-CntNo>OOLU8332971</Field-CntNo>
-            <Field-BookingNo>4105623020</Field-BookingNo>
-            <Field-Service>KTX5</Field-Service>
-            <Field-Vessel>EME</Field-Vessel>
-            <Field-Voyage>240South</Field-Voyage>
-            <Field-ExtVoyNo>006W</Field-ExtVoyNo>
-            <Field-LoadPort>JPNGO</Field-LoadPort>
-            <Field-SizeType>40HQ</Field-SizeType>
-            <Field-FullEmpty>F</Field-FullEmpty>
-            <Field-GrossWt/>
-            <Field-ReeferTempMax/>
-            <Field-TempSetting/>
-            <Field-TempUnit/>
-            <Field-SpecialInst1/>
-            <Field-SpecialInst2/>
-            <Field-SpecialInst3/>
-            <Field-SpecialInst4/>
-            <Field-SpecialInst5/>
-            <Field-VentSet></Field-VentSet>
-            <Field-IMCOClass1/>
-            <Field-IMCOClass2/>
-            <Field-IMCOClass3/>
-            <Field-IMCOClass4/>
-            <Field-IMCOClass5/>
-            <Field-IMCOClass6/>
-            <Field-IMCOClass7/>
-            <Field-IMCOClass8/>
-            <Field-IMCOClass9/>
-            <Field-DSGHPort1>AEJEA</Field-DSGHPort1>
-            <Field-DSGHPort2></Field-DSGHPort2>
-            <Field-DSGHPort3/>
-            <Field-TransType/>
-            <Field-TransInd/>
-            <Field-SealNo>OOLGCJ3592</Field-SealNo>
-            <Field-UltiDest/>
-            <Field-OLFront/>
-            <Field-OLBack/>
-            <Field-OWLeft/>
-            <Field-OWRight/>
-            <Field-OHeight/>
-            <Field-InslotOperCode>OR</Field-InslotOperCode>
-            <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
-            <Field-SecondCarrier>COSCO SHIPPING PLANET</Field-SecondCarrier>
-            <Field-CargoDesc>USED VEHICLES</Field-CargoDesc>
-            <Field-RULabel/>
-            <Field-DG>N</Field-DG>
-            <Field-TSHStatus>Y</Field-TSHStatus>
-            <Field-OpenTsStatus>N</Field-OpenTsStatus>
-            <Field-ArrExtVoy>240S</Field-ArrExtVoy>
-            <Field-ArrVslCallSign>VRFB8</Field-ArrVslCallSign>
-            <Field-ArrVslName>SEASPAN EMERALD</Field-ArrVslName>
-            <Field-HaulierCde></Field-HaulierCde>
-            <Field-VGM>10300</Field-VGM>
-            <Field-VGMReferenceNumber/>
-            <Field-VGMWeightedMethod/>
-            <Field-VGMWeightedDate></Field-VGMWeightedDate>
-            <Field-VGMAuthorizedOfficial/>
-            <Field-DirectDelivery/>
-        </Record-ContainerRec>
-    </GroupRecord-Container_Group>
-    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
-        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
-            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
-            <Field-CntNo>TCLU1755714</Field-CntNo>
-            <Field-BookingNo>4105623020</Field-BookingNo>
-            <Field-Service>KTX5</Field-Service>
-            <Field-Vessel>EME</Field-Vessel>
-            <Field-Voyage>240South</Field-Voyage>
-            <Field-ExtVoyNo>006W</Field-ExtVoyNo>
-            <Field-LoadPort>JPNGO</Field-LoadPort>
-            <Field-SizeType>40HQ</Field-SizeType>
-            <Field-FullEmpty>F</Field-FullEmpty>
-            <Field-GrossWt/>
-            <Field-ReeferTempMax/>
-            <Field-TempSetting/>
-            <Field-TempUnit/>
-            <Field-SpecialInst1/>
-            <Field-SpecialInst2/>
-            <Field-SpecialInst3/>
-            <Field-SpecialInst4/>
-            <Field-SpecialInst5/>
-            <Field-VentSet></Field-VentSet>
-            <Field-IMCOClass1/>
-            <Field-IMCOClass2/>
-            <Field-IMCOClass3/>
-            <Field-IMCOClass4/>
-            <Field-IMCOClass5/>
-            <Field-IMCOClass6/>
-            <Field-IMCOClass7/>
-            <Field-IMCOClass8/>
-            <Field-IMCOClass9/>
-            <Field-DSGHPort1>AEJEA</Field-DSGHPort1>
-            <Field-DSGHPort2></Field-DSGHPort2>
-            <Field-DSGHPort3/>
-            <Field-TransType/>
-            <Field-TransInd/>
-            <Field-SealNo>OOLGCJ3582</Field-SealNo>
-            <Field-UltiDest/>
-            <Field-OLFront/>
-            <Field-OLBack/>
-            <Field-OWLeft/>
-            <Field-OWRight/>
-            <Field-OHeight/>
-            <Field-InslotOperCode>OR</Field-InslotOperCode>
-            <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
-            <Field-SecondCarrier>COSCO SHIPPING PLANET</Field-SecondCarrier>
-            <Field-CargoDesc>USED VEHICLES</Field-CargoDesc>
-            <Field-RULabel/>
-            <Field-DG>N</Field-DG>
-            <Field-TSHStatus>Y</Field-TSHStatus>
-            <Field-OpenTsStatus>N</Field-OpenTsStatus>
-            <Field-ArrExtVoy>240S</Field-ArrExtVoy>
-            <Field-ArrVslCallSign>VRFB8</Field-ArrVslCallSign>
-            <Field-ArrVslName>SEASPAN EMERALD</Field-ArrVslName>
-            <Field-HaulierCde></Field-HaulierCde>
-            <Field-VGM>9300</Field-VGM>
-            <Field-VGMReferenceNumber/>
-            <Field-VGMWeightedMethod/>
-            <Field-VGMWeightedDate></Field-VGMWeightedDate>
-            <Field-VGMAuthorizedOfficial/>
-            <Field-DirectDelivery/>
-        </Record-ContainerRec>
-    </GroupRecord-Container_Group>
-    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
-        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
-            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
-            <Field-CntNo>OOLU9778269</Field-CntNo>
-            <Field-BookingNo>4105623020</Field-BookingNo>
-            <Field-Service>KTX5</Field-Service>
-            <Field-Vessel>EME</Field-Vessel>
-            <Field-Voyage>240South</Field-Voyage>
-            <Field-ExtVoyNo>006W</Field-ExtVoyNo>
-            <Field-LoadPort>JPNGO</Field-LoadPort>
-            <Field-SizeType>40HQ</Field-SizeType>
-            <Field-FullEmpty>F</Field-FullEmpty>
-            <Field-GrossWt/>
-            <Field-ReeferTempMax/>
-            <Field-TempSetting/>
-            <Field-TempUnit/>
-            <Field-SpecialInst1/>
-            <Field-SpecialInst2/>
-            <Field-SpecialInst3/>
-            <Field-SpecialInst4/>
-            <Field-SpecialInst5/>
-            <Field-VentSet></Field-VentSet>
-            <Field-IMCOClass1/>
-            <Field-IMCOClass2/>
-            <Field-IMCOClass3/>
-            <Field-IMCOClass4/>
-            <Field-IMCOClass5/>
-            <Field-IMCOClass6/>
-            <Field-IMCOClass7/>
-            <Field-IMCOClass8/>
-            <Field-IMCOClass9/>
-            <Field-DSGHPort1>AEJEA</Field-DSGHPort1>
-            <Field-DSGHPort2></Field-DSGHPort2>
-            <Field-DSGHPort3/>
-            <Field-TransType/>
-            <Field-TransInd/>
-            <Field-SealNo>OOLGCJ3691</Field-SealNo>
-            <Field-UltiDest/>
-            <Field-OLFront/>
-            <Field-OLBack/>
-            <Field-OWLeft/>
-            <Field-OWRight/>
-            <Field-OHeight/>
-            <Field-InslotOperCode>OR</Field-InslotOperCode>
-            <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
-            <Field-SecondCarrier>COSCO SHIPPING PLANET</Field-SecondCarrier>
-            <Field-CargoDesc>USED VEHICLES</Field-CargoDesc>
-            <Field-RULabel/>
-            <Field-DG>N</Field-DG>
-            <Field-TSHStatus>Y</Field-TSHStatus>
-            <Field-OpenTsStatus>N</Field-OpenTsStatus>
-            <Field-ArrExtVoy>240S</Field-ArrExtVoy>
-            <Field-ArrVslCallSign>VRFB8</Field-ArrVslCallSign>
-            <Field-ArrVslName>SEASPAN EMERALD</Field-ArrVslName>
-            <Field-HaulierCde></Field-HaulierCde>
-            <Field-VGM>9300</Field-VGM>
-            <Field-VGMReferenceNumber/>
-            <Field-VGMWeightedMethod/>
-            <Field-VGMWeightedDate></Field-VGMWeightedDate>
-            <Field-VGMAuthorizedOfficial/>
-            <Field-DirectDelivery/>
-        </Record-ContainerRec>
-    </GroupRecord-Container_Group>
-    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
-        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
-            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
-            <Field-CntNo>TLLU4764132</Field-CntNo>
-            <Field-BookingNo>4105623290</Field-BookingNo>
-            <Field-Service>KTX5</Field-Service>
-            <Field-Vessel>EME</Field-Vessel>
-            <Field-Voyage>240South</Field-Voyage>
-            <Field-ExtVoyNo>006W</Field-ExtVoyNo>
-            <Field-LoadPort>JPNGO</Field-LoadPort>
-            <Field-SizeType>40HQ</Field-SizeType>
-            <Field-FullEmpty>F</Field-FullEmpty>
-            <Field-GrossWt/>
-            <Field-ReeferTempMax/>
-            <Field-TempSetting/>
-            <Field-TempUnit/>
-            <Field-SpecialInst1/>
-            <Field-SpecialInst2/>
-            <Field-SpecialInst3/>
-            <Field-SpecialInst4/>
-            <Field-SpecialInst5/>
-            <Field-VentSet></Field-VentSet>
-            <Field-IMCOClass1/>
-            <Field-IMCOClass2/>
-            <Field-IMCOClass3/>
-            <Field-IMCOClass4/>
-            <Field-IMCOClass5/>
-            <Field-IMCOClass6/>
-            <Field-IMCOClass7/>
-            <Field-IMCOClass8/>
-            <Field-IMCOClass9/>
-            <Field-DSGHPort1>AEJEA</Field-DSGHPort1>
-            <Field-DSGHPort2></Field-DSGHPort2>
-            <Field-DSGHPort3/>
-            <Field-TransType/>
-            <Field-TransInd/>
-            <Field-SealNo>OOLGCJ3596</Field-SealNo>
-            <Field-UltiDest/>
-            <Field-OLFront/>
-            <Field-OLBack/>
-            <Field-OWLeft/>
-            <Field-OWRight/>
-            <Field-OHeight/>
-            <Field-InslotOperCode>OR</Field-InslotOperCode>
-            <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
-            <Field-SecondCarrier>COSCO SHIPPING PLANET</Field-SecondCarrier>
-            <Field-CargoDesc>USED VEHICLES</Field-CargoDesc>
-            <Field-RULabel/>
-            <Field-DG>N</Field-DG>
-            <Field-TSHStatus>Y</Field-TSHStatus>
-            <Field-OpenTsStatus>N</Field-OpenTsStatus>
-            <Field-ArrExtVoy>240S</Field-ArrExtVoy>
-            <Field-ArrVslCallSign>VRFB8</Field-ArrVslCallSign>
-            <Field-ArrVslName>SEASPAN EMERALD</Field-ArrVslName>
-            <Field-HaulierCde></Field-HaulierCde>
-            <Field-VGM>9500</Field-VGM>
-            <Field-VGMReferenceNumber/>
-            <Field-VGMWeightedMethod/>
-            <Field-VGMWeightedDate></Field-VGMWeightedDate>
-            <Field-VGMAuthorizedOfficial/>
-            <Field-DirectDelivery/>
-        </Record-ContainerRec>
-    </GroupRecord-Container_Group>
-    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
-        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
-            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
-            <Field-CntNo>TCNU2268641</Field-CntNo>
-            <Field-BookingNo>4105623290</Field-BookingNo>
-            <Field-Service>KTX5</Field-Service>
-            <Field-Vessel>EME</Field-Vessel>
-            <Field-Voyage>240South</Field-Voyage>
-            <Field-ExtVoyNo>006W</Field-ExtVoyNo>
-            <Field-LoadPort>JPNGO</Field-LoadPort>
-            <Field-SizeType>40HQ</Field-SizeType>
-            <Field-FullEmpty>F</Field-FullEmpty>
-            <Field-GrossWt/>
-            <Field-ReeferTempMax/>
-            <Field-TempSetting/>
-            <Field-TempUnit/>
-            <Field-SpecialInst1/>
-            <Field-SpecialInst2/>
-            <Field-SpecialInst3/>
-            <Field-SpecialInst4/>
-            <Field-SpecialInst5/>
-            <Field-VentSet></Field-VentSet>
-            <Field-IMCOClass1/>
-            <Field-IMCOClass2/>
-            <Field-IMCOClass3/>
-            <Field-IMCOClass4/>
-            <Field-IMCOClass5/>
-            <Field-IMCOClass6/>
-            <Field-IMCOClass7/>
-            <Field-IMCOClass8/>
-            <Field-IMCOClass9/>
-            <Field-DSGHPort1>AEJEA</Field-DSGHPort1>
-            <Field-DSGHPort2></Field-DSGHPort2>
-            <Field-DSGHPort3/>
-            <Field-TransType/>
-            <Field-TransInd/>
-            <Field-SealNo>OOLGCJ3601</Field-SealNo>
-            <Field-UltiDest/>
-            <Field-OLFront/>
-            <Field-OLBack/>
-            <Field-OWLeft/>
-            <Field-OWRight/>
-            <Field-OHeight/>
-            <Field-InslotOperCode>OR</Field-InslotOperCode>
-            <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
-            <Field-SecondCarrier>COSCO SHIPPING PLANET</Field-SecondCarrier>
-            <Field-CargoDesc>USED VEHICLES</Field-CargoDesc>
-            <Field-RULabel/>
-            <Field-DG>N</Field-DG>
-            <Field-TSHStatus>Y</Field-TSHStatus>
-            <Field-OpenTsStatus>N</Field-OpenTsStatus>
-            <Field-ArrExtVoy>240S</Field-ArrExtVoy>
-            <Field-ArrVslCallSign>VRFB8</Field-ArrVslCallSign>
-            <Field-ArrVslName>SEASPAN EMERALD</Field-ArrVslName>
-            <Field-HaulierCde></Field-HaulierCde>
-            <Field-VGM>9500</Field-VGM>
-            <Field-VGMReferenceNumber/>
-            <Field-VGMWeightedMethod/>
-            <Field-VGMWeightedDate></Field-VGMWeightedDate>
-            <Field-VGMAuthorizedOfficial/>
-            <Field-DirectDelivery/>
-        </Record-ContainerRec>
-    </GroupRecord-Container_Group>
-    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
-        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
-            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
-            <Field-CntNo>OOLU9821257</Field-CntNo>
-            <Field-BookingNo>4105623290</Field-BookingNo>
-            <Field-Service>KTX5</Field-Service>
-            <Field-Vessel>EME</Field-Vessel>
-            <Field-Voyage>240South</Field-Voyage>
-            <Field-ExtVoyNo>006W</Field-ExtVoyNo>
-            <Field-LoadPort>JPNGO</Field-LoadPort>
-            <Field-SizeType>40HQ</Field-SizeType>
-            <Field-FullEmpty>F</Field-FullEmpty>
-            <Field-GrossWt/>
-            <Field-ReeferTempMax/>
-            <Field-TempSetting/>
-            <Field-TempUnit/>
-            <Field-SpecialInst1/>
-            <Field-SpecialInst2/>
-            <Field-SpecialInst3/>
-            <Field-SpecialInst4/>
-            <Field-SpecialInst5/>
-            <Field-VentSet></Field-VentSet>
-            <Field-IMCOClass1/>
-            <Field-IMCOClass2/>
-            <Field-IMCOClass3/>
-            <Field-IMCOClass4/>
-            <Field-IMCOClass5/>
-            <Field-IMCOClass6/>
-            <Field-IMCOClass7/>
-            <Field-IMCOClass8/>
-            <Field-IMCOClass9/>
-            <Field-DSGHPort1>AEJEA</Field-DSGHPort1>
-            <Field-DSGHPort2></Field-DSGHPort2>
-            <Field-DSGHPort3/>
-            <Field-TransType/>
-            <Field-TransInd/>
-            <Field-SealNo>OOLGCJ3659</Field-SealNo>
-            <Field-UltiDest/>
-            <Field-OLFront/>
-            <Field-OLBack/>
-            <Field-OWLeft/>
-            <Field-OWRight/>
-            <Field-OHeight/>
-            <Field-InslotOperCode>OR</Field-InslotOperCode>
-            <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
-            <Field-SecondCarrier>COSCO SHIPPING PLANET</Field-SecondCarrier>
-            <Field-CargoDesc>USED VEHICLES</Field-CargoDesc>
-            <Field-RULabel/>
-            <Field-DG>N</Field-DG>
-            <Field-TSHStatus>Y</Field-TSHStatus>
-            <Field-OpenTsStatus>N</Field-OpenTsStatus>
-            <Field-ArrExtVoy>240S</Field-ArrExtVoy>
-            <Field-ArrVslCallSign>VRFB8</Field-ArrVslCallSign>
-            <Field-ArrVslName>SEASPAN EMERALD</Field-ArrVslName>
-            <Field-HaulierCde></Field-HaulierCde>
-            <Field-VGM>9500</Field-VGM>
-            <Field-VGMReferenceNumber/>
-            <Field-VGMWeightedMethod/>
-            <Field-VGMWeightedDate></Field-VGMWeightedDate>
-            <Field-VGMAuthorizedOfficial/>
-            <Field-DirectDelivery/>
-        </Record-ContainerRec>
-    </GroupRecord-Container_Group>
-    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
-        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
-            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
-            <Field-CntNo>OOLU9698179</Field-CntNo>
-            <Field-BookingNo>2639533740</Field-BookingNo>
-            <Field-Service>KTX5</Field-Service>
-            <Field-Vessel>EME</Field-Vessel>
-            <Field-Voyage>240South</Field-Voyage>
-            <Field-ExtVoyNo></Field-ExtVoyNo>
-            <Field-LoadPort>HKHKG</Field-LoadPort>
-            <Field-SizeType>40HQ</Field-SizeType>
-            <Field-FullEmpty>F</Field-FullEmpty>
-            <Field-GrossWt/>
-            <Field-ReeferTempMax/>
-            <Field-TempSetting/>
-            <Field-TempUnit/>
-            <Field-SpecialInst1/>
-            <Field-SpecialInst2/>
-            <Field-SpecialInst3/>
-            <Field-SpecialInst4/>
-            <Field-SpecialInst5/>
-            <Field-VentSet></Field-VentSet>
-            <Field-IMCOClass1/>
-            <Field-IMCOClass2/>
-            <Field-IMCOClass3/>
-            <Field-IMCOClass4/>
-            <Field-IMCOClass5/>
-            <Field-IMCOClass6/>
-            <Field-IMCOClass7/>
-            <Field-IMCOClass8/>
-            <Field-IMCOClass9/>
-            <Field-DSGHPort1></Field-DSGHPort1>
-            <Field-DSGHPort2></Field-DSGHPort2>
-            <Field-DSGHPort3/>
-            <Field-TransType/>
-            <Field-TransInd/>
-            <Field-SealNo>OOLFHM4813</Field-SealNo>
-            <Field-UltiDest/>
-            <Field-OLFront/>
-            <Field-OLBack/>
-            <Field-OWLeft/>
-            <Field-OWRight/>
-            <Field-OHeight/>
-            <Field-InslotOperCode>OR</Field-InslotOperCode>
-            <Field-OutSlotOperCode></Field-OutSlotOperCode>
-            <Field-SecondCarrier></Field-SecondCarrier>
-            <Field-CargoDesc>SUNLIGHT NO RINSE SANITIZER</Field-CargoDesc>
-            <Field-RULabel/>
-            <Field-DG>N</Field-DG>
-            <Field-TSHStatus>N</Field-TSHStatus>
-            <Field-OpenTsStatus>N</Field-OpenTsStatus>
-            <Field-ArrExtVoy>240S</Field-ArrExtVoy>
-            <Field-ArrVslCallSign>VRFB8</Field-ArrVslCallSign>
-            <Field-ArrVslName>SEASPAN EMERALD</Field-ArrVslName>
-            <Field-HaulierCde></Field-HaulierCde>
-            <Field-VGM>25062</Field-VGM>
-            <Field-VGMReferenceNumber/>
-            <Field-VGMWeightedMethod/>
-            <Field-VGMWeightedDate></Field-VGMWeightedDate>
-            <Field-VGMAuthorizedOfficial/>
-            <Field-DirectDelivery/>
-        </Record-ContainerRec>
-    </GroupRecord-Container_Group>
-    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
-        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
-            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
-            <Field-CntNo>OOLU9581834</Field-CntNo>
-            <Field-BookingNo>2639533740</Field-BookingNo>
-            <Field-Service>KTX5</Field-Service>
-            <Field-Vessel>EME</Field-Vessel>
-            <Field-Voyage>240South</Field-Voyage>
-            <Field-ExtVoyNo></Field-ExtVoyNo>
-            <Field-LoadPort>HKHKG</Field-LoadPort>
-            <Field-SizeType>40HQ</Field-SizeType>
-            <Field-FullEmpty>F</Field-FullEmpty>
-            <Field-GrossWt/>
-            <Field-ReeferTempMax/>
-            <Field-TempSetting/>
-            <Field-TempUnit/>
-            <Field-SpecialInst1/>
-            <Field-SpecialInst2/>
-            <Field-SpecialInst3/>
-            <Field-SpecialInst4/>
-            <Field-SpecialInst5/>
-            <Field-VentSet></Field-VentSet>
-            <Field-IMCOClass1/>
-            <Field-IMCOClass2/>
-            <Field-IMCOClass3/>
-            <Field-IMCOClass4/>
-            <Field-IMCOClass5/>
-            <Field-IMCOClass6/>
-            <Field-IMCOClass7/>
-            <Field-IMCOClass8/>
-            <Field-IMCOClass9/>
-            <Field-DSGHPort1></Field-DSGHPort1>
-            <Field-DSGHPort2></Field-DSGHPort2>
-            <Field-DSGHPort3/>
-            <Field-TransType/>
-            <Field-TransInd/>
-            <Field-SealNo>OOLFHM4857</Field-SealNo>
-            <Field-UltiDest/>
-            <Field-OLFront/>
-            <Field-OLBack/>
-            <Field-OWLeft/>
-            <Field-OWRight/>
-            <Field-OHeight/>
-            <Field-InslotOperCode>OR</Field-InslotOperCode>
-            <Field-OutSlotOperCode></Field-OutSlotOperCode>
-            <Field-SecondCarrier></Field-SecondCarrier>
-            <Field-CargoDesc>SUNLIGHT NO RINSE SANITIZER</Field-CargoDesc>
-            <Field-RULabel/>
-            <Field-DG>N</Field-DG>
-            <Field-TSHStatus>N</Field-TSHStatus>
-            <Field-OpenTsStatus>N</Field-OpenTsStatus>
-            <Field-ArrExtVoy>240S</Field-ArrExtVoy>
-            <Field-ArrVslCallSign>VRFB8</Field-ArrVslCallSign>
-            <Field-ArrVslName>SEASPAN EMERALD</Field-ArrVslName>
-            <Field-HaulierCde></Field-HaulierCde>
-            <Field-VGM>25032</Field-VGM>
-            <Field-VGMReferenceNumber/>
-            <Field-VGMWeightedMethod/>
-            <Field-VGMWeightedDate></Field-VGMWeightedDate>
-            <Field-VGMAuthorizedOfficial/>
-            <Field-DirectDelivery/>
-        </Record-ContainerRec>
-    </GroupRecord-Container_Group>
-    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
-        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
-            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
-            <Field-CntNo>OOLU8394340</Field-CntNo>
-            <Field-BookingNo>2639707840</Field-BookingNo>
-            <Field-Service>KTX5</Field-Service>
-            <Field-Vessel>EME</Field-Vessel>
-            <Field-Voyage>240South</Field-Voyage>
-            <Field-ExtVoyNo></Field-ExtVoyNo>
-            <Field-LoadPort>HKHKG</Field-LoadPort>
-            <Field-SizeType>40HQ</Field-SizeType>
-            <Field-FullEmpty>F</Field-FullEmpty>
-            <Field-GrossWt/>
-            <Field-ReeferTempMax/>
-            <Field-TempSetting/>
-            <Field-TempUnit/>
-            <Field-SpecialInst1/>
-            <Field-SpecialInst2/>
-            <Field-SpecialInst3/>
-            <Field-SpecialInst4/>
-            <Field-SpecialInst5/>
-            <Field-VentSet></Field-VentSet>
-            <Field-IMCOClass1/>
-            <Field-IMCOClass2/>
-            <Field-IMCOClass3/>
-            <Field-IMCOClass4/>
-            <Field-IMCOClass5/>
-            <Field-IMCOClass6/>
-            <Field-IMCOClass7/>
-            <Field-IMCOClass8/>
-            <Field-IMCOClass9/>
-            <Field-DSGHPort1></Field-DSGHPort1>
-            <Field-DSGHPort2></Field-DSGHPort2>
-            <Field-DSGHPort3/>
-            <Field-TransType/>
-            <Field-TransInd/>
-            <Field-SealNo>OOLGBW2745</Field-SealNo>
-            <Field-UltiDest/>
-            <Field-OLFront/>
-            <Field-OLBack/>
-            <Field-OWLeft/>
-            <Field-OWRight/>
-            <Field-OHeight/>
-            <Field-InslotOperCode>OR</Field-InslotOperCode>
-            <Field-OutSlotOperCode></Field-OutSlotOperCode>
-            <Field-SecondCarrier></Field-SecondCarrier>
-            <Field-CargoDesc>BATHROOM TISSUE PRINTED</Field-CargoDesc>
-            <Field-RULabel/>
-            <Field-DG>N</Field-DG>
-            <Field-TSHStatus>N</Field-TSHStatus>
-            <Field-OpenTsStatus>N</Field-OpenTsStatus>
-            <Field-ArrExtVoy>240S</Field-ArrExtVoy>
-            <Field-ArrVslCallSign>VRFB8</Field-ArrVslCallSign>
-            <Field-ArrVslName>SEASPAN EMERALD</Field-ArrVslName>
-            <Field-HaulierCde></Field-HaulierCde>
-            <Field-VGM>13480</Field-VGM>
-            <Field-VGMReferenceNumber/>
-            <Field-VGMWeightedMethod/>
-            <Field-VGMWeightedDate></Field-VGMWeightedDate>
-            <Field-VGMAuthorizedOfficial/>
-            <Field-DirectDelivery/>
-        </Record-ContainerRec>
-    </GroupRecord-Container_Group>
-    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
-        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
-            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
-            <Field-CntNo>GESU6759792</Field-CntNo>
-            <Field-BookingNo>2639707840</Field-BookingNo>
-            <Field-Service>KTX5</Field-Service>
-            <Field-Vessel>EME</Field-Vessel>
-            <Field-Voyage>240South</Field-Voyage>
-            <Field-ExtVoyNo></Field-ExtVoyNo>
-            <Field-LoadPort>HKHKG</Field-LoadPort>
-            <Field-SizeType>40HQ</Field-SizeType>
-            <Field-FullEmpty>F</Field-FullEmpty>
-            <Field-GrossWt/>
-            <Field-ReeferTempMax/>
-            <Field-TempSetting/>
-            <Field-TempUnit/>
-            <Field-SpecialInst1/>
-            <Field-SpecialInst2/>
-            <Field-SpecialInst3/>
-            <Field-SpecialInst4/>
-            <Field-SpecialInst5/>
-            <Field-VentSet></Field-VentSet>
-            <Field-IMCOClass1/>
-            <Field-IMCOClass2/>
-            <Field-IMCOClass3/>
-            <Field-IMCOClass4/>
-            <Field-IMCOClass5/>
-            <Field-IMCOClass6/>
-            <Field-IMCOClass7/>
-            <Field-IMCOClass8/>
-            <Field-IMCOClass9/>
-            <Field-DSGHPort1></Field-DSGHPort1>
-            <Field-DSGHPort2></Field-DSGHPort2>
-            <Field-DSGHPort3/>
-            <Field-TransType/>
-            <Field-TransInd/>
-            <Field-SealNo>OOLGBW0226</Field-SealNo>
-            <Field-UltiDest/>
-            <Field-OLFront/>
-            <Field-OLBack/>
-            <Field-OWLeft/>
-            <Field-OWRight/>
-            <Field-OHeight/>
-            <Field-InslotOperCode>OR</Field-InslotOperCode>
-            <Field-OutSlotOperCode></Field-OutSlotOperCode>
-            <Field-SecondCarrier></Field-SecondCarrier>
-            <Field-CargoDesc>BATHROOM TISSUE PRINTED</Field-CargoDesc>
-            <Field-RULabel/>
-            <Field-DG>N</Field-DG>
-            <Field-TSHStatus>N</Field-TSHStatus>
-            <Field-OpenTsStatus>N</Field-OpenTsStatus>
-            <Field-ArrExtVoy>240S</Field-ArrExtVoy>
-            <Field-ArrVslCallSign>VRFB8</Field-ArrVslCallSign>
-            <Field-ArrVslName>SEASPAN EMERALD</Field-ArrVslName>
-            <Field-HaulierCde></Field-HaulierCde>
-            <Field-VGM>13450</Field-VGM>
-            <Field-VGMReferenceNumber/>
-            <Field-VGMWeightedMethod/>
-            <Field-VGMWeightedDate></Field-VGMWeightedDate>
-            <Field-VGMAuthorizedOfficial/>
-            <Field-DirectDelivery/>
-        </Record-ContainerRec>
-    </GroupRecord-Container_Group>
-    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
-        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
-            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
-            <Field-CntNo>CCLU7166232</Field-CntNo>
-            <Field-BookingNo>2639707840</Field-BookingNo>
-            <Field-Service>KTX5</Field-Service>
-            <Field-Vessel>EME</Field-Vessel>
-            <Field-Voyage>240South</Field-Voyage>
-            <Field-ExtVoyNo></Field-ExtVoyNo>
-            <Field-LoadPort>HKHKG</Field-LoadPort>
-            <Field-SizeType>40HQ</Field-SizeType>
-            <Field-FullEmpty>F</Field-FullEmpty>
-            <Field-GrossWt/>
-            <Field-ReeferTempMax/>
-            <Field-TempSetting/>
-            <Field-TempUnit/>
-            <Field-SpecialInst1/>
-            <Field-SpecialInst2/>
-            <Field-SpecialInst3/>
-            <Field-SpecialInst4/>
-            <Field-SpecialInst5/>
-            <Field-VentSet></Field-VentSet>
-            <Field-IMCOClass1/>
-            <Field-IMCOClass2/>
-            <Field-IMCOClass3/>
-            <Field-IMCOClass4/>
-            <Field-IMCOClass5/>
-            <Field-IMCOClass6/>
-            <Field-IMCOClass7/>
-            <Field-IMCOClass8/>
-            <Field-IMCOClass9/>
-            <Field-DSGHPort1></Field-DSGHPort1>
-            <Field-DSGHPort2></Field-DSGHPort2>
-            <Field-DSGHPort3/>
-            <Field-TransType/>
-            <Field-TransInd/>
-            <Field-SealNo>OOLGBW0152</Field-SealNo>
-            <Field-UltiDest/>
-            <Field-OLFront/>
-            <Field-OLBack/>
-            <Field-OWLeft/>
-            <Field-OWRight/>
-            <Field-OHeight/>
-            <Field-InslotOperCode>OR</Field-InslotOperCode>
-            <Field-OutSlotOperCode></Field-OutSlotOperCode>
-            <Field-SecondCarrier></Field-SecondCarrier>
-            <Field-CargoDesc>BATHROOM TISSUE PRINTED</Field-CargoDesc>
-            <Field-RULabel/>
-            <Field-DG>N</Field-DG>
-            <Field-TSHStatus>N</Field-TSHStatus>
-            <Field-OpenTsStatus>N</Field-OpenTsStatus>
-            <Field-ArrExtVoy>240S</Field-ArrExtVoy>
-            <Field-ArrVslCallSign>VRFB8</Field-ArrVslCallSign>
-            <Field-ArrVslName>SEASPAN EMERALD</Field-ArrVslName>
-            <Field-HaulierCde></Field-HaulierCde>
-            <Field-VGM>13490</Field-VGM>
-            <Field-VGMReferenceNumber/>
-            <Field-VGMWeightedMethod/>
-            <Field-VGMWeightedDate></Field-VGMWeightedDate>
-            <Field-VGMAuthorizedOfficial/>
-            <Field-DirectDelivery/>
-        </Record-ContainerRec>
-    </GroupRecord-Container_Group>
-    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
-        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
-            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
-            <Field-CntNo>OOCU6871181</Field-CntNo>
-            <Field-BookingNo>2639707840</Field-BookingNo>
-            <Field-Service>KTX5</Field-Service>
-            <Field-Vessel>EME</Field-Vessel>
-            <Field-Voyage>240South</Field-Voyage>
-            <Field-ExtVoyNo></Field-ExtVoyNo>
-            <Field-LoadPort>HKHKG</Field-LoadPort>
-            <Field-SizeType>40HQ</Field-SizeType>
-            <Field-FullEmpty>F</Field-FullEmpty>
-            <Field-GrossWt/>
-            <Field-ReeferTempMax/>
-            <Field-TempSetting/>
-            <Field-TempUnit/>
-            <Field-SpecialInst1/>
-            <Field-SpecialInst2/>
-            <Field-SpecialInst3/>
-            <Field-SpecialInst4/>
-            <Field-SpecialInst5/>
-            <Field-VentSet></Field-VentSet>
-            <Field-IMCOClass1/>
-            <Field-IMCOClass2/>
-            <Field-IMCOClass3/>
-            <Field-IMCOClass4/>
-            <Field-IMCOClass5/>
-            <Field-IMCOClass6/>
-            <Field-IMCOClass7/>
-            <Field-IMCOClass8/>
-            <Field-IMCOClass9/>
-            <Field-DSGHPort1></Field-DSGHPort1>
-            <Field-DSGHPort2></Field-DSGHPort2>
-            <Field-DSGHPort3/>
-            <Field-TransType/>
-            <Field-TransInd/>
-            <Field-SealNo>OOLGBW0203</Field-SealNo>
-            <Field-UltiDest/>
-            <Field-OLFront/>
-            <Field-OLBack/>
-            <Field-OWLeft/>
-            <Field-OWRight/>
-            <Field-OHeight/>
-            <Field-InslotOperCode>OR</Field-InslotOperCode>
-            <Field-OutSlotOperCode></Field-OutSlotOperCode>
-            <Field-SecondCarrier></Field-SecondCarrier>
-            <Field-CargoDesc>BATHROOM TISSUE PRINTED</Field-CargoDesc>
-            <Field-RULabel/>
-            <Field-DG>N</Field-DG>
-            <Field-TSHStatus>N</Field-TSHStatus>
-            <Field-OpenTsStatus>N</Field-OpenTsStatus>
-            <Field-ArrExtVoy>240S</Field-ArrExtVoy>
-            <Field-ArrVslCallSign>VRFB8</Field-ArrVslCallSign>
-            <Field-ArrVslName>SEASPAN EMERALD</Field-ArrVslName>
-            <Field-HaulierCde></Field-HaulierCde>
-            <Field-VGM>13470</Field-VGM>
-            <Field-VGMReferenceNumber/>
-            <Field-VGMWeightedMethod/>
-            <Field-VGMWeightedDate></Field-VGMWeightedDate>
-            <Field-VGMAuthorizedOfficial/>
-            <Field-DirectDelivery/>
-        </Record-ContainerRec>
-    </GroupRecord-Container_Group>
-    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
-        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
-            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
-            <Field-CntNo>OOLU9673294</Field-CntNo>
-            <Field-BookingNo>2639707840</Field-BookingNo>
-            <Field-Service>KTX5</Field-Service>
-            <Field-Vessel>EME</Field-Vessel>
-            <Field-Voyage>240South</Field-Voyage>
-            <Field-ExtVoyNo></Field-ExtVoyNo>
-            <Field-LoadPort>HKHKG</Field-LoadPort>
-            <Field-SizeType>40HQ</Field-SizeType>
-            <Field-FullEmpty>F</Field-FullEmpty>
-            <Field-GrossWt/>
-            <Field-ReeferTempMax/>
-            <Field-TempSetting/>
-            <Field-TempUnit/>
-            <Field-SpecialInst1/>
-            <Field-SpecialInst2/>
-            <Field-SpecialInst3/>
-            <Field-SpecialInst4/>
-            <Field-SpecialInst5/>
-            <Field-VentSet></Field-VentSet>
-            <Field-IMCOClass1/>
-            <Field-IMCOClass2/>
-            <Field-IMCOClass3/>
-            <Field-IMCOClass4/>
-            <Field-IMCOClass5/>
-            <Field-IMCOClass6/>
-            <Field-IMCOClass7/>
-            <Field-IMCOClass8/>
-            <Field-IMCOClass9/>
-            <Field-DSGHPort1></Field-DSGHPort1>
-            <Field-DSGHPort2></Field-DSGHPort2>
-            <Field-DSGHPort3/>
-            <Field-TransType/>
-            <Field-TransInd/>
-            <Field-SealNo>OOLGBW2734</Field-SealNo>
-            <Field-UltiDest/>
-            <Field-OLFront/>
-            <Field-OLBack/>
-            <Field-OWLeft/>
-            <Field-OWRight/>
-            <Field-OHeight/>
-            <Field-InslotOperCode>OR</Field-InslotOperCode>
-            <Field-OutSlotOperCode></Field-OutSlotOperCode>
-            <Field-SecondCarrier></Field-SecondCarrier>
-            <Field-CargoDesc>BATHROOM TISSUE PRINTED</Field-CargoDesc>
-            <Field-RULabel/>
-            <Field-DG>N</Field-DG>
-            <Field-TSHStatus>N</Field-TSHStatus>
-            <Field-OpenTsStatus>N</Field-OpenTsStatus>
-            <Field-ArrExtVoy>240S</Field-ArrExtVoy>
-            <Field-ArrVslCallSign>VRFB8</Field-ArrVslCallSign>
-            <Field-ArrVslName>SEASPAN EMERALD</Field-ArrVslName>
-            <Field-HaulierCde></Field-HaulierCde>
-            <Field-VGM>13370</Field-VGM>
-            <Field-VGMReferenceNumber/>
-            <Field-VGMWeightedMethod/>
-            <Field-VGMWeightedDate></Field-VGMWeightedDate>
-            <Field-VGMAuthorizedOfficial/>
-            <Field-DirectDelivery/>
-        </Record-ContainerRec>
-    </GroupRecord-Container_Group>
-    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
-        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
-            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
-            <Field-CntNo>GESU6200823</Field-CntNo>
-            <Field-BookingNo>2639715710</Field-BookingNo>
-            <Field-Service>KTX5</Field-Service>
-            <Field-Vessel>EME</Field-Vessel>
-            <Field-Voyage>240South</Field-Voyage>
-            <Field-ExtVoyNo></Field-ExtVoyNo>
-            <Field-LoadPort>HKHKG</Field-LoadPort>
-            <Field-SizeType>40HQ</Field-SizeType>
-            <Field-FullEmpty>F</Field-FullEmpty>
-            <Field-GrossWt/>
-            <Field-ReeferTempMax/>
-            <Field-TempSetting/>
-            <Field-TempUnit/>
-            <Field-SpecialInst1/>
-            <Field-SpecialInst2/>
-            <Field-SpecialInst3/>
-            <Field-SpecialInst4/>
-            <Field-SpecialInst5/>
-            <Field-VentSet></Field-VentSet>
-            <Field-IMCOClass1/>
-            <Field-IMCOClass2/>
-            <Field-IMCOClass3/>
-            <Field-IMCOClass4/>
-            <Field-IMCOClass5/>
-            <Field-IMCOClass6/>
-            <Field-IMCOClass7/>
-            <Field-IMCOClass8/>
-            <Field-IMCOClass9/>
-            <Field-DSGHPort1></Field-DSGHPort1>
-            <Field-DSGHPort2></Field-DSGHPort2>
-            <Field-DSGHPort3/>
-            <Field-TransType/>
-            <Field-TransInd/>
-            <Field-SealNo>OOLGBT6177</Field-SealNo>
-            <Field-UltiDest/>
-            <Field-OLFront/>
-            <Field-OLBack/>
-            <Field-OWLeft/>
-            <Field-OWRight/>
-            <Field-OHeight/>
-            <Field-InslotOperCode>OR</Field-InslotOperCode>
-            <Field-OutSlotOperCode></Field-OutSlotOperCode>
-            <Field-SecondCarrier></Field-SecondCarrier>
-            <Field-CargoDesc>WHITE PAPER NAPKIN</Field-CargoDesc>
-            <Field-RULabel/>
-            <Field-DG>N</Field-DG>
-            <Field-TSHStatus>N</Field-TSHStatus>
-            <Field-OpenTsStatus>N</Field-OpenTsStatus>
-            <Field-ArrExtVoy>240S</Field-ArrExtVoy>
-            <Field-ArrVslCallSign>VRFB8</Field-ArrVslCallSign>
-            <Field-ArrVslName>SEASPAN EMERALD</Field-ArrVslName>
-            <Field-HaulierCde></Field-HaulierCde>
-            <Field-VGM>12622</Field-VGM>
-            <Field-VGMReferenceNumber/>
-            <Field-VGMWeightedMethod/>
-            <Field-VGMWeightedDate></Field-VGMWeightedDate>
-            <Field-VGMAuthorizedOfficial/>
-            <Field-DirectDelivery/>
-        </Record-ContainerRec>
-    </GroupRecord-Container_Group>
-    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
-        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
-            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
-            <Field-CntNo>OOCU6526210</Field-CntNo>
-            <Field-BookingNo>2639791720</Field-BookingNo>
-            <Field-Service>KTX5</Field-Service>
-            <Field-Vessel>EME</Field-Vessel>
-            <Field-Voyage>240South</Field-Voyage>
-            <Field-ExtVoyNo></Field-ExtVoyNo>
-            <Field-LoadPort>HKHKG</Field-LoadPort>
-            <Field-SizeType>40HQ</Field-SizeType>
-            <Field-FullEmpty>F</Field-FullEmpty>
-            <Field-GrossWt/>
-            <Field-ReeferTempMax/>
-            <Field-TempSetting/>
-            <Field-TempUnit/>
-            <Field-SpecialInst1/>
-            <Field-SpecialInst2/>
-            <Field-SpecialInst3/>
-            <Field-SpecialInst4/>
-            <Field-SpecialInst5/>
-            <Field-VentSet></Field-VentSet>
-            <Field-IMCOClass1/>
-            <Field-IMCOClass2/>
-            <Field-IMCOClass3/>
-            <Field-IMCOClass4/>
-            <Field-IMCOClass5/>
-            <Field-IMCOClass6/>
-            <Field-IMCOClass7/>
-            <Field-IMCOClass8/>
-            <Field-IMCOClass9/>
-            <Field-DSGHPort1></Field-DSGHPort1>
-            <Field-DSGHPort2></Field-DSGHPort2>
-            <Field-DSGHPort3/>
-            <Field-TransType/>
-            <Field-TransInd/>
-            <Field-SealNo>OOLGAU1042</Field-SealNo>
-            <Field-UltiDest/>
-            <Field-OLFront/>
-            <Field-OLBack/>
-            <Field-OWLeft/>
-            <Field-OWRight/>
-            <Field-OHeight/>
-            <Field-InslotOperCode>OR</Field-InslotOperCode>
-            <Field-OutSlotOperCode></Field-OutSlotOperCode>
-            <Field-SecondCarrier></Field-SecondCarrier>
-            <Field-CargoDesc>NYLON FILM</Field-CargoDesc>
-            <Field-RULabel/>
-            <Field-DG>N</Field-DG>
-            <Field-TSHStatus>N</Field-TSHStatus>
-            <Field-OpenTsStatus>N</Field-OpenTsStatus>
-            <Field-ArrExtVoy>240S</Field-ArrExtVoy>
-            <Field-ArrVslCallSign>VRFB8</Field-ArrVslCallSign>
-            <Field-ArrVslName>SEASPAN EMERALD</Field-ArrVslName>
+            <Field-ArrExtVoy>219S</Field-ArrExtVoy>
+            <Field-ArrVslCallSign>3EQH4</Field-ArrVslCallSign>
+            <Field-ArrVslName>KUO TAI</Field-ArrVslName>
             <Field-HaulierCde></Field-HaulierCde>
             <Field-VGM>18000</Field-VGM>
             <Field-VGMReferenceNumber/>
-            <Field-VGMWeightedMethod/>
-            <Field-VGMWeightedDate></Field-VGMWeightedDate>
+            <Field-VGMWeightedMethod>Method1</Field-VGMWeightedMethod>
+            <Field-VGMWeightedDate>202009171820</Field-VGMWeightedDate>
             <Field-VGMAuthorizedOfficial/>
             <Field-DirectDelivery/>
         </Record-ContainerRec>
@@ -1585,13 +514,13 @@
     <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
         <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
             <Field-CntRecordType>COPRAR1</Field-CntRecordType>
-            <Field-CntNo>OOLU1002880</Field-CntNo>
-            <Field-BookingNo>2029475060</Field-BookingNo>
-            <Field-Service>KTX5</Field-Service>
-            <Field-Vessel>EME</Field-Vessel>
-            <Field-Voyage>240South</Field-Voyage>
-            <Field-ExtVoyNo>102W</Field-ExtVoyNo>
-            <Field-LoadPort>HKHKG</Field-LoadPort>
+            <Field-CntNo>XXXX3248364</Field-CntNo>
+            <Field-BookingNo>2115290280</Field-BookingNo>
+            <Field-Service>YSS</Field-Service>
+            <Field-Vessel>KUT</Field-Vessel>
+            <Field-Voyage>219South</Field-Voyage>
+            <Field-ExtVoyNo>011W</Field-ExtVoyNo>
+            <Field-LoadPort>MMMI9</Field-LoadPort>
             <Field-SizeType>20GP</Field-SizeType>
             <Field-FullEmpty>F</Field-FullEmpty>
             <Field-GrossWt/>
@@ -1613,12 +542,12 @@
             <Field-IMCOClass7/>
             <Field-IMCOClass8/>
             <Field-IMCOClass9/>
-            <Field-DSGHPort1>PKKCT</Field-DSGHPort1>
+            <Field-DSGHPort1>AEJEA</Field-DSGHPort1>
             <Field-DSGHPort2></Field-DSGHPort2>
             <Field-DSGHPort3/>
             <Field-TransType/>
             <Field-TransInd/>
-            <Field-SealNo>OOLEUW8693</Field-SealNo>
+            <Field-SealNo>GDG9810</Field-SealNo>
             <Field-UltiDest/>
             <Field-OLFront/>
             <Field-OLBack/>
@@ -1627,20 +556,20 @@
             <Field-OHeight/>
             <Field-InslotOperCode>OR</Field-InslotOperCode>
             <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
-            <Field-SecondCarrier>OOCL CALIFORNIA</Field-SecondCarrier>
-            <Field-CargoDesc>POLYURETHANE RESIN</Field-CargoDesc>
+            <Field-SecondCarrier>COSCO SHIPPING SOLAR</Field-SecondCarrier>
+            <Field-CargoDesc>Cable Drum</Field-CargoDesc>
             <Field-RULabel/>
             <Field-DG>N</Field-DG>
             <Field-TSHStatus>Y</Field-TSHStatus>
             <Field-OpenTsStatus>N</Field-OpenTsStatus>
-            <Field-ArrExtVoy>240S</Field-ArrExtVoy>
-            <Field-ArrVslCallSign>VRFB8</Field-ArrVslCallSign>
-            <Field-ArrVslName>SEASPAN EMERALD</Field-ArrVslName>
+            <Field-ArrExtVoy>219S</Field-ArrExtVoy>
+            <Field-ArrVslCallSign>3EQH4</Field-ArrVslCallSign>
+            <Field-ArrVslName>KUO TAI</Field-ArrVslName>
             <Field-HaulierCde></Field-HaulierCde>
-            <Field-VGM>15600</Field-VGM>
+            <Field-VGM>7400</Field-VGM>
             <Field-VGMReferenceNumber/>
-            <Field-VGMWeightedMethod/>
-            <Field-VGMWeightedDate></Field-VGMWeightedDate>
+            <Field-VGMWeightedMethod>Method1</Field-VGMWeightedMethod>
+            <Field-VGMWeightedDate>202009171819</Field-VGMWeightedDate>
             <Field-VGMAuthorizedOfficial/>
             <Field-DirectDelivery/>
         </Record-ContainerRec>
@@ -1648,13 +577,13 @@
     <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
         <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
             <Field-CntRecordType>COPRAR1</Field-CntRecordType>
-            <Field-CntNo>OOLU1132713</Field-CntNo>
-            <Field-BookingNo>2639828110</Field-BookingNo>
-            <Field-Service>KTX5</Field-Service>
-            <Field-Vessel>EME</Field-Vessel>
-            <Field-Voyage>240South</Field-Voyage>
-            <Field-ExtVoyNo>141W</Field-ExtVoyNo>
-            <Field-LoadPort>HKHKG</Field-LoadPort>
+            <Field-CntNo>OOLU0486604</Field-CntNo>
+            <Field-BookingNo>2647114730</Field-BookingNo>
+            <Field-Service>YSS</Field-Service>
+            <Field-Vessel>KUT</Field-Vessel>
+            <Field-Voyage>219South</Field-Voyage>
+            <Field-ExtVoyNo>088N</Field-ExtVoyNo>
+            <Field-LoadPort>MMMI9</Field-LoadPort>
             <Field-SizeType>20GP</Field-SizeType>
             <Field-FullEmpty>F</Field-FullEmpty>
             <Field-GrossWt/>
@@ -1676,12 +605,12 @@
             <Field-IMCOClass7/>
             <Field-IMCOClass8/>
             <Field-IMCOClass9/>
-            <Field-DSGHPort1>PKSAP</Field-DSGHPort1>
+            <Field-DSGHPort1>JPTYO</Field-DSGHPort1>
             <Field-DSGHPort2></Field-DSGHPort2>
             <Field-DSGHPort3/>
             <Field-TransType/>
             <Field-TransInd/>
-            <Field-SealNo>OOLEFZ7561</Field-SealNo>
+            <Field-SealNo>OOLGDH1708</Field-SealNo>
             <Field-UltiDest/>
             <Field-OLFront/>
             <Field-OLBack/>
@@ -1690,20 +619,1343 @@
             <Field-OHeight/>
             <Field-InslotOperCode>OR</Field-InslotOperCode>
             <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
-            <Field-SecondCarrier>XIN LOS ANGELES</Field-SecondCarrier>
-            <Field-CargoDesc>MOTORCYCLES;MOTORCYCLES ENGINE ONLY</Field-CargoDesc>
+            <Field-SecondCarrier>NYK DIANA</Field-SecondCarrier>
+            <Field-CargoDesc>MEN'S DOWN JACKET(100% NYLON)</Field-CargoDesc>
             <Field-RULabel/>
             <Field-DG>N</Field-DG>
             <Field-TSHStatus>Y</Field-TSHStatus>
             <Field-OpenTsStatus>N</Field-OpenTsStatus>
-            <Field-ArrExtVoy>240S</Field-ArrExtVoy>
-            <Field-ArrVslCallSign>VRFB8</Field-ArrVslCallSign>
-            <Field-ArrVslName>SEASPAN EMERALD</Field-ArrVslName>
+            <Field-ArrExtVoy>219S</Field-ArrExtVoy>
+            <Field-ArrVslCallSign>3EQH4</Field-ArrVslCallSign>
+            <Field-ArrVslName>KUO TAI</Field-ArrVslName>
             <Field-HaulierCde></Field-HaulierCde>
-            <Field-VGM>4307</Field-VGM>
+            <Field-VGM>3250</Field-VGM>
             <Field-VGMReferenceNumber/>
-            <Field-VGMWeightedMethod/>
+            <Field-VGMWeightedMethod>Method1</Field-VGMWeightedMethod>
             <Field-VGMWeightedDate></Field-VGMWeightedDate>
+            <Field-VGMAuthorizedOfficial/>
+            <Field-DirectDelivery/>
+        </Record-ContainerRec>
+    </GroupRecord-Container_Group>
+    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
+        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
+            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
+            <Field-CntNo>BEAU4690914</Field-CntNo>
+            <Field-BookingNo>2647114730</Field-BookingNo>
+            <Field-Service>YSS</Field-Service>
+            <Field-Vessel>KUT</Field-Vessel>
+            <Field-Voyage>219South</Field-Voyage>
+            <Field-ExtVoyNo>088N</Field-ExtVoyNo>
+            <Field-LoadPort>MMMI9</Field-LoadPort>
+            <Field-SizeType>40HQ</Field-SizeType>
+            <Field-FullEmpty>F</Field-FullEmpty>
+            <Field-GrossWt/>
+            <Field-ReeferTempMax/>
+            <Field-TempSetting/>
+            <Field-TempUnit/>
+            <Field-SpecialInst1/>
+            <Field-SpecialInst2/>
+            <Field-SpecialInst3/>
+            <Field-SpecialInst4/>
+            <Field-SpecialInst5/>
+            <Field-VentSet></Field-VentSet>
+            <Field-IMCOClass1/>
+            <Field-IMCOClass2/>
+            <Field-IMCOClass3/>
+            <Field-IMCOClass4/>
+            <Field-IMCOClass5/>
+            <Field-IMCOClass6/>
+            <Field-IMCOClass7/>
+            <Field-IMCOClass8/>
+            <Field-IMCOClass9/>
+            <Field-DSGHPort1>JPTYO</Field-DSGHPort1>
+            <Field-DSGHPort2></Field-DSGHPort2>
+            <Field-DSGHPort3/>
+            <Field-TransType/>
+            <Field-TransInd/>
+            <Field-SealNo>OOLGDH1706</Field-SealNo>
+            <Field-UltiDest/>
+            <Field-OLFront/>
+            <Field-OLBack/>
+            <Field-OWLeft/>
+            <Field-OWRight/>
+            <Field-OHeight/>
+            <Field-InslotOperCode>OR</Field-InslotOperCode>
+            <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
+            <Field-SecondCarrier>NYK DIANA</Field-SecondCarrier>
+            <Field-CargoDesc>MEN'S DOWN JACKET(100% NYLON)</Field-CargoDesc>
+            <Field-RULabel/>
+            <Field-DG>N</Field-DG>
+            <Field-TSHStatus>Y</Field-TSHStatus>
+            <Field-OpenTsStatus>N</Field-OpenTsStatus>
+            <Field-ArrExtVoy>219S</Field-ArrExtVoy>
+            <Field-ArrVslCallSign>3EQH4</Field-ArrVslCallSign>
+            <Field-ArrVslName>KUO TAI</Field-ArrVslName>
+            <Field-HaulierCde></Field-HaulierCde>
+            <Field-VGM>6800</Field-VGM>
+            <Field-VGMReferenceNumber/>
+            <Field-VGMWeightedMethod>Method1</Field-VGMWeightedMethod>
+            <Field-VGMWeightedDate></Field-VGMWeightedDate>
+            <Field-VGMAuthorizedOfficial/>
+            <Field-DirectDelivery/>
+        </Record-ContainerRec>
+    </GroupRecord-Container_Group>
+    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
+        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
+            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
+            <Field-CntNo>OOCU7895336</Field-CntNo>
+            <Field-BookingNo>2647264040</Field-BookingNo>
+            <Field-Service>YSS</Field-Service>
+            <Field-Vessel>KUT</Field-Vessel>
+            <Field-Voyage>219South</Field-Voyage>
+            <Field-ExtVoyNo>005N</Field-ExtVoyNo>
+            <Field-LoadPort>MMMI9</Field-LoadPort>
+            <Field-SizeType>40HQ</Field-SizeType>
+            <Field-FullEmpty>F</Field-FullEmpty>
+            <Field-GrossWt/>
+            <Field-ReeferTempMax/>
+            <Field-TempSetting/>
+            <Field-TempUnit/>
+            <Field-SpecialInst1/>
+            <Field-SpecialInst2/>
+            <Field-SpecialInst3/>
+            <Field-SpecialInst4/>
+            <Field-SpecialInst5/>
+            <Field-VentSet></Field-VentSet>
+            <Field-IMCOClass1/>
+            <Field-IMCOClass2/>
+            <Field-IMCOClass3/>
+            <Field-IMCOClass4/>
+            <Field-IMCOClass5/>
+            <Field-IMCOClass6/>
+            <Field-IMCOClass7/>
+            <Field-IMCOClass8/>
+            <Field-IMCOClass9/>
+            <Field-DSGHPort1>VNHPH</Field-DSGHPort1>
+            <Field-DSGHPort2></Field-DSGHPort2>
+            <Field-DSGHPort3/>
+            <Field-TransType/>
+            <Field-TransInd/>
+            <Field-SealNo>OOLGDH1505</Field-SealNo>
+            <Field-UltiDest/>
+            <Field-OLFront/>
+            <Field-OLBack/>
+            <Field-OWLeft/>
+            <Field-OWRight/>
+            <Field-OHeight/>
+            <Field-InslotOperCode>OR</Field-InslotOperCode>
+            <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
+            <Field-SecondCarrier>TRADER</Field-SecondCarrier>
+            <Field-CargoDesc>PLASTIC WASTE</Field-CargoDesc>
+            <Field-RULabel/>
+            <Field-DG>N</Field-DG>
+            <Field-TSHStatus>Y</Field-TSHStatus>
+            <Field-OpenTsStatus>N</Field-OpenTsStatus>
+            <Field-ArrExtVoy>219S</Field-ArrExtVoy>
+            <Field-ArrVslCallSign>3EQH4</Field-ArrVslCallSign>
+            <Field-ArrVslName>KUO TAI</Field-ArrVslName>
+            <Field-HaulierCde></Field-HaulierCde>
+            <Field-VGM>28450</Field-VGM>
+            <Field-VGMReferenceNumber/>
+            <Field-VGMWeightedMethod>Method1</Field-VGMWeightedMethod>
+            <Field-VGMWeightedDate>202009160000</Field-VGMWeightedDate>
+            <Field-VGMAuthorizedOfficial/>
+            <Field-DirectDelivery/>
+        </Record-ContainerRec>
+    </GroupRecord-Container_Group>
+    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
+        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
+            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
+            <Field-CntNo>OOCU7761677</Field-CntNo>
+            <Field-BookingNo>2647264040</Field-BookingNo>
+            <Field-Service>YSS</Field-Service>
+            <Field-Vessel>KUT</Field-Vessel>
+            <Field-Voyage>219South</Field-Voyage>
+            <Field-ExtVoyNo>005N</Field-ExtVoyNo>
+            <Field-LoadPort>MMMI9</Field-LoadPort>
+            <Field-SizeType>40HQ</Field-SizeType>
+            <Field-FullEmpty>F</Field-FullEmpty>
+            <Field-GrossWt/>
+            <Field-ReeferTempMax/>
+            <Field-TempSetting/>
+            <Field-TempUnit/>
+            <Field-SpecialInst1/>
+            <Field-SpecialInst2/>
+            <Field-SpecialInst3/>
+            <Field-SpecialInst4/>
+            <Field-SpecialInst5/>
+            <Field-VentSet></Field-VentSet>
+            <Field-IMCOClass1/>
+            <Field-IMCOClass2/>
+            <Field-IMCOClass3/>
+            <Field-IMCOClass4/>
+            <Field-IMCOClass5/>
+            <Field-IMCOClass6/>
+            <Field-IMCOClass7/>
+            <Field-IMCOClass8/>
+            <Field-IMCOClass9/>
+            <Field-DSGHPort1>VNHPH</Field-DSGHPort1>
+            <Field-DSGHPort2></Field-DSGHPort2>
+            <Field-DSGHPort3/>
+            <Field-TransType/>
+            <Field-TransInd/>
+            <Field-SealNo>OOLGDH1504</Field-SealNo>
+            <Field-UltiDest/>
+            <Field-OLFront/>
+            <Field-OLBack/>
+            <Field-OWLeft/>
+            <Field-OWRight/>
+            <Field-OHeight/>
+            <Field-InslotOperCode>OR</Field-InslotOperCode>
+            <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
+            <Field-SecondCarrier>TRADER</Field-SecondCarrier>
+            <Field-CargoDesc>PLASTIC WASTE</Field-CargoDesc>
+            <Field-RULabel/>
+            <Field-DG>N</Field-DG>
+            <Field-TSHStatus>Y</Field-TSHStatus>
+            <Field-OpenTsStatus>N</Field-OpenTsStatus>
+            <Field-ArrExtVoy>219S</Field-ArrExtVoy>
+            <Field-ArrVslCallSign>3EQH4</Field-ArrVslCallSign>
+            <Field-ArrVslName>KUO TAI</Field-ArrVslName>
+            <Field-HaulierCde></Field-HaulierCde>
+            <Field-VGM>28450</Field-VGM>
+            <Field-VGMReferenceNumber/>
+            <Field-VGMWeightedMethod>Method1</Field-VGMWeightedMethod>
+            <Field-VGMWeightedDate>202009160000</Field-VGMWeightedDate>
+            <Field-VGMAuthorizedOfficial/>
+            <Field-DirectDelivery/>
+        </Record-ContainerRec>
+    </GroupRecord-Container_Group>
+    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
+        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
+            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
+            <Field-CntNo>OOLU9130825</Field-CntNo>
+            <Field-BookingNo>2647264040</Field-BookingNo>
+            <Field-Service>YSS</Field-Service>
+            <Field-Vessel>KUT</Field-Vessel>
+            <Field-Voyage>219South</Field-Voyage>
+            <Field-ExtVoyNo>005N</Field-ExtVoyNo>
+            <Field-LoadPort>MMMI9</Field-LoadPort>
+            <Field-SizeType>40HQ</Field-SizeType>
+            <Field-FullEmpty>F</Field-FullEmpty>
+            <Field-GrossWt/>
+            <Field-ReeferTempMax/>
+            <Field-TempSetting/>
+            <Field-TempUnit/>
+            <Field-SpecialInst1/>
+            <Field-SpecialInst2/>
+            <Field-SpecialInst3/>
+            <Field-SpecialInst4/>
+            <Field-SpecialInst5/>
+            <Field-VentSet></Field-VentSet>
+            <Field-IMCOClass1/>
+            <Field-IMCOClass2/>
+            <Field-IMCOClass3/>
+            <Field-IMCOClass4/>
+            <Field-IMCOClass5/>
+            <Field-IMCOClass6/>
+            <Field-IMCOClass7/>
+            <Field-IMCOClass8/>
+            <Field-IMCOClass9/>
+            <Field-DSGHPort1>VNHPH</Field-DSGHPort1>
+            <Field-DSGHPort2></Field-DSGHPort2>
+            <Field-DSGHPort3/>
+            <Field-TransType/>
+            <Field-TransInd/>
+            <Field-SealNo>OOLGDH1506</Field-SealNo>
+            <Field-UltiDest/>
+            <Field-OLFront/>
+            <Field-OLBack/>
+            <Field-OWLeft/>
+            <Field-OWRight/>
+            <Field-OHeight/>
+            <Field-InslotOperCode>OR</Field-InslotOperCode>
+            <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
+            <Field-SecondCarrier>TRADER</Field-SecondCarrier>
+            <Field-CargoDesc>PLASTIC WASTE</Field-CargoDesc>
+            <Field-RULabel/>
+            <Field-DG>N</Field-DG>
+            <Field-TSHStatus>Y</Field-TSHStatus>
+            <Field-OpenTsStatus>N</Field-OpenTsStatus>
+            <Field-ArrExtVoy>219S</Field-ArrExtVoy>
+            <Field-ArrVslCallSign>3EQH4</Field-ArrVslCallSign>
+            <Field-ArrVslName>KUO TAI</Field-ArrVslName>
+            <Field-HaulierCde></Field-HaulierCde>
+            <Field-VGM>28800</Field-VGM>
+            <Field-VGMReferenceNumber/>
+            <Field-VGMWeightedMethod>Method1</Field-VGMWeightedMethod>
+            <Field-VGMWeightedDate>202009160000</Field-VGMWeightedDate>
+            <Field-VGMAuthorizedOfficial/>
+            <Field-DirectDelivery/>
+        </Record-ContainerRec>
+    </GroupRecord-Container_Group>
+    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
+        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
+            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
+            <Field-CntNo>OOLU9179569</Field-CntNo>
+            <Field-BookingNo>2647264040</Field-BookingNo>
+            <Field-Service>YSS</Field-Service>
+            <Field-Vessel>KUT</Field-Vessel>
+            <Field-Voyage>219South</Field-Voyage>
+            <Field-ExtVoyNo>005N</Field-ExtVoyNo>
+            <Field-LoadPort>MMMI9</Field-LoadPort>
+            <Field-SizeType>40HQ</Field-SizeType>
+            <Field-FullEmpty>F</Field-FullEmpty>
+            <Field-GrossWt/>
+            <Field-ReeferTempMax/>
+            <Field-TempSetting/>
+            <Field-TempUnit/>
+            <Field-SpecialInst1/>
+            <Field-SpecialInst2/>
+            <Field-SpecialInst3/>
+            <Field-SpecialInst4/>
+            <Field-SpecialInst5/>
+            <Field-VentSet></Field-VentSet>
+            <Field-IMCOClass1/>
+            <Field-IMCOClass2/>
+            <Field-IMCOClass3/>
+            <Field-IMCOClass4/>
+            <Field-IMCOClass5/>
+            <Field-IMCOClass6/>
+            <Field-IMCOClass7/>
+            <Field-IMCOClass8/>
+            <Field-IMCOClass9/>
+            <Field-DSGHPort1>VNHPH</Field-DSGHPort1>
+            <Field-DSGHPort2></Field-DSGHPort2>
+            <Field-DSGHPort3/>
+            <Field-TransType/>
+            <Field-TransInd/>
+            <Field-SealNo>OOLGDH1507</Field-SealNo>
+            <Field-UltiDest/>
+            <Field-OLFront/>
+            <Field-OLBack/>
+            <Field-OWLeft/>
+            <Field-OWRight/>
+            <Field-OHeight/>
+            <Field-InslotOperCode>OR</Field-InslotOperCode>
+            <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
+            <Field-SecondCarrier>TRADER</Field-SecondCarrier>
+            <Field-CargoDesc>PLASTIC WASTE</Field-CargoDesc>
+            <Field-RULabel/>
+            <Field-DG>N</Field-DG>
+            <Field-TSHStatus>Y</Field-TSHStatus>
+            <Field-OpenTsStatus>N</Field-OpenTsStatus>
+            <Field-ArrExtVoy>219S</Field-ArrExtVoy>
+            <Field-ArrVslCallSign>3EQH4</Field-ArrVslCallSign>
+            <Field-ArrVslName>KUO TAI</Field-ArrVslName>
+            <Field-HaulierCde></Field-HaulierCde>
+            <Field-VGM>29300</Field-VGM>
+            <Field-VGMReferenceNumber/>
+            <Field-VGMWeightedMethod>Method1</Field-VGMWeightedMethod>
+            <Field-VGMWeightedDate>202009160000</Field-VGMWeightedDate>
+            <Field-VGMAuthorizedOfficial/>
+            <Field-DirectDelivery/>
+        </Record-ContainerRec>
+    </GroupRecord-Container_Group>
+    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
+        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
+            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
+            <Field-CntNo>CSNU7785240</Field-CntNo>
+            <Field-BookingNo>2115435230</Field-BookingNo>
+            <Field-Service>YSS</Field-Service>
+            <Field-Vessel>KUT</Field-Vessel>
+            <Field-Voyage>219South</Field-Voyage>
+            <Field-ExtVoyNo>0ME7FW1M</Field-ExtVoyNo>
+            <Field-LoadPort>MMMI9</Field-LoadPort>
+            <Field-SizeType>40HQ</Field-SizeType>
+            <Field-FullEmpty>F</Field-FullEmpty>
+            <Field-GrossWt/>
+            <Field-ReeferTempMax/>
+            <Field-TempSetting/>
+            <Field-TempUnit/>
+            <Field-SpecialInst1/>
+            <Field-SpecialInst2/>
+            <Field-SpecialInst3/>
+            <Field-SpecialInst4/>
+            <Field-SpecialInst5/>
+            <Field-VentSet></Field-VentSet>
+            <Field-IMCOClass1/>
+            <Field-IMCOClass2/>
+            <Field-IMCOClass3/>
+            <Field-IMCOClass4/>
+            <Field-IMCOClass5/>
+            <Field-IMCOClass6/>
+            <Field-IMCOClass7/>
+            <Field-IMCOClass8/>
+            <Field-IMCOClass9/>
+            <Field-DSGHPort1>ESVLC</Field-DSGHPort1>
+            <Field-DSGHPort2></Field-DSGHPort2>
+            <Field-DSGHPort3/>
+            <Field-TransType/>
+            <Field-TransInd/>
+            <Field-SealNo>GDH0978</Field-SealNo>
+            <Field-UltiDest/>
+            <Field-OLFront/>
+            <Field-OLBack/>
+            <Field-OWLeft/>
+            <Field-OWRight/>
+            <Field-OHeight/>
+            <Field-InslotOperCode>OR</Field-InslotOperCode>
+            <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
+            <Field-SecondCarrier>CMA CGM CENTAURUS</Field-SecondCarrier>
+            <Field-CargoDesc>BABIES BODY MEN UNDERWEAR WOMEN PULLOVER MEN JACKET LADIES H</Field-CargoDesc>
+            <Field-RULabel/>
+            <Field-DG>N</Field-DG>
+            <Field-TSHStatus>Y</Field-TSHStatus>
+            <Field-OpenTsStatus>N</Field-OpenTsStatus>
+            <Field-ArrExtVoy>219S</Field-ArrExtVoy>
+            <Field-ArrVslCallSign>3EQH4</Field-ArrVslCallSign>
+            <Field-ArrVslName>KUO TAI</Field-ArrVslName>
+            <Field-HaulierCde></Field-HaulierCde>
+            <Field-VGM>10808</Field-VGM>
+            <Field-VGMReferenceNumber/>
+            <Field-VGMWeightedMethod>Method2</Field-VGMWeightedMethod>
+            <Field-VGMWeightedDate>202009150832</Field-VGMWeightedDate>
+            <Field-VGMAuthorizedOfficial/>
+            <Field-DirectDelivery/>
+        </Record-ContainerRec>
+    </GroupRecord-Container_Group>
+    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
+        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
+            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
+            <Field-CntNo>OOLU7845814</Field-CntNo>
+            <Field-BookingNo>2647416930</Field-BookingNo>
+            <Field-Service>YSS</Field-Service>
+            <Field-Vessel>KUT</Field-Vessel>
+            <Field-Voyage>219South</Field-Voyage>
+            <Field-ExtVoyNo>0FL7HW1M</Field-ExtVoyNo>
+            <Field-LoadPort>MMMI9</Field-LoadPort>
+            <Field-SizeType>40GP</Field-SizeType>
+            <Field-FullEmpty>F</Field-FullEmpty>
+            <Field-GrossWt/>
+            <Field-ReeferTempMax/>
+            <Field-TempSetting/>
+            <Field-TempUnit/>
+            <Field-SpecialInst1/>
+            <Field-SpecialInst2/>
+            <Field-SpecialInst3/>
+            <Field-SpecialInst4/>
+            <Field-SpecialInst5/>
+            <Field-VentSet></Field-VentSet>
+            <Field-IMCOClass1/>
+            <Field-IMCOClass2/>
+            <Field-IMCOClass3/>
+            <Field-IMCOClass4/>
+            <Field-IMCOClass5/>
+            <Field-IMCOClass6/>
+            <Field-IMCOClass7/>
+            <Field-IMCOClass8/>
+            <Field-IMCOClass9/>
+            <Field-DSGHPort1>GBSOU</Field-DSGHPort1>
+            <Field-DSGHPort2></Field-DSGHPort2>
+            <Field-DSGHPort3/>
+            <Field-TransType/>
+            <Field-TransInd/>
+            <Field-SealNo>OOLGDH1510</Field-SealNo>
+            <Field-UltiDest/>
+            <Field-OLFront/>
+            <Field-OLBack/>
+            <Field-OWLeft/>
+            <Field-OWRight/>
+            <Field-OHeight/>
+            <Field-InslotOperCode>OR</Field-InslotOperCode>
+            <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
+            <Field-SecondCarrier>CMA CGM LOUIS BLERIOT</Field-SecondCarrier>
+            <Field-CargoDesc>STR SFT TCH LGNG SET,TA SLIM LEG JOGGER</Field-CargoDesc>
+            <Field-RULabel/>
+            <Field-DG>N</Field-DG>
+            <Field-TSHStatus>Y</Field-TSHStatus>
+            <Field-OpenTsStatus>N</Field-OpenTsStatus>
+            <Field-ArrExtVoy>219S</Field-ArrExtVoy>
+            <Field-ArrVslCallSign>3EQH4</Field-ArrVslCallSign>
+            <Field-ArrVslName>KUO TAI</Field-ArrVslName>
+            <Field-HaulierCde></Field-HaulierCde>
+            <Field-VGM>9400</Field-VGM>
+            <Field-VGMReferenceNumber/>
+            <Field-VGMWeightedMethod>Method1</Field-VGMWeightedMethod>
+            <Field-VGMWeightedDate></Field-VGMWeightedDate>
+            <Field-VGMAuthorizedOfficial/>
+            <Field-DirectDelivery/>
+        </Record-ContainerRec>
+    </GroupRecord-Container_Group>
+    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
+        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
+            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
+            <Field-CntNo>OOLU1457046</Field-CntNo>
+            <Field-BookingNo>2647638880</Field-BookingNo>
+            <Field-Service>YSS</Field-Service>
+            <Field-Vessel>KUT</Field-Vessel>
+            <Field-Voyage>219South</Field-Voyage>
+            <Field-ExtVoyNo></Field-ExtVoyNo>
+            <Field-LoadPort>MMMI9</Field-LoadPort>
+            <Field-SizeType>20GP</Field-SizeType>
+            <Field-FullEmpty>F</Field-FullEmpty>
+            <Field-GrossWt/>
+            <Field-ReeferTempMax/>
+            <Field-TempSetting/>
+            <Field-TempUnit/>
+            <Field-SpecialInst1/>
+            <Field-SpecialInst2/>
+            <Field-SpecialInst3/>
+            <Field-SpecialInst4/>
+            <Field-SpecialInst5/>
+            <Field-VentSet></Field-VentSet>
+            <Field-IMCOClass1/>
+            <Field-IMCOClass2/>
+            <Field-IMCOClass3/>
+            <Field-IMCOClass4/>
+            <Field-IMCOClass5/>
+            <Field-IMCOClass6/>
+            <Field-IMCOClass7/>
+            <Field-IMCOClass8/>
+            <Field-IMCOClass9/>
+            <Field-DSGHPort1>SGSIN</Field-DSGHPort1>
+            <Field-DSGHPort2></Field-DSGHPort2>
+            <Field-DSGHPort3/>
+            <Field-TransType/>
+            <Field-TransInd/>
+            <Field-SealNo>GDH1766</Field-SealNo>
+            <Field-UltiDest/>
+            <Field-OLFront/>
+            <Field-OLBack/>
+            <Field-OWLeft/>
+            <Field-OWRight/>
+            <Field-OHeight/>
+            <Field-InslotOperCode>OR</Field-InslotOperCode>
+            <Field-OutSlotOperCode></Field-OutSlotOperCode>
+            <Field-SecondCarrier></Field-SecondCarrier>
+            <Field-CargoDesc>PERSONAL EFFECTS , GARMENT AND SILK FABRIC</Field-CargoDesc>
+            <Field-RULabel/>
+            <Field-DG>N</Field-DG>
+            <Field-TSHStatus>N</Field-TSHStatus>
+            <Field-OpenTsStatus>N</Field-OpenTsStatus>
+            <Field-ArrExtVoy>219S</Field-ArrExtVoy>
+            <Field-ArrVslCallSign>3EQH4</Field-ArrVslCallSign>
+            <Field-ArrVslName>KUO TAI</Field-ArrVslName>
+            <Field-HaulierCde></Field-HaulierCde>
+            <Field-VGM>7550</Field-VGM>
+            <Field-VGMReferenceNumber/>
+            <Field-VGMWeightedMethod>Method1</Field-VGMWeightedMethod>
+            <Field-VGMWeightedDate>202009171009</Field-VGMWeightedDate>
+            <Field-VGMAuthorizedOfficial/>
+            <Field-DirectDelivery/>
+        </Record-ContainerRec>
+    </GroupRecord-Container_Group>
+    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
+        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
+            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
+            <Field-CntNo>OOCU7561473</Field-CntNo>
+            <Field-BookingNo>2647639540</Field-BookingNo>
+            <Field-Service>YSS</Field-Service>
+            <Field-Vessel>KUT</Field-Vessel>
+            <Field-Voyage>219South</Field-Voyage>
+            <Field-ExtVoyNo></Field-ExtVoyNo>
+            <Field-LoadPort>MMMI9</Field-LoadPort>
+            <Field-SizeType>40HQ</Field-SizeType>
+            <Field-FullEmpty>F</Field-FullEmpty>
+            <Field-GrossWt/>
+            <Field-ReeferTempMax/>
+            <Field-TempSetting/>
+            <Field-TempUnit/>
+            <Field-SpecialInst1/>
+            <Field-SpecialInst2/>
+            <Field-SpecialInst3/>
+            <Field-SpecialInst4/>
+            <Field-SpecialInst5/>
+            <Field-VentSet></Field-VentSet>
+            <Field-IMCOClass1/>
+            <Field-IMCOClass2/>
+            <Field-IMCOClass3/>
+            <Field-IMCOClass4/>
+            <Field-IMCOClass5/>
+            <Field-IMCOClass6/>
+            <Field-IMCOClass7/>
+            <Field-IMCOClass8/>
+            <Field-IMCOClass9/>
+            <Field-DSGHPort1>SGSIN</Field-DSGHPort1>
+            <Field-DSGHPort2></Field-DSGHPort2>
+            <Field-DSGHPort3/>
+            <Field-TransType/>
+            <Field-TransInd/>
+            <Field-SealNo>GDH1769</Field-SealNo>
+            <Field-UltiDest/>
+            <Field-OLFront/>
+            <Field-OLBack/>
+            <Field-OWLeft/>
+            <Field-OWRight/>
+            <Field-OHeight/>
+            <Field-InslotOperCode>OR</Field-InslotOperCode>
+            <Field-OutSlotOperCode></Field-OutSlotOperCode>
+            <Field-SecondCarrier></Field-SecondCarrier>
+            <Field-CargoDesc>FOOR WEAR , PERSONAL  EFFECTS,MOLDED EVA  INSERT,GARMENT</Field-CargoDesc>
+            <Field-RULabel/>
+            <Field-DG>N</Field-DG>
+            <Field-TSHStatus>N</Field-TSHStatus>
+            <Field-OpenTsStatus>N</Field-OpenTsStatus>
+            <Field-ArrExtVoy>219S</Field-ArrExtVoy>
+            <Field-ArrVslCallSign>3EQH4</Field-ArrVslCallSign>
+            <Field-ArrVslName>KUO TAI</Field-ArrVslName>
+            <Field-HaulierCde></Field-HaulierCde>
+            <Field-VGM>11400</Field-VGM>
+            <Field-VGMReferenceNumber/>
+            <Field-VGMWeightedMethod>Method1</Field-VGMWeightedMethod>
+            <Field-VGMWeightedDate>202009161007</Field-VGMWeightedDate>
+            <Field-VGMAuthorizedOfficial/>
+            <Field-DirectDelivery/>
+        </Record-ContainerRec>
+    </GroupRecord-Container_Group>
+    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
+        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
+            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
+            <Field-CntNo>OOLU0198700</Field-CntNo>
+            <Field-BookingNo>2647651800</Field-BookingNo>
+            <Field-Service>YSS</Field-Service>
+            <Field-Vessel>KUT</Field-Vessel>
+            <Field-Voyage>219South</Field-Voyage>
+            <Field-ExtVoyNo>088N</Field-ExtVoyNo>
+            <Field-LoadPort>MMMI9</Field-LoadPort>
+            <Field-SizeType>20GP</Field-SizeType>
+            <Field-FullEmpty>F</Field-FullEmpty>
+            <Field-GrossWt/>
+            <Field-ReeferTempMax/>
+            <Field-TempSetting/>
+            <Field-TempUnit/>
+            <Field-SpecialInst1/>
+            <Field-SpecialInst2/>
+            <Field-SpecialInst3/>
+            <Field-SpecialInst4/>
+            <Field-SpecialInst5/>
+            <Field-VentSet></Field-VentSet>
+            <Field-IMCOClass1/>
+            <Field-IMCOClass2/>
+            <Field-IMCOClass3/>
+            <Field-IMCOClass4/>
+            <Field-IMCOClass5/>
+            <Field-IMCOClass6/>
+            <Field-IMCOClass7/>
+            <Field-IMCOClass8/>
+            <Field-IMCOClass9/>
+            <Field-DSGHPort1>JPTYO</Field-DSGHPort1>
+            <Field-DSGHPort2></Field-DSGHPort2>
+            <Field-DSGHPort3/>
+            <Field-TransType/>
+            <Field-TransInd/>
+            <Field-SealNo>OOLGDH1604</Field-SealNo>
+            <Field-UltiDest/>
+            <Field-OLFront/>
+            <Field-OLBack/>
+            <Field-OWLeft/>
+            <Field-OWRight/>
+            <Field-OHeight/>
+            <Field-InslotOperCode>OR</Field-InslotOperCode>
+            <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
+            <Field-SecondCarrier>NYK DIANA</Field-SecondCarrier>
+            <Field-CargoDesc>GARMENTS</Field-CargoDesc>
+            <Field-RULabel/>
+            <Field-DG>N</Field-DG>
+            <Field-TSHStatus>Y</Field-TSHStatus>
+            <Field-OpenTsStatus>N</Field-OpenTsStatus>
+            <Field-ArrExtVoy>219S</Field-ArrExtVoy>
+            <Field-ArrVslCallSign>3EQH4</Field-ArrVslCallSign>
+            <Field-ArrVslName>KUO TAI</Field-ArrVslName>
+            <Field-HaulierCde></Field-HaulierCde>
+            <Field-VGM>2900</Field-VGM>
+            <Field-VGMReferenceNumber/>
+            <Field-VGMWeightedMethod>Method1</Field-VGMWeightedMethod>
+            <Field-VGMWeightedDate>202009181019</Field-VGMWeightedDate>
+            <Field-VGMAuthorizedOfficial/>
+            <Field-DirectDelivery/>
+        </Record-ContainerRec>
+    </GroupRecord-Container_Group>
+    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
+        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
+            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
+            <Field-CntNo>TEMU3075380</Field-CntNo>
+            <Field-BookingNo>2647715660</Field-BookingNo>
+            <Field-Service>YSS</Field-Service>
+            <Field-Vessel>KUT</Field-Vessel>
+            <Field-Voyage>219South</Field-Voyage>
+            <Field-ExtVoyNo></Field-ExtVoyNo>
+            <Field-LoadPort>MMMI9</Field-LoadPort>
+            <Field-SizeType>20GP</Field-SizeType>
+            <Field-FullEmpty>F</Field-FullEmpty>
+            <Field-GrossWt/>
+            <Field-ReeferTempMax/>
+            <Field-TempSetting/>
+            <Field-TempUnit/>
+            <Field-SpecialInst1/>
+            <Field-SpecialInst2/>
+            <Field-SpecialInst3/>
+            <Field-SpecialInst4/>
+            <Field-SpecialInst5/>
+            <Field-VentSet></Field-VentSet>
+            <Field-IMCOClass1/>
+            <Field-IMCOClass2/>
+            <Field-IMCOClass3/>
+            <Field-IMCOClass4/>
+            <Field-IMCOClass5/>
+            <Field-IMCOClass6/>
+            <Field-IMCOClass7/>
+            <Field-IMCOClass8/>
+            <Field-IMCOClass9/>
+            <Field-DSGHPort1>SGSIN</Field-DSGHPort1>
+            <Field-DSGHPort2></Field-DSGHPort2>
+            <Field-DSGHPort3/>
+            <Field-TransType/>
+            <Field-TransInd/>
+            <Field-SealNo>OOLGDH1607</Field-SealNo>
+            <Field-UltiDest/>
+            <Field-OLFront/>
+            <Field-OLBack/>
+            <Field-OWLeft/>
+            <Field-OWRight/>
+            <Field-OHeight/>
+            <Field-InslotOperCode>OR</Field-InslotOperCode>
+            <Field-OutSlotOperCode></Field-OutSlotOperCode>
+            <Field-SecondCarrier></Field-SecondCarrier>
+            <Field-CargoDesc>GENERAL CARGO(GARMENTS &amp; SHOES</Field-CargoDesc>
+            <Field-RULabel/>
+            <Field-DG>N</Field-DG>
+            <Field-TSHStatus>N</Field-TSHStatus>
+            <Field-OpenTsStatus>N</Field-OpenTsStatus>
+            <Field-ArrExtVoy>219S</Field-ArrExtVoy>
+            <Field-ArrVslCallSign>3EQH4</Field-ArrVslCallSign>
+            <Field-ArrVslName>KUO TAI</Field-ArrVslName>
+            <Field-HaulierCde></Field-HaulierCde>
+            <Field-VGM>4623</Field-VGM>
+            <Field-VGMReferenceNumber/>
+            <Field-VGMWeightedMethod>Method2</Field-VGMWeightedMethod>
+            <Field-VGMWeightedDate>202009170000</Field-VGMWeightedDate>
+            <Field-VGMAuthorizedOfficial/>
+            <Field-DirectDelivery/>
+        </Record-ContainerRec>
+    </GroupRecord-Container_Group>
+    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
+        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
+            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
+            <Field-CntNo>UETU5298630</Field-CntNo>
+            <Field-BookingNo>2647742460</Field-BookingNo>
+            <Field-Service>YSS</Field-Service>
+            <Field-Vessel>KUT</Field-Vessel>
+            <Field-Voyage>219South</Field-Voyage>
+            <Field-ExtVoyNo>396N</Field-ExtVoyNo>
+            <Field-LoadPort>MMMI9</Field-LoadPort>
+            <Field-SizeType>40HQ</Field-SizeType>
+            <Field-FullEmpty>F</Field-FullEmpty>
+            <Field-GrossWt/>
+            <Field-ReeferTempMax/>
+            <Field-TempSetting/>
+            <Field-TempUnit/>
+            <Field-SpecialInst1/>
+            <Field-SpecialInst2/>
+            <Field-SpecialInst3/>
+            <Field-SpecialInst4/>
+            <Field-SpecialInst5/>
+            <Field-VentSet></Field-VentSet>
+            <Field-IMCOClass1/>
+            <Field-IMCOClass2/>
+            <Field-IMCOClass3/>
+            <Field-IMCOClass4/>
+            <Field-IMCOClass5/>
+            <Field-IMCOClass6/>
+            <Field-IMCOClass7/>
+            <Field-IMCOClass8/>
+            <Field-IMCOClass9/>
+            <Field-DSGHPort1>JPUKB</Field-DSGHPort1>
+            <Field-DSGHPort2></Field-DSGHPort2>
+            <Field-DSGHPort3/>
+            <Field-TransType/>
+            <Field-TransInd/>
+            <Field-SealNo>OOLGDH1605</Field-SealNo>
+            <Field-UltiDest/>
+            <Field-OLFront/>
+            <Field-OLBack/>
+            <Field-OWLeft/>
+            <Field-OWRight/>
+            <Field-OHeight/>
+            <Field-InslotOperCode>OR</Field-InslotOperCode>
+            <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
+            <Field-SecondCarrier>OOCL SAVANNAH</Field-SecondCarrier>
+            <Field-CargoDesc>MEN'S COAT</Field-CargoDesc>
+            <Field-RULabel/>
+            <Field-DG>N</Field-DG>
+            <Field-TSHStatus>Y</Field-TSHStatus>
+            <Field-OpenTsStatus>N</Field-OpenTsStatus>
+            <Field-ArrExtVoy>219S</Field-ArrExtVoy>
+            <Field-ArrVslCallSign>3EQH4</Field-ArrVslCallSign>
+            <Field-ArrVslName>KUO TAI</Field-ArrVslName>
+            <Field-HaulierCde></Field-HaulierCde>
+            <Field-VGM>9266</Field-VGM>
+            <Field-VGMReferenceNumber/>
+            <Field-VGMWeightedMethod>Method2</Field-VGMWeightedMethod>
+            <Field-VGMWeightedDate>202009170000</Field-VGMWeightedDate>
+            <Field-VGMAuthorizedOfficial/>
+            <Field-DirectDelivery/>
+        </Record-ContainerRec>
+    </GroupRecord-Container_Group>
+    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
+        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
+            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
+            <Field-CntNo>OOLU3956419</Field-CntNo>
+            <Field-BookingNo>2647734060</Field-BookingNo>
+            <Field-Service>YSS</Field-Service>
+            <Field-Vessel>KUT</Field-Vessel>
+            <Field-Voyage>219South</Field-Voyage>
+            <Field-ExtVoyNo>396N</Field-ExtVoyNo>
+            <Field-LoadPort>MMMI9</Field-LoadPort>
+            <Field-SizeType>20RF</Field-SizeType>
+            <Field-FullEmpty>F</Field-FullEmpty>
+            <Field-GrossWt/>
+            <Field-ReeferTempMax/>
+            <Field-TempSetting>-025.00</Field-TempSetting>
+            <Field-TempUnit>C</Field-TempUnit>
+            <Field-SpecialInst1/>
+            <Field-SpecialInst2/>
+            <Field-SpecialInst3/>
+            <Field-SpecialInst4/>
+            <Field-SpecialInst5/>
+            <Field-VentSet>0M</Field-VentSet>
+            <Field-IMCOClass1/>
+            <Field-IMCOClass2/>
+            <Field-IMCOClass3/>
+            <Field-IMCOClass4/>
+            <Field-IMCOClass5/>
+            <Field-IMCOClass6/>
+            <Field-IMCOClass7/>
+            <Field-IMCOClass8/>
+            <Field-IMCOClass9/>
+            <Field-DSGHPort1>TWKHH</Field-DSGHPort1>
+            <Field-DSGHPort2></Field-DSGHPort2>
+            <Field-DSGHPort3/>
+            <Field-TransType/>
+            <Field-TransInd/>
+            <Field-SealNo>OOLGDH2785</Field-SealNo>
+            <Field-UltiDest/>
+            <Field-OLFront/>
+            <Field-OLBack/>
+            <Field-OWLeft/>
+            <Field-OWRight/>
+            <Field-OHeight/>
+            <Field-InslotOperCode>OR</Field-InslotOperCode>
+            <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
+            <Field-SecondCarrier>OOCL SAVANNAH</Field-SecondCarrier>
+            <Field-CargoDesc>FROZEN SEA TIGER SHRIMP HOSO</Field-CargoDesc>
+            <Field-RULabel/>
+            <Field-DG>N</Field-DG>
+            <Field-TSHStatus>Y</Field-TSHStatus>
+            <Field-OpenTsStatus>N</Field-OpenTsStatus>
+            <Field-ArrExtVoy>219S</Field-ArrExtVoy>
+            <Field-ArrVslCallSign>3EQH4</Field-ArrVslCallSign>
+            <Field-ArrVslName>KUO TAI</Field-ArrVslName>
+            <Field-HaulierCde></Field-HaulierCde>
+            <Field-VGM>13350</Field-VGM>
+            <Field-VGMReferenceNumber/>
+            <Field-VGMWeightedMethod>Method2</Field-VGMWeightedMethod>
+            <Field-VGMWeightedDate>202009170000</Field-VGMWeightedDate>
+            <Field-VGMAuthorizedOfficial/>
+            <Field-DirectDelivery/>
+        </Record-ContainerRec>
+    </GroupRecord-Container_Group>
+    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
+        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
+            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
+            <Field-CntNo>UETU5316354</Field-CntNo>
+            <Field-BookingNo>2647799000</Field-BookingNo>
+            <Field-Service>YSS</Field-Service>
+            <Field-Vessel>KUT</Field-Vessel>
+            <Field-Voyage>219South</Field-Voyage>
+            <Field-ExtVoyNo>010W</Field-ExtVoyNo>
+            <Field-LoadPort>MMMI9</Field-LoadPort>
+            <Field-SizeType>40HQ</Field-SizeType>
+            <Field-FullEmpty>F</Field-FullEmpty>
+            <Field-GrossWt/>
+            <Field-ReeferTempMax/>
+            <Field-TempSetting/>
+            <Field-TempUnit/>
+            <Field-SpecialInst1/>
+            <Field-SpecialInst2/>
+            <Field-SpecialInst3/>
+            <Field-SpecialInst4/>
+            <Field-SpecialInst5/>
+            <Field-VentSet></Field-VentSet>
+            <Field-IMCOClass1/>
+            <Field-IMCOClass2/>
+            <Field-IMCOClass3/>
+            <Field-IMCOClass4/>
+            <Field-IMCOClass5/>
+            <Field-IMCOClass6/>
+            <Field-IMCOClass7/>
+            <Field-IMCOClass8/>
+            <Field-IMCOClass9/>
+            <Field-DSGHPort1>DEHAM</Field-DSGHPort1>
+            <Field-DSGHPort2></Field-DSGHPort2>
+            <Field-DSGHPort3/>
+            <Field-TransType/>
+            <Field-TransInd/>
+            <Field-SealNo>OOLGDH1635</Field-SealNo>
+            <Field-UltiDest/>
+            <Field-OLFront/>
+            <Field-OLBack/>
+            <Field-OWLeft/>
+            <Field-OWRight/>
+            <Field-OHeight/>
+            <Field-InslotOperCode>OR</Field-InslotOperCode>
+            <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
+            <Field-SecondCarrier>COSCO SHIPPING NEBULA</Field-SecondCarrier>
+            <Field-CargoDesc>MEDICAL SUPPLIES</Field-CargoDesc>
+            <Field-RULabel/>
+            <Field-DG>N</Field-DG>
+            <Field-TSHStatus>Y</Field-TSHStatus>
+            <Field-OpenTsStatus>N</Field-OpenTsStatus>
+            <Field-ArrExtVoy>219S</Field-ArrExtVoy>
+            <Field-ArrVslCallSign>3EQH4</Field-ArrVslCallSign>
+            <Field-ArrVslName>KUO TAI</Field-ArrVslName>
+            <Field-HaulierCde></Field-HaulierCde>
+            <Field-VGM>11950</Field-VGM>
+            <Field-VGMReferenceNumber/>
+            <Field-VGMWeightedMethod>Method1</Field-VGMWeightedMethod>
+            <Field-VGMWeightedDate></Field-VGMWeightedDate>
+            <Field-VGMAuthorizedOfficial/>
+            <Field-DirectDelivery/>
+        </Record-ContainerRec>
+    </GroupRecord-Container_Group>
+    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
+        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
+            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
+            <Field-CntNo>OOLU3877182</Field-CntNo>
+            <Field-BookingNo>2647815900</Field-BookingNo>
+            <Field-Service>YSS</Field-Service>
+            <Field-Vessel>KUT</Field-Vessel>
+            <Field-Voyage>219South</Field-Voyage>
+            <Field-ExtVoyNo>396N</Field-ExtVoyNo>
+            <Field-LoadPort>MMMI9</Field-LoadPort>
+            <Field-SizeType>20RF</Field-SizeType>
+            <Field-FullEmpty>F</Field-FullEmpty>
+            <Field-GrossWt/>
+            <Field-ReeferTempMax/>
+            <Field-TempSetting>-018.00</Field-TempSetting>
+            <Field-TempUnit>C</Field-TempUnit>
+            <Field-SpecialInst1/>
+            <Field-SpecialInst2/>
+            <Field-SpecialInst3/>
+            <Field-SpecialInst4/>
+            <Field-SpecialInst5/>
+            <Field-VentSet>0M</Field-VentSet>
+            <Field-IMCOClass1/>
+            <Field-IMCOClass2/>
+            <Field-IMCOClass3/>
+            <Field-IMCOClass4/>
+            <Field-IMCOClass5/>
+            <Field-IMCOClass6/>
+            <Field-IMCOClass7/>
+            <Field-IMCOClass8/>
+            <Field-IMCOClass9/>
+            <Field-DSGHPort1>JPTYO</Field-DSGHPort1>
+            <Field-DSGHPort2></Field-DSGHPort2>
+            <Field-DSGHPort3/>
+            <Field-TransType/>
+            <Field-TransInd/>
+            <Field-SealNo>OOLGDH1519</Field-SealNo>
+            <Field-UltiDest/>
+            <Field-OLFront/>
+            <Field-OLBack/>
+            <Field-OWLeft/>
+            <Field-OWRight/>
+            <Field-OHeight/>
+            <Field-InslotOperCode>OR</Field-InslotOperCode>
+            <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
+            <Field-SecondCarrier>OOCL SAVANNAH</Field-SecondCarrier>
+            <Field-CargoDesc>FROZEN FRESH &amp; SEA WATER FISH</Field-CargoDesc>
+            <Field-RULabel/>
+            <Field-DG>N</Field-DG>
+            <Field-TSHStatus>Y</Field-TSHStatus>
+            <Field-OpenTsStatus>N</Field-OpenTsStatus>
+            <Field-ArrExtVoy>219S</Field-ArrExtVoy>
+            <Field-ArrVslCallSign>3EQH4</Field-ArrVslCallSign>
+            <Field-ArrVslName>KUO TAI</Field-ArrVslName>
+            <Field-HaulierCde></Field-HaulierCde>
+            <Field-VGM>15400</Field-VGM>
+            <Field-VGMReferenceNumber/>
+            <Field-VGMWeightedMethod>Method2</Field-VGMWeightedMethod>
+            <Field-VGMWeightedDate>202009180000</Field-VGMWeightedDate>
+            <Field-VGMAuthorizedOfficial/>
+            <Field-DirectDelivery/>
+        </Record-ContainerRec>
+    </GroupRecord-Container_Group>
+    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
+        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
+            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
+            <Field-CntNo>OOCU6406810</Field-CntNo>
+            <Field-BookingNo>2647876050</Field-BookingNo>
+            <Field-Service>YSS</Field-Service>
+            <Field-Vessel>KUT</Field-Vessel>
+            <Field-Voyage>219South</Field-Voyage>
+            <Field-ExtVoyNo>396N</Field-ExtVoyNo>
+            <Field-LoadPort>MMMI9</Field-LoadPort>
+            <Field-SizeType>40HQ</Field-SizeType>
+            <Field-FullEmpty>F</Field-FullEmpty>
+            <Field-GrossWt/>
+            <Field-ReeferTempMax/>
+            <Field-TempSetting/>
+            <Field-TempUnit/>
+            <Field-SpecialInst1/>
+            <Field-SpecialInst2/>
+            <Field-SpecialInst3/>
+            <Field-SpecialInst4/>
+            <Field-SpecialInst5/>
+            <Field-VentSet></Field-VentSet>
+            <Field-IMCOClass1/>
+            <Field-IMCOClass2/>
+            <Field-IMCOClass3/>
+            <Field-IMCOClass4/>
+            <Field-IMCOClass5/>
+            <Field-IMCOClass6/>
+            <Field-IMCOClass7/>
+            <Field-IMCOClass8/>
+            <Field-IMCOClass9/>
+            <Field-DSGHPort1>JPNGO</Field-DSGHPort1>
+            <Field-DSGHPort2></Field-DSGHPort2>
+            <Field-DSGHPort3/>
+            <Field-TransType/>
+            <Field-TransInd/>
+            <Field-SealNo>OOLGDH1609</Field-SealNo>
+            <Field-UltiDest/>
+            <Field-OLFront/>
+            <Field-OLBack/>
+            <Field-OWLeft/>
+            <Field-OWRight/>
+            <Field-OHeight/>
+            <Field-InslotOperCode>OR</Field-InslotOperCode>
+            <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
+            <Field-SecondCarrier>OOCL SAVANNAH</Field-SecondCarrier>
+            <Field-CargoDesc>APRON</Field-CargoDesc>
+            <Field-RULabel/>
+            <Field-DG>N</Field-DG>
+            <Field-TSHStatus>Y</Field-TSHStatus>
+            <Field-OpenTsStatus>N</Field-OpenTsStatus>
+            <Field-ArrExtVoy>219S</Field-ArrExtVoy>
+            <Field-ArrVslCallSign>3EQH4</Field-ArrVslCallSign>
+            <Field-ArrVslName>KUO TAI</Field-ArrVslName>
+            <Field-HaulierCde></Field-HaulierCde>
+            <Field-VGM>10650</Field-VGM>
+            <Field-VGMReferenceNumber/>
+            <Field-VGMWeightedMethod>Method1</Field-VGMWeightedMethod>
+            <Field-VGMWeightedDate>202009180000</Field-VGMWeightedDate>
+            <Field-VGMAuthorizedOfficial/>
+            <Field-DirectDelivery/>
+        </Record-ContainerRec>
+    </GroupRecord-Container_Group>
+    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
+        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
+            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
+            <Field-CntNo>OOLU6227365</Field-CntNo>
+            <Field-BookingNo>2648042380</Field-BookingNo>
+            <Field-Service>YSS</Field-Service>
+            <Field-Vessel>KUT</Field-Vessel>
+            <Field-Voyage>219South</Field-Voyage>
+            <Field-ExtVoyNo>011W</Field-ExtVoyNo>
+            <Field-LoadPort>MMMI9</Field-LoadPort>
+            <Field-SizeType>40RQ</Field-SizeType>
+            <Field-FullEmpty>F</Field-FullEmpty>
+            <Field-GrossWt/>
+            <Field-ReeferTempMax/>
+            <Field-TempSetting>-018.00</Field-TempSetting>
+            <Field-TempUnit>C</Field-TempUnit>
+            <Field-SpecialInst1/>
+            <Field-SpecialInst2/>
+            <Field-SpecialInst3/>
+            <Field-SpecialInst4/>
+            <Field-SpecialInst5/>
+            <Field-VentSet>0M</Field-VentSet>
+            <Field-IMCOClass1/>
+            <Field-IMCOClass2/>
+            <Field-IMCOClass3/>
+            <Field-IMCOClass4/>
+            <Field-IMCOClass5/>
+            <Field-IMCOClass6/>
+            <Field-IMCOClass7/>
+            <Field-IMCOClass8/>
+            <Field-IMCOClass9/>
+            <Field-DSGHPort1>SADM1</Field-DSGHPort1>
+            <Field-DSGHPort2></Field-DSGHPort2>
+            <Field-DSGHPort3/>
+            <Field-TransType/>
+            <Field-TransInd/>
+            <Field-SealNo>OOLGDH2797</Field-SealNo>
+            <Field-UltiDest/>
+            <Field-OLFront/>
+            <Field-OLBack/>
+            <Field-OWLeft/>
+            <Field-OWRight/>
+            <Field-OHeight/>
+            <Field-InslotOperCode>OR</Field-InslotOperCode>
+            <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
+            <Field-SecondCarrier>COSCO SHIPPING SOLAR</Field-SecondCarrier>
+            <Field-CargoDesc>FROZEN RIVER HUNTED FISH</Field-CargoDesc>
+            <Field-RULabel/>
+            <Field-DG>N</Field-DG>
+            <Field-TSHStatus>Y</Field-TSHStatus>
+            <Field-OpenTsStatus>N</Field-OpenTsStatus>
+            <Field-ArrExtVoy>219S</Field-ArrExtVoy>
+            <Field-ArrVslCallSign>3EQH4</Field-ArrVslCallSign>
+            <Field-ArrVslName>KUO TAI</Field-ArrVslName>
+            <Field-HaulierCde></Field-HaulierCde>
+            <Field-VGM>32630</Field-VGM>
+            <Field-VGMReferenceNumber/>
+            <Field-VGMWeightedMethod>Method2</Field-VGMWeightedMethod>
+            <Field-VGMWeightedDate>202009200552</Field-VGMWeightedDate>
+            <Field-VGMAuthorizedOfficial/>
+            <Field-DirectDelivery/>
+        </Record-ContainerRec>
+    </GroupRecord-Container_Group>
+    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
+        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
+            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
+            <Field-CntNo>OOLU6456490</Field-CntNo>
+            <Field-BookingNo>OOLU6456490</Field-BookingNo>
+            <Field-Service>YSS</Field-Service>
+            <Field-Vessel>KUT</Field-Vessel>
+            <Field-Voyage>219South</Field-Voyage>
+            <Field-ExtVoyNo>011W</Field-ExtVoyNo>
+            <Field-LoadPort>MMMI9</Field-LoadPort>
+            <Field-SizeType>40RQ</Field-SizeType>
+            <Field-FullEmpty>F</Field-FullEmpty>
+            <Field-GrossWt/>
+            <Field-ReeferTempMax/>
+            <Field-TempSetting>-018.00</Field-TempSetting>
+            <Field-TempUnit>C</Field-TempUnit>
+            <Field-SpecialInst1/>
+            <Field-SpecialInst2/>
+            <Field-SpecialInst3/>
+            <Field-SpecialInst4/>
+            <Field-SpecialInst5/>
+            <Field-VentSet>0M</Field-VentSet>
+            <Field-IMCOClass1/>
+            <Field-IMCOClass2/>
+            <Field-IMCOClass3/>
+            <Field-IMCOClass4/>
+            <Field-IMCOClass5/>
+            <Field-IMCOClass6/>
+            <Field-IMCOClass7/>
+            <Field-IMCOClass8/>
+            <Field-IMCOClass9/>
+            <Field-DSGHPort1>SADM1</Field-DSGHPort1>
+            <Field-DSGHPort2></Field-DSGHPort2>
+            <Field-DSGHPort3/>
+            <Field-TransType/>
+            <Field-TransInd/>
+            <Field-SealNo/>
+            <Field-UltiDest/>
+            <Field-OLFront/>
+            <Field-OLBack/>
+            <Field-OWLeft/>
+            <Field-OWRight/>
+            <Field-OHeight/>
+            <Field-InslotOperCode>OR</Field-InslotOperCode>
+            <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
+            <Field-SecondCarrier>COSCO SHIPPING SOLAR</Field-SecondCarrier>
+            <Field-CargoDesc>Frozen Fish</Field-CargoDesc>
+            <Field-RULabel/>
+            <Field-DG>N</Field-DG>
+            <Field-TSHStatus>Y</Field-TSHStatus>
+            <Field-OpenTsStatus>N</Field-OpenTsStatus>
+            <Field-ArrExtVoy>219S</Field-ArrExtVoy>
+            <Field-ArrVslCallSign>3EQH4</Field-ArrVslCallSign>
+            <Field-ArrVslName>KUO TAI</Field-ArrVslName>
+            <Field-HaulierCde></Field-HaulierCde>
+            <Field-VGM>34400</Field-VGM>
+            <Field-VGMReferenceNumber/>
+            <Field-VGMWeightedMethod>Method1</Field-VGMWeightedMethod>
+            <Field-VGMWeightedDate></Field-VGMWeightedDate>
+            <Field-VGMAuthorizedOfficial/>
+            <Field-DirectDelivery/>
+        </Record-ContainerRec>
+    </GroupRecord-Container_Group>
+    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
+        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
+            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
+            <Field-CntNo>OOLU6443390</Field-CntNo>
+            <Field-BookingNo>OOLU6443390</Field-BookingNo>
+            <Field-Service>YSS</Field-Service>
+            <Field-Vessel>KUT</Field-Vessel>
+            <Field-Voyage>219South</Field-Voyage>
+            <Field-ExtVoyNo>011W</Field-ExtVoyNo>
+            <Field-LoadPort>MMMI9</Field-LoadPort>
+            <Field-SizeType>40RQ</Field-SizeType>
+            <Field-FullEmpty>F</Field-FullEmpty>
+            <Field-GrossWt/>
+            <Field-ReeferTempMax/>
+            <Field-TempSetting>-018.00</Field-TempSetting>
+            <Field-TempUnit>C</Field-TempUnit>
+            <Field-SpecialInst1/>
+            <Field-SpecialInst2/>
+            <Field-SpecialInst3/>
+            <Field-SpecialInst4/>
+            <Field-SpecialInst5/>
+            <Field-VentSet>0M</Field-VentSet>
+            <Field-IMCOClass1/>
+            <Field-IMCOClass2/>
+            <Field-IMCOClass3/>
+            <Field-IMCOClass4/>
+            <Field-IMCOClass5/>
+            <Field-IMCOClass6/>
+            <Field-IMCOClass7/>
+            <Field-IMCOClass8/>
+            <Field-IMCOClass9/>
+            <Field-DSGHPort1>AEJEA</Field-DSGHPort1>
+            <Field-DSGHPort2></Field-DSGHPort2>
+            <Field-DSGHPort3/>
+            <Field-TransType/>
+            <Field-TransInd/>
+            <Field-SealNo/>
+            <Field-UltiDest/>
+            <Field-OLFront/>
+            <Field-OLBack/>
+            <Field-OWLeft/>
+            <Field-OWRight/>
+            <Field-OHeight/>
+            <Field-InslotOperCode>OR</Field-InslotOperCode>
+            <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
+            <Field-SecondCarrier>COSCO SHIPPING SOLAR</Field-SecondCarrier>
+            <Field-CargoDesc>FROZEN FRESH WATER FISH</Field-CargoDesc>
+            <Field-RULabel/>
+            <Field-DG>N</Field-DG>
+            <Field-TSHStatus>Y</Field-TSHStatus>
+            <Field-OpenTsStatus>N</Field-OpenTsStatus>
+            <Field-ArrExtVoy>219S</Field-ArrExtVoy>
+            <Field-ArrVslCallSign>3EQH4</Field-ArrVslCallSign>
+            <Field-ArrVslName>KUO TAI</Field-ArrVslName>
+            <Field-HaulierCde></Field-HaulierCde>
+            <Field-VGM>32730</Field-VGM>
+            <Field-VGMReferenceNumber/>
+            <Field-VGMWeightedMethod>Method2</Field-VGMWeightedMethod>
+            <Field-VGMWeightedDate>202009200556</Field-VGMWeightedDate>
+            <Field-VGMAuthorizedOfficial/>
+            <Field-DirectDelivery/>
+        </Record-ContainerRec>
+    </GroupRecord-Container_Group>
+    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
+        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
+            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
+            <Field-CntNo>OOLU6280349</Field-CntNo>
+            <Field-BookingNo>2648157310</Field-BookingNo>
+            <Field-Service>YSS</Field-Service>
+            <Field-Vessel>KUT</Field-Vessel>
+            <Field-Voyage>219South</Field-Voyage>
+            <Field-ExtVoyNo>046W</Field-ExtVoyNo>
+            <Field-LoadPort>MMMI9</Field-LoadPort>
+            <Field-SizeType>40RQ</Field-SizeType>
+            <Field-FullEmpty>F</Field-FullEmpty>
+            <Field-GrossWt/>
+            <Field-ReeferTempMax/>
+            <Field-TempSetting>-018.00</Field-TempSetting>
+            <Field-TempUnit>C</Field-TempUnit>
+            <Field-SpecialInst1/>
+            <Field-SpecialInst2/>
+            <Field-SpecialInst3/>
+            <Field-SpecialInst4/>
+            <Field-SpecialInst5/>
+            <Field-VentSet>0M</Field-VentSet>
+            <Field-IMCOClass1/>
+            <Field-IMCOClass2/>
+            <Field-IMCOClass3/>
+            <Field-IMCOClass4/>
+            <Field-IMCOClass5/>
+            <Field-IMCOClass6/>
+            <Field-IMCOClass7/>
+            <Field-IMCOClass8/>
+            <Field-IMCOClass9/>
+            <Field-DSGHPort1>SAJED</Field-DSGHPort1>
+            <Field-DSGHPort2></Field-DSGHPort2>
+            <Field-DSGHPort3/>
+            <Field-TransType/>
+            <Field-TransInd/>
+            <Field-SealNo>OOLGDH1466</Field-SealNo>
+            <Field-UltiDest/>
+            <Field-OLFront/>
+            <Field-OLBack/>
+            <Field-OWLeft/>
+            <Field-OWRight/>
+            <Field-OHeight/>
+            <Field-InslotOperCode>OR</Field-InslotOperCode>
+            <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
+            <Field-SecondCarrier>COSCO FAITH</Field-SecondCarrier>
+            <Field-CargoDesc>FROZEN SEA &amp; RIVERE WATER WILD CAUGHT FISH</Field-CargoDesc>
+            <Field-RULabel/>
+            <Field-DG>N</Field-DG>
+            <Field-TSHStatus>Y</Field-TSHStatus>
+            <Field-OpenTsStatus>N</Field-OpenTsStatus>
+            <Field-ArrExtVoy>219S</Field-ArrExtVoy>
+            <Field-ArrVslCallSign>3EQH4</Field-ArrVslCallSign>
+            <Field-ArrVslName>KUO TAI</Field-ArrVslName>
+            <Field-HaulierCde></Field-HaulierCde>
+            <Field-VGM>32600</Field-VGM>
+            <Field-VGMReferenceNumber/>
+            <Field-VGMWeightedMethod>Method2</Field-VGMWeightedMethod>
+            <Field-VGMWeightedDate>202009200552</Field-VGMWeightedDate>
+            <Field-VGMAuthorizedOfficial/>
+            <Field-DirectDelivery/>
+        </Record-ContainerRec>
+    </GroupRecord-Container_Group>
+    <GroupRecord-Container_Group ID="Container_Group" Name="Container_Group" Type="GroupRecord">
+        <Record-ContainerRec ID="ContainerRec" Name="ContainerRec" Type="Record">
+            <Field-CntRecordType>COPRAR1</Field-CntRecordType>
+            <Field-CntNo>OOLU6246766</Field-CntNo>
+            <Field-BookingNo>OOLU6246766</Field-BookingNo>
+            <Field-Service>YSS</Field-Service>
+            <Field-Vessel>KUT</Field-Vessel>
+            <Field-Voyage>219South</Field-Voyage>
+            <Field-ExtVoyNo>011W</Field-ExtVoyNo>
+            <Field-LoadPort>MMMI9</Field-LoadPort>
+            <Field-SizeType>40RQ</Field-SizeType>
+            <Field-FullEmpty>F</Field-FullEmpty>
+            <Field-GrossWt/>
+            <Field-ReeferTempMax/>
+            <Field-TempSetting>-018.00</Field-TempSetting>
+            <Field-TempUnit>C</Field-TempUnit>
+            <Field-SpecialInst1/>
+            <Field-SpecialInst2/>
+            <Field-SpecialInst3/>
+            <Field-SpecialInst4/>
+            <Field-SpecialInst5/>
+            <Field-VentSet>0M</Field-VentSet>
+            <Field-IMCOClass1/>
+            <Field-IMCOClass2/>
+            <Field-IMCOClass3/>
+            <Field-IMCOClass4/>
+            <Field-IMCOClass5/>
+            <Field-IMCOClass6/>
+            <Field-IMCOClass7/>
+            <Field-IMCOClass8/>
+            <Field-IMCOClass9/>
+            <Field-DSGHPort1>SADM1</Field-DSGHPort1>
+            <Field-DSGHPort2></Field-DSGHPort2>
+            <Field-DSGHPort3/>
+            <Field-TransType/>
+            <Field-TransInd/>
+            <Field-SealNo/>
+            <Field-UltiDest/>
+            <Field-OLFront/>
+            <Field-OLBack/>
+            <Field-OWLeft/>
+            <Field-OWRight/>
+            <Field-OHeight/>
+            <Field-InslotOperCode>OR</Field-InslotOperCode>
+            <Field-OutSlotOperCode>OR</Field-OutSlotOperCode>
+            <Field-SecondCarrier>COSCO SHIPPING SOLAR</Field-SecondCarrier>
+            <Field-CargoDesc>Frozen Fish</Field-CargoDesc>
+            <Field-RULabel/>
+            <Field-DG>N</Field-DG>
+            <Field-TSHStatus>Y</Field-TSHStatus>
+            <Field-OpenTsStatus>N</Field-OpenTsStatus>
+            <Field-ArrExtVoy>219S</Field-ArrExtVoy>
+            <Field-ArrVslCallSign>3EQH4</Field-ArrVslCallSign>
+            <Field-ArrVslName>KUO TAI</Field-ArrVslName>
+            <Field-HaulierCde></Field-HaulierCde>
+            <Field-VGM>32610</Field-VGM>
+            <Field-VGMReferenceNumber/>
+            <Field-VGMWeightedMethod>Method2</Field-VGMWeightedMethod>
+            <Field-VGMWeightedDate>202009200554</Field-VGMWeightedDate>
             <Field-VGMAuthorizedOfficial/>
             <Field-DirectDelivery/>
         </Record-ContainerRec>
