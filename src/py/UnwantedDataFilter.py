@@ -1,4 +1,4 @@
-def filterDict(dataDict, comparingDataDict):
+def filterDicts(dataDict, comparingDataDict):
     toReturnDataDict = {}
     for key in dataDict:
         if key in comparingDataDict:

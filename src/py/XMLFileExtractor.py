@@ -2,7 +2,8 @@ import os, glob
 import xmltodict
 
 from lxml import etree
-from JsonExtractor import extractJson
+from src.py.JsonExtractor import extractJson
+
 
 def merge(dict1, dict2):
     res = {**dict1, **dict2}
@@ -26,5 +27,5 @@ def extractXml(folder_path):
                                             , xml_attribs=True)
                 newTliDataDict = merge(newTliDataDict, extractJson(json_data))
             except:
-                print ("An exception occured")
+                print("An exception occured")
     return newTliDataDict
