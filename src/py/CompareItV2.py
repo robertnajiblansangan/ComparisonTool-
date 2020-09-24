@@ -2,8 +2,8 @@ from datetime import datetime
 
 import deepdiff
 import pandas as pd
-from UnwantedDataFilter import filterDicts
-from XMLFileExtractor import extractXml
+from src.py.UnwantedDataFilter import filterDicts
+from src.py.XMLFileExtractor import extractXml
 
 
 def compareIt(PSA_FOLDER_PATH, PSA2_FOLDER_PATH):
