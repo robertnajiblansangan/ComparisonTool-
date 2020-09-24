@@ -2,7 +2,7 @@ import os, glob
 import xmltodict
 
 from lxml import etree
-from src.py.JsonExtractor import extractJson
+from JsonExtractor import extractJson
 
 
 def merge(dict1, dict2):
