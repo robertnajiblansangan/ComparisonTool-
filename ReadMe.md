@@ -3,6 +3,9 @@ To Install Dependencies:
 2. Open CMD
 3. Type: `pip install -r requirements.txt`
 4. Hit Enter to install required dependencies
+5. Type `setx PYTHONPATH  "%cd%" /m` NOTE: you should be on the directory where this project stored. 
+4. Hit Enter to set your PYTHONPATH in path variable.
+
 
 To Use the tool
 1. Fill the XMLSource1 and XMLSource2 Folder of XMLs to compare
